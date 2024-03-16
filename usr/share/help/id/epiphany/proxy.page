@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="proxy" xml:lang="epiphany-id">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.15" date="2014-11-26" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Meramban web anonim Anda dengan menggunakan proksi web.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kukuh Syafaat</mal:name>
+      <mal:email>syafaatkukuh@gmail.com</mal:email>
+      <mal:years>2019.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Andika Triwidada</mal:name>
+      <mal:email>andika@gmail.com</mal:email>
+      <mal:years>2020.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Menggunakan proksi</title>
+
+  <p>Anda dapat menggunakan peladen proksi untuk meramban web. Untuk menggunakan proksi web saat meramban, Anda perlu <link href="help:gnome-help/net-proxy">Atur GNOME <gui>Jaringan</gui> panel pengaturan</link>.</p>
+
+</page>

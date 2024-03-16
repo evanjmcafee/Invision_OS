@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-cookies" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Come eliminare i cookie del browser?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Eliminare un cookie</title>
+
+  <!-- Include an explanation about cookies. -->
+  <include xmlns="http://www.w3.org/2001/XInclude" href="cookies.xml" xpointer="xmlns(mal=http://projectmallard.org/1.0/)xpointer(/mal:page/mal:p)"/>
+
+  <p>Si può controllare se un sito ha lasciato un cookie ed eliminarlo, ma bisogna tener conto che i siti web, solitamente, installeranno di nuovo lo stesso cookie se li si visiterà ancora.</p>
+
+  <steps>
+    <item>
+      <p>Premere il pulsante del menù in alto a destra della finestra e selezionare <guiseq><gui style="menuitem">Preferenze</gui><gui style="tab">Privacy</gui><gui style="button">Pulisci dati personali</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Scegliere i cookie da eliminare. Si può selezionare Cookie per eliminare i cookie da tutti i domini in una sola volta, oppure selezionarne individualmente solo alcuni.</p>
+    </item>
+    <item>
+      <p>Premere <gui style="button">Pulisci dati</gui>.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>Se si desidera eliminare i cookie che un sito ha salvato, potrebbe interessare anche eliminare gli <link xref="data-personal-data">altri dati personali salvati da quel sito</link>.</p>
+  </note>
+
+</page>

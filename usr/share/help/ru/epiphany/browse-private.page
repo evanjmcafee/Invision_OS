@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-ru">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Екатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Что такое режим <em>инкогнито</em>?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Stas Solovey</mal:name>
+      <mal:email>whats_up@tut.by</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alexey Rubtsov</mal:name>
+      <mal:email>rushills@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Приватный просмотр</title>
+
+  <p>Приватный просмотр - это режим, который ограничивает доступ компьютера и веб-сайтов к информации о вашем просмотре. Он полезен, если вы хотите одолжить свой компьютер другу, например, для проверки его электронной почты с помощью веб-почты, поскольку в окне приватного просмотра вы не будете заходить на веб-сайты, и их информация не будет сохранена. Вы можете предпочесть использовать режим инкогнито для доступа к конфиденциальным веб-сайтам, таким как интернет-банкинг и <link href="http://questionablecontent.net/">сомнительное содержимое</link>, поскольку данные, которые веб-сайты ранее сохранили на вашем компьютере, не будут доступны веб-сайтам при просмотре в режиме инкогнито.</p>
+
+  <note style="important">
+    <p>Режим инкогнито не помешает веб-сайтам отслеживать вашу активность в Интернете. Если вам нужно просматривать веб-страницы анонимно, воспользуйтесь коммерческой службой VPN.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Откройте меню в правом верхнем углу окна и выберите пункт <guiseq><gui style="menuitem">Новое окно инкогнито</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Просматривайте веб-страницы в режиме инкогнито.</p>
+    </item>
+    <item>
+      <p>Завершите сеанс приватного просмотра, закрыв окно инкогнито.</p>
+    </item>
+  </steps>
+
+  <p>Отличить приватный просмотр от обычного можно по водяному знаку окна инкогнито:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Снимок экрана, показывающий окно частного просмотра без открытых вкладок.</p>
+  </media>
+
+</page>

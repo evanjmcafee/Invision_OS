@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-de">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Webseiten im Internet mit der Maus ansehen.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Christian Kirbach</mal:name>
+      <mal:email>christian.kirbach@gmail.com</mal:email>
+      <mal:years>2013, 2014, 2015, 2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Benjamin Steinwender</mal:name>
+      <mal:email>b@stbe.at</mal:email>
+      <mal:years>2014, 2015</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Tim Sabsch</mal:name>
+      <mal:email>tim@sabsch.com</mal:email>
+      <mal:years>2019, 2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Mausgesten verwenden</title>
+
+  <p>Mouse gestures offer a quick option to surf web pages without moving your hand to the keyboard.
+  These gestures are triggered by holding the middle mouse button while performing one of the
+  following mouse movements. If your mouse does not have a middle mouse button, you cannot use mouse
+  gestures.</p>
+
+  <steps>
+    <item>
+      <p>Press the menu button in the top-right corner of the window and select
+      <guiseq><gui style="menuitem">Preferences</gui>
+      <gui style="tab">General</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Under <gui>Browsing</gui>, switch on <gui style="button">Mouse Gestures</gui>.</p>
+    </item>
+  </steps>
+
+  <p>The following gestures are currently supported:</p>
+
+  <list>
+    <item>
+      <p>Mittlere Maustaste gedrückt halten, nach links ziehen und dann die Maustaste loslassen: Zur vorherigen Seite wechseln.</p>
+    </item>
+    <item>
+      <p>Mittlere Maustaste gedrückt halten, nach rechts ziehen und dann die Maustaste loslassen: Zur nächsten Seite wechseln.</p>
+    </item>
+    <item>
+      <p>Mittlere Maustaste gedrückt halten, nach unten ziehen und dann die Maustaste loslassen: Neuen Reiter anlegen.</p>
+    </item>
+    <item>
+      <p>Mittlere Maustaste gedrückt halten, nach unten und dann rechts ziehen und dann die Maustaste loslassen: Den aktuellen Reiter schließen.</p>
+    </item>
+    <item>
+      <p>Mittlere Maustaste gedrückt halten, nach oben und dann unten ziehen und dann die Maustaste loslassen: Den aktuellen Reiter neu laden.</p>
+    </item>
+  </list>
+
+</page>

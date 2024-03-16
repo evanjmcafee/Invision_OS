@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-css" xml:lang="epiphany-uk">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Єкатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Перевизначення теми, яку використано для показу вебсторінок.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Юрій Чорноіван</mal:name>
+      <mal:email>yurchor@ukr.net</mal:email>
+      <mal:years>2020</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Нетипова CSS</title>
+
+  <p><app>Тенета</app> надають вам змогу встановити нетиповий файл CSS для зміни вигляду і поведінки кожної відвіданої вами сторінки. Потреба у такій зміні може виникнути для встановлення бажаного для вас розміру шрифтів або схеми кольорів.</p>
+
+  <steps>
+    <item>
+      <p>Натисніть кнопку меню у верхньому правому куті вікна і виберіть <guiseq><gui style="menuitem">Параметри</gui><gui style="tab">Вигляд</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>У розділі «Стиль» увімкніть пункт <gui>Використовувати нетипову таблицю стилів</gui>.</p>
+    </item>
+    <item>
+      <p>Натисніть піктограму ручки.</p>
+    </item>
+    <item>
+      <p>Буде відкрито типовий текстовий редактор системи. Додайте ваш нетиповий код CSS і збережіть файл.</p>
+    </item>
+  </steps>
+
+  <p>Приклад нетипового CSS:</p>
+  <code>
+body{
+    /*Make everything upside-down*/
+    -webkit-transform: rotate(180deg);
+}
+</code>
+
+  <p>Ваш нетиповий код CSS перевизначить таблицю стилів на сторінках, які ви відвідуватимете після увімкнення нової таблиці стилів.</p>
+
+</page>

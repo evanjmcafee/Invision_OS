@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-uk">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Єкатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Що таке <em>конфіденційний</em> режим?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Юрій Чорноіван</mal:name>
+      <mal:email>yurchor@ukr.net</mal:email>
+      <mal:years>2020</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Режим конфіденційності</title>
+
+  <p>Конфіденційний режим — режим, у якому обмежується доступ до даних щодо перегляду сторінок для решти програм вашого комп'ютера та для сайтів, які ви відвідуєте. Цей режим буде корисним, якщо ви, наприклад, хочете позичити комп'ютер другові або подрузі для перевірки пошти у їхній поштовій скриньці, оскільки у режимі конфіденційного перегляду не враховуватиметься ваш вхід до облікових записів на різних сайтах, а з іншого боку, введені ними реєстраційні дані також не зберігатимуться. Конфіденційному режиму варто надавати перевагу, коли ви відвідуєте чутливі до конфіденційності сайти, зокрема сайти інтернет-банкінгу та сайти із <link href="http://questionablecontent.net/">проблемним вмістом</link>, оскільки у конфіденційному режимі сайтам, які ви відвідуєте, будуть недоступні дані, які було раніше збережено на вашому комп'ютері.</p>
+
+  <note style="important">
+    <p>Конфіденційний режим не може запобігти сайтам стежити за вашими діями з перегляду сторінок. Якщо ви хочете справжньої анонімності в інтернеті, вам варто скористатися комерційною службою VPN.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Натисніть кнопку меню у верхньому правому куті вікна програми і виберіть пункт <guiseq><gui style="menuitem">Конфіденційне вікно</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Переглядайте сторінок у конфіденційному режимі.</p>
+    </item>
+    <item>
+      <p>Завершіть сеанс конфіденційного перегляду закриттям конфіденційного вікна.</p>
+    </item>
+  </steps>
+
+  <p>Відрізнити режим конфіденційного перегляду від звичайного режиму можна за «водяним» знаком на вікні конфіденційного режиму:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Знімок вікна конфіденційного перегляду без відкритих вкладок.</p>
+  </media>
+
+</page>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-css" xml:lang="epiphany-id">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Mengganti tema yang digunakan untuk menampilkan laman web.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kukuh Syafaat</mal:name>
+      <mal:email>syafaatkukuh@gmail.com</mal:email>
+      <mal:years>2019.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Andika Triwidada</mal:name>
+      <mal:email>andika@gmail.com</mal:email>
+      <mal:years>2020.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>CSS kustom</title>
+
+  <p><app>Web</app> memungkinkan Anda mengatur CSS kustom untuk mengubah tampilan dan nuansa dari setiap laman web yang Anda kunjungi. Anda mungkin ingin melakukan hal ini untuk menetapkan ukuran fonta atau skema warna.</p>
+
+  <steps>
+    <item>
+      <p>Tekan tombol menu di pojok kanan atas jendela dan pilih <guiseq><gui style="menuitem">Preferensi</gui><gui style="tab">Penampilan</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Di bawah bagian Gaya, aktifkan <gui>Gunakan Lembar Gaya Ubahan</gui>.</p>
+    </item>
+    <item>
+      <p>Klik pada ikon pena.</p>
+    </item>
+    <item>
+      <p>Teks editor bawaan Anda akan terbuka. Tambahkan CSS kustom Anda dan simpan berkas.</p>
+    </item>
+  </steps>
+
+  <p>Contoh dari CSS kustom:</p>
+  <code>
+body{
+    /*Buat semuanya terbalik*/
+    -webkit-transform: rotate(180deg);
+}
+</code>
+
+  <p>CSS kustom Anda akan menimpa style sheet pada laman yang Anda kunjungi setelah Anda mengaktifkannya.</p>
+
+</page>

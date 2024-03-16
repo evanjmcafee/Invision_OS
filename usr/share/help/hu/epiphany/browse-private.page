@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-hu">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Mi az az <em>inkognitó</em> mód?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Hammer Attila</mal:name>
+      <mal:email>hammera at pickup dot hu</mal:email>
+      <mal:years>2014.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kelemen Gábor</mal:name>
+      <mal:email>kelemeng at gnome dot hu</mal:email>
+      <mal:years>2013, 2015.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Úr Balázs</mal:name>
+      <mal:email>ur dot balazs at fsf dot hu</mal:email>
+      <mal:years>2014, 2021.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Privát böngészés</title>
+
+  <p>A privát böngészés mód korlátozza a böngészési információk számítógép és a weboldalak általi elérését. Akkor hasznos, ha kölcsön szeretné adni számítógépét egy barátjának egy rövid időre, például hogy megnézhesse e-mailjeit egy webes levelező felületen. Ekkor a privát böngészési ablakban egyetlen másik weboldalra sem lesz bejelentkezve, és információk sem kerülnek mentésre. Az inkognitó módot használná az érzékeny webhelyek – például internetes banki szolgáltatások – és <link href="http://questionablecontent.net/">megkérdőjelezhető tartalmak</link> elérésére, mert a weboldalak által korábban a számítógépére mentett adatok nem lesznek elérhetők más weboldalak számára, amikor inkognitó módban böngészik.</p>
+
+  <note style="important">
+    <p>Az inkognitó mód nem akadályozza meg, hogy a webhelyek nyomon kövessék a böngészési tevékenységét. Ha névtelenül szeretne böngésznie a weben, akkor használjon kereskedelmi VPN szolgáltatást.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Nyomja meg az ablak jobb felső sarkában lévő menügombot, és válassza az <guiseq><gui style="menuitem">Új inkognitóablak</gui></guiseq> menüpontot.</p>
+    </item>
+    <item>
+      <p>Böngéssze a webet inkognitó módban.</p>
+    </item>
+    <item>
+      <p>Fejezze be a privát böngészési munkamenetet az inkognitóablak bezárásával.</p>
+    </item>
+  </steps>
+
+  <p>A privát böngészést a normálistól az inkognitóablakban használt vízjel segítségével különböztetheti meg:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Egy megnyitott lapok nélküli, privát böngészőablakot megjelenítő képernyőkép.</p>
+  </media>
+
+</page>

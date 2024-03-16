@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-personal-data" xml:lang="epiphany-da">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Michael Catanzaro</name>
+      <email its:translate="no">mcatanzaro@gnome.org</email>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Hvordan sletter jeg personlige data som er blevet gemt af websteder?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Slet personlige data</title>
+
+  <p><app>Web</app> giver dig mulighed for at slette personlige data, som webstederne har gemt.</p>
+
+  <p><link xref="data-personal-data">Lær at slette browsercookies.</link></p>
+
+  <p>Slet andre personlige data:</p>
+
+  <steps>
+    <item>
+      <p>Tryk på menuknappen i øverste højre hjørne af vinduet og vælg <guiseq><gui style="menuitem">Indstillinger</gui><gui style="tab">Privatliv</gui><gui style="button">Ryd personlige data</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Vælg de typer af gemt data, som du vil slette, og valgfrit begrænse slettehandlingen til de valgte domæner.</p>
+    </item>
+    <item>
+      <p>Tryk på <gui style="button">Ryd data</gui>.</p>
+    </item>
+  </steps>
+</page>

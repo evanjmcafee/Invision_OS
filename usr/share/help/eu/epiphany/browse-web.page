@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-web" xml:lang="epiphany-eu">
+
+  <info>
+    <link type="guide" xref="index#start" group="#first"/>
+    <link type="seealso" xref="browse-private"/>
+    <link type="seealso" xref="browse-local"/>
+    <revision pkgversion="3.9" date="2013-06-30" status="incomplete"/>
+    <revision pkgversion="3.15" date="2014-12-02" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013, 2014</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Bistaratu interneteko web-orriak</desc>
+  </info>
+
+  <title>Arakatu weba</title>
+
+  <p>Web-nabigatzaileak interneteko orriak ikusteko erabili daitezke, betiere interneteko konexioa baduzu. Weba arakatzen hasteko:</p>
+
+  <steps>
+    <item>
+      <p><app xref="introduction">Weba</app> abiarazten denean, kurtsorea leihoaren goiko aldeko testu-sarrerako eremuan agertuko da. Idatzi bisitatu nahi duzun web-orriaren URLa edo bilaketa-termino bat.</p>
+    </item>
+    <item>
+      <p>Sakatu 'Enter' web-orrira joateko edo bilaketa gauzatzeko.</p>
+    </item>
+  </steps>
+
+  <p xml:id="tabs"><em>Fitxak</em> web-orri anitz leiho bakarrean ikusteko erabiltzen dira. <app>Weba</app> abiarazten duzunean ez duzu fitxarik ikusiko. <em>Fita berria irekitzeko</em>, sakatu fitxa berriak sortzeko botoia, pantailaren goian ezkerrean dagoena. Fitxa berria ireki ondoren, leiho berri bat erabiliko zenukeen modu berean erabili dezakezu.</p>
+
+  <p xml:id="tabs-alt"><keyseq><key>Ctrl</key><key>T</key></keyseq> lasterbidea ere erabili daiteke fitxa berria edo leihoaren goiko ezkerreko fitxa berriaren botoia irekitzeko.</p>
+
+  <p xml:id="tabs-link"><em>Esteka bat fitxa berrian irekitzeko</em>, egin eskuineko klik estekan, hautatu <gui style="menuitem">Ireki esteka fitxa berrian</gui> edo erabili saguaren erdiko botoia estekaren gainean klik egiteko.</p>
+
+</page>

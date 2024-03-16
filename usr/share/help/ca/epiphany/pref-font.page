@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-font" xml:lang="epiphany-ca">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Utilitzeu un tipus de lletra personalitzat per a la visualització de pàgines web.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marieta Lalu</mal:name>
+      <mal:email>marisetta.sakura@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Laia dg</mal:name>
+      <mal:email>laia.dolc@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jaume Jorba</mal:name>
+      <mal:email>jaume.jorba@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Assumpta</mal:name>
+      <mal:email>assumptaanglada@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jordi Mas</mal:name>
+      <mal:email>jmas@softcatala.org</mal:email>
+      <mal:years>2019, 2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Canviar el tipus de lletra</title>
+
+  <p>Per defecte, sempre que sigui possible es farà servir el tipus de lletra per defecte del vostre sistema per a mostrar les pàgines web. Es tindrà en compte si utilitzeu l'opció d'accessibilitat <gui href="help:gnome-help/a11y-font-size">Text gran</gui>. Ho podeu canviar i utilitzar tipus de lletra diferents per a veure els llocs web.</p>
+
+  <steps>
+    <item>
+      <p>Premeu el botó de menú a la cantonada superior dreta de la finestra i seleccioneu <guiseq><gui style="menuitem">Preferències</gui><gui style="tab">Aparença</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Marqueu la casella de selecció <gui>Utilitza tipus de lletra personalitzats</gui>.</p>
+    </item>
+    <item>
+      <p>Feu clic al tipus de lletra per a obrir el diàleg del selector de tipus de lletra, on podreu seleccionar un tipus o una mida de lletra diferents.</p>
+    </item>
+    <item>
+      <p>Premeu <gui style="button">Selecciona</gui> per a desar la vostra selecció.</p>
+    </item>
+  </steps>
+
+  <p>També podeu augmentar la mida de la lletra amb <keyseq><key>Ctrl</key><key>+</key></keyseq> i disminuir-la amb <keyseq><key>Ctrl</key><key>-</key></keyseq>.</p>
+
+</page>

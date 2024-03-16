@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="prob-restore-closed-page" xml:lang="epiphany-tr">
+
+  <info>
+    <link type="guide" xref="index#prob"/>
+    <revision pkgversion="3.12" date="2014-02-24" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Yanlışlıkla kapattığım web sayfasını yeniden açmak istiyorum.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Sabri Ünal</mal:name>
+      <mal:email>libreajans@gmail.com</mal:email>
+      <mal:years>2021.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Emin Tufan Çetin</mal:name>
+      <mal:email>etcetin@gmail.com</mal:email>
+      <mal:years>2021, 2022.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Sekmeyi nasıl yeniden açabilirim?</title>
+
+  <p>En az bir <app>Web</app> açık olduğu sürece kapattığınız sayfaları geri yükleyebilirsiniz.</p>
+
+  <steps>
+    <item>
+      <p>Pencerenin sağ üst köşesindeki menü düğmesine basıp <gui style="menuitem">Kapatılan Sekmeyi Yeniden Aç</gui>’ı seçin. Son kapattığınız sekme yeniden açılır.</p>
+    </item>
+  </steps>
+
+  <p>İstediğiniz sekme geri yüklenene dek adımı gerektiğince yineleyin. Sekmeler, kapatma biçiminizin tersi sırayla geri yüklenecektir. Tüm kapalı sekmeleri geri yükledikten sonra daha çok sekmeyi geri yükleyemezsiniz.</p>
+
+  <note style="important">
+    <p><link xref="browse-private">Gizli tarama</link> kipinde kapatılan sekmeler geri yüklenemez.</p>
+  </note>
+
+</page>

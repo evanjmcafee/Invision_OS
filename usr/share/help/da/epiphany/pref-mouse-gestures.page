@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-da">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Naviger websider med musen.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Brug musebevægelser</title>
+
+  <p>Musebevægelser giver en hurtig måde til at surfe websider uden at flytte din hånd til tastaturet. Bevægelserne udløses ved at holde den midterste museknap nede mens musen flyttes på en af følgende måder. Hvis din mus ikke har en knap i midten, så kan du ikke bruge musebevægelser.</p>
+
+  <steps>
+    <item>
+      <p>Tryk på menuknappen i øverste højre hjørne af vinduet og vælg <guiseq><gui style="menuitem">Indstillinger</gui> <gui style="tab">Generelt</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Under <gui>Browsing</gui> tændes for <gui style="button">Musebevægelser</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Følgende bevægelser understøttes i øjeblikket:</p>
+
+  <list>
+    <item>
+      <p>Naviger tilbage ved at holde den midterste museknap nede og trække til venstre, og så slippe den midterste museknap.</p>
+    </item>
+    <item>
+      <p>Naviger fremad ved at holde den midterste museknap nede og trække til højre, og så slippe den midterste museknap.</p>
+    </item>
+    <item>
+      <p>Opret et nyt faneblad ved at holde den midterste museknap nede og trække nedad, og så slippe den midterste museknap.</p>
+    </item>
+    <item>
+      <p>Luk det nuværende faneblad ved at holde den midterste museknap nede og trække nedad og så til højre, og så slippe den midterste museknap.</p>
+    </item>
+    <item>
+      <p>Genindlæs det nuværende faneblad ved at holde den midterste museknap nede og først trække opad og så nedad, og så slippe den midterste museknap.</p>
+    </item>
+  </list>
+
+</page>

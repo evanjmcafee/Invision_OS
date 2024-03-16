@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-personal-data" xml:lang="epiphany-tr">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Michael Catanzaro</name>
+      <email its:translate="no">mcatanzaro@gnome.org</email>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Web sitelerince saklanan kişisel verileri nasıl silerim?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Sabri Ünal</mal:name>
+      <mal:email>libreajans@gmail.com</mal:email>
+      <mal:years>2021.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Emin Tufan Çetin</mal:name>
+      <mal:email>etcetin@gmail.com</mal:email>
+      <mal:years>2021, 2022.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Kişisel verileri sil</title>
+
+  <p><app>Web</app> web sitelerince saklanan kişisel verileri silmenize izin verir.</p>
+
+  <p><link xref="data-personal-data">Tarayıcı çerezlerini nasıl sileceğinizi öğrenin.</link></p>
+
+  <p>Diğer kişisel verileri silmek için:</p>
+
+  <steps>
+    <item>
+      <p>Pencerenin sağ üst köşesindeki menü düğmesine basıp <guiseq><gui style="menuitem">Tercihler</gui><gui style="tab">Güvenlik</gui><gui style="button">Kişisel Veriyi Temizle</gui></guiseq>’yi seçin.</p>
+    </item>
+    <item>
+      <p>Silmek istediğiniz saklanan veri türlerini seçin ve isteğe bağlı olarak silme eylemini seçili alanlarla sınırlandırın.</p>
+    </item>
+    <item>
+      <p><gui style="button">Veriyi Temizle</gui>’ye basın.</p>
+    </item>
+  </steps>
+</page>

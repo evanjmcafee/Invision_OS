@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="history" xml:lang="epiphany-ca">
+
+  <info>
+    <link type="guide" xref="index#start"/>
+    <link type="seealso" xref="history-delete"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Per què veieu una llista de pàgines web quan comenceu a escriure a la barra d'adreces?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marieta Lalu</mal:name>
+      <mal:email>marisetta.sakura@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Laia dg</mal:name>
+      <mal:email>laia.dolc@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jaume Jorba</mal:name>
+      <mal:email>jaume.jorba@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Assumpta</mal:name>
+      <mal:email>assumptaanglada@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jordi Mas</mal:name>
+      <mal:email>jmas@softcatala.org</mal:email>
+      <mal:years>2019, 2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Historial de navegació</title>
+
+  <p>Es desa automàticament l’historial de navegació, les pàgines web que heu visitat, perquè pugueu tornar a aquestes pàgines més ràpidament.</p>
+
+  <p>Per a <em>cercar a l'historial</em>, comenceu a escriure el terme de cerca a la barra d'adreces i després feu clic al resultat correcte quan el veieu. La cerca inclourà el títol i l'URL de la pàgina, però no el contingut de la pàgina.</p>
+
+</page>

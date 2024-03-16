@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-ru">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ян-Майкл Бруммер (Jan-Michael Brummer)</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Навигация по веб-страницам с помощью мыши.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Stas Solovey</mal:name>
+      <mal:email>whats_up@tut.by</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alexey Rubtsov</mal:name>
+      <mal:email>rushills@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Используйте жесты мыши</title>
+
+  <p>Жесты мыши позволяют быстро просматривать веб-страницы, не перемещая руку к клавиатуре. Эти жесты вызываются удержанием средней кнопки мыши при выполнении одного из следующих движений мыши. Если у вашей мыши нет средней кнопки, вы не сможете использовать жесты мыши.</p>
+
+  <steps>
+    <item>
+      <p>Нажмите кнопку меню в правом верхнем углу окна и выберите пункт <guiseq><gui style="menuitem">Параметры</gui> <gui style="tab">Общие</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>В разделе <gui>Просмотр</gui> включите <gui style="button">Жесты мыши</gui>.</p>
+    </item>
+  </steps>
+
+  <p>В настоящее время поддерживаются следующие жесты:</p>
+
+  <list>
+    <item>
+      <p>Удержание средней кнопки мыши, перетаскивание влево, а затем отпускание средней кнопки мыши приведет к перемещению назад.</p>
+    </item>
+    <item>
+      <p>Удержание средней кнопки мыши, перетаскивание вправо, а затем отпускание средней кнопки мыши приведет к перемещению вперед.</p>
+    </item>
+    <item>
+      <p>Удержание средней кнопки мыши, перетаскивание вниз, а затем отпускание средней кнопки мыши приведет к созданию новой вкладки.</p>
+    </item>
+    <item>
+      <p>Удержание средней кнопки мыши, перетаскивание вниз, затем вправо, а затем отпускание средней кнопки мыши приведет к закрытию текущей вкладки.</p>
+    </item>
+    <item>
+      <p>Удержание средней кнопки мыши, перетаскивание сначала вверх, затем вниз, а затем отпускание средней кнопки мыши приведет к перезагрузке текущей вкладки.</p>
+    </item>
+  </list>
+
+</page>

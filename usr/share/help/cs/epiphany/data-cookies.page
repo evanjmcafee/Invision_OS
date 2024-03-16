@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-cookies" xml:lang="epiphany-cs">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Jak v prohlížeči smazat cookies?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Adam Matoušek</mal:name>
+      <mal:email>adamatousek@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marek Černocký</mal:name>
+      <mal:email>marek@manet.cz</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Mazání cookie</title>
+
+  <!-- Include an explanation about cookies. -->
+  <include xmlns="http://www.w3.org/2001/XInclude" href="cookies.xml" xpointer="xmlns(mal=http://projectmallard.org/1.0/)xpointer(/mal:page/mal:p)"/>
+
+  <p>Můžete si zkontrolovat, jestli webové stránky zanechaly nějaké cookies a případně je smazat, ale mějte na paměti, že při následující návštěvě si ty samé cookies nejspíše nainstalují znovu.</p>
+
+  <steps>
+    <item>
+      <p>Zmáškněte tlačítko nabídky v pravém horním rohu okna a zvolte <guiseq><gui style="menuitem">Předvolby</gui><gui style="tab">Soukromí</gui><gui style="button">Vymazat osobních data</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Vyberte cookies, které chcete smazat. Můžete vybrat jen několik domén, nebo zaškrtnout <gui>Cookies</gui>, aby se vybraly naráz všechny domény.</p>
+    </item>
+    <item>
+      <p>Zmáčkněte <gui style="button">Vymazat data</gui>.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>Když chcete smazat cookies, které mají webové stránka uložené, nejspíše si přejete smazat i <link xref="data-personal-data">další data, které mají uložené</link>.</p>
+  </note>
+
+</page>

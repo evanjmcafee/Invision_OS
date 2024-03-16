@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-downloads" xml:lang="epiphany-pl">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="review"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Gdzie są pobrane pliki i jak to zmienić?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Piotr Drąg</mal:name>
+      <mal:email>piotrdrag@gmail.com</mal:email>
+      <mal:years>2017-2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Aviary.pl</mal:name>
+      <mal:email>community-poland@mozilla.org</mal:email>
+      <mal:years>2017-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Pobieranie plików</title>
+
+  <p>Pliki pobrane z Internetu, takie jak załączniki poczty, są automatycznie zapisywane w katalogu <file>Pobrane</file>. Można to zmienić w <gui>Preferencjach</gui>.</p>
+
+  <steps>
+    <item>
+      <p>Kliknij przycisk menu w górnym prawym rogu okna i wybierz <guiseq><gui style="menuitem">Preferencje</gui><gui style="tab">Ogólne</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Kliknij nazwę <gui>Katalogu pobierania</gui>, aby wybrać inny. Jeśli jakiegoś katalogu nie ma na liście, to kliknij <gui>Inny…</gui>, aby go wyszukać.</p>
+    </item>
+    <item>
+      <p>Jeśli przy każdym pobieraniu pliku ma być wybierany katalog, to włącz <gui>Pytanie podczas pobierania</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Jeśli plik zostanie <em>zapisany</em>, a nie pobrany, to nadal trzeba podać miejsce, w którym go zapisać.</p>
+
+  <note style="important">
+    <p>Jeśli <app>Przeglądarka WWW</app> jest używana jako pakiet Flatpak, to nie można wybrać, gdzie zapisywać pobierane pliki. Będą one zawsze zapisywane w katalogu <file>Pobrane</file>.</p>
+  </note>
+
+</page>

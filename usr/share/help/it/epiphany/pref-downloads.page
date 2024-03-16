@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-downloads" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="review"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Dove vengono scaricati i file, e come cambiare questa impostazione?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Scaricare file</title>
+
+  <p>I file scaricati da Internet, come gli allegati delle email, sono salvati automaticamente nella propria cartella <file>Scaricati</file>. Questa impostazione può essere cambiata nelle <gui>Preferenze</gui>.</p>
+
+  <steps>
+    <item>
+      <p>Premere il pulsante del menù in alto a destra della finestra, e selezionare <guiseq><gui style="menuitem">Preferenze</gui><gui style="tab">Generale</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Premere <gui>Cartella degli scaricamenti</gui> per scegliere una cartella diversa dove scaricare i file. Se la cartella desiderata non è nella lista, scegliere <gui>Altro…</gui> per cercarla.</p>
+    </item>
+    <item>
+      <p>Per scegliere la cartella di destinazione volta per volta quando si scarica un file, attivare l'interruttore <gui>Chiedere allo scaricamento</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Se si <em>salva</em> un file invece di scaricarlo, sarà comunque necessario specificare dove lo si vuole salvare.</p>
+
+  <note style="important">
+    <p>Non è possibile scegliere la cartella di destinazione degli scaricamenti se <app>Web</app> viene eseguito tramite Flatpak. I file scaricati saranno salvati sempre nella propria cartella <file>Scaricati</file>.</p>
+  </note>
+
+</page>

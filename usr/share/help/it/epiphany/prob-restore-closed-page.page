@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="prob-restore-closed-page" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index#prob"/>
+    <revision pkgversion="3.12" date="2014-02-24" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Riaprire una scheda chiusa per sbaglio.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Come ripristinare le schede?</title>
+
+  <p>È possibile ripristinare le schede chiuse finché almeno un'istanza di <app>Web</app> è ancora aperta.</p>
+
+  <steps>
+    <item>
+      <p>Premere il pulsante del menù in alto a destra nella finestra e selezionare <gui style="menuitem">Riapri scheda chiusa</gui>. L'ultima scheda chiusa verrà riaperta.</p>
+    </item>
+  </steps>
+
+  <p>Ripetere questo passo tante volte quante necessarie finché la scheda che si desidera viene riaperta. Le schede saranno ripristinate nell'ordine inverso in cui sono state chiuse. Una volta riaperte tutte le schede non sarà più possibile ripristinarne altre.</p>
+
+  <note style="important">
+    <p>Non è possibile ripristinare schede chiuse nella modalità di <link xref="browse-private">navigazione in incognito</link>.</p>
+  </note>
+
+</page>

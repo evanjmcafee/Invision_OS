@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-cookies" xml:lang="epiphany-hu">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Hogyan törölhetem a böngésző sütijeit?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Hammer Attila</mal:name>
+      <mal:email>hammera at pickup dot hu</mal:email>
+      <mal:years>2014.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kelemen Gábor</mal:name>
+      <mal:email>kelemeng at gnome dot hu</mal:email>
+      <mal:years>2013, 2015.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Úr Balázs</mal:name>
+      <mal:email>ur dot balazs at fsf dot hu</mal:email>
+      <mal:years>2014, 2021.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Süti törlése</title>
+
+  <!-- Include an explanation about cookies. -->
+  <include xmlns="http://www.w3.org/2001/XInclude" href="cookies.xml" xpointer="xmlns(mal=http://projectmallard.org/1.0/)xpointer(/mal:page/mal:p)"/>
+
+  <p>Ellenőrizheti, hogy hagyott-e sütit, és törölheti azt, de vegye figyelembe, hogy a webhelyek általában újra telepítik ugyanazt a sütit, ha újra meglátogatja az adott webhelyet.</p>
+
+  <steps>
+    <item>
+      <p>Nyomja meg az ablak jobb felső sarkában lévő menügombot, és válassza a <guiseq><gui style="menuitem">Beállítások</gui><gui style="tab">Adatvédelem</gui><gui style="button">Személyes adatok törlése</gui></guiseq> gombot.</p>
+    </item>
+    <item>
+      <p>Válassza ki a törölni kívánt sütiket. Bejelölhet csak néhány tartományt, vagy bejelölheti a Sütik jelölőnégyzetet az összes tartomány egyszerre történő kiválasztásához.</p>
+    </item>
+    <item>
+      <p>Nyomja meg az <gui style="button">Adatok törlése</gui> gombot.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>Ha törölni szeretné egy weboldal által tárolt sütiket, akkor valószínűleg az <link xref="data-personal-data">adott weboldal által tárolt egyéb adatokat</link> is törölni szeretné.</p>
+  </note>
+
+</page>

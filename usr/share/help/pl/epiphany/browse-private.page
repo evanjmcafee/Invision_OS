@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-pl">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Czym jest tryb <em>incognito</em>?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Piotr Drąg</mal:name>
+      <mal:email>piotrdrag@gmail.com</mal:email>
+      <mal:years>2017-2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Aviary.pl</mal:name>
+      <mal:email>community-poland@mozilla.org</mal:email>
+      <mal:years>2017-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Tryb prywatny</title>
+
+  <p>Tryb prywatny ogranicza komputerowi i stronom dostęp do informacji o przeglądaniu. Jest przydatny przy pożyczaniu komputera znajomym, ponieważ w trybie prywatnym logowania nie są pamiętane, a wpisane informacje nie są zapisywane. Można używać trybu incognito do przeglądania prywatnych stron, takich jak banki internetowe i kontrowersyjne treści, ponieważ dane poprzednio zapisane przez strony na komputerze nie są dostępne dla stron przeglądanych w tym trybie.</p>
+
+  <note style="important">
+    <p>Tryb incognito nie uniemożliwi stronom śledzenia działań użytkownika w Internecie. Aby przeglądać Internet anonimowo, należy użyć komercyjnej usługi VPN.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Kliknij przycisk menu w górnym prawym rogu okna i wybierz <guiseq><gui style="menuitem">Nowe okno incognito</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Przeglądanie Internetu w trybie incognito.</p>
+    </item>
+    <item>
+      <p>Zakończ tryb prywatny zamykając okno incognito.</p>
+    </item>
+  </steps>
+
+  <p>Można odróżnić tryb prywatny od zwykłego przez znak wodny w oknie incognito:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Okno w trybie prywatnym bez otwartych kart.</p>
+  </media>
+
+</page>

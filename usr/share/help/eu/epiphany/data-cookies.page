@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-cookies" xml:lang="epiphany-eu">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Nola ezabatu ditzaket nabigatzaileko cookie-ak?</desc>
+  </info>
+
+  <title>Ezabatu cookie bat</title>
+
+  <!-- Include an explanation about cookies. -->
+  <include xmlns="http://www.w3.org/2001/XInclude" href="cookies.xml" xpointer="xmlns(mal=http://projectmallard.org/1.0/)xpointer(/mal:page/mal:p)"/>
+
+  <p>Webgune batek cookie bat utzi duen begiratu daiteke eta hura ezabatu, baina kontuan izan webguneak cookie bera instalatuko duela berriro bertara sartzen bazara.</p>
+
+  <steps>
+    <item>
+      <p>Sakatu leihoaren goiko eskuineko izkinako menu-botoia eta hautatu <guiseq><gui style="menuitem">Hobespenak</gui> <gui style="menuitem">Pribatutasuna</gui><gui style="button">Garbitu datu pertsonalak</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Hautatu ezabatuko diren cookie-ak. Domeinuak banaka markatu ditzakezu edo 'Cookie-ak' markatu domeinu guztiak aldi berean hautatzeko.</p>
+    </item>
+    <item>
+      <p>Sakatu <gui style="button">Garbitu datuak</gui>.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>Webgune batek gorde dituen cookie-ak ezabatu nahi badituzu, ziur aski <link xref="data-personal-data">webgune horrek gordetako beste datu batzuk</link> ere ezabatu nahiko dituzu.</p>
+  </note>
+
+</page>

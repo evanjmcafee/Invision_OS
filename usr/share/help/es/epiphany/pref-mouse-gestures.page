@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-es">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Navegar por páginas web usando el ratón.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Mustieles</mal:name>
+      <mal:email>daniel.mustieles@gmail.com</mal:email>
+      <mal:years>2013-2020</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>María Majadas</mal:name>
+      <mal:email>alixis82@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Usar gestos del ratón</title>
+
+  <p>Los gestos con el ratón ofrecen una opción rápida para navegar por las páginas web sin mover la mano al teclado. Estos gestos se generan manteniendo pulsado el botón central del ratón mientras realiza uno de los siguientes movimientos con el ratón. Si su ratón no tiene botón central no podrá usarlos.</p>
+
+  <steps>
+    <item>
+      <p>Pulse el botón de menú en la esquina superior derecha de la ventana y seleccione <guiseq><gui style="menuitem">Preferencias</gui> <gui style="tab">General</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>En <gui>Navegación</gui>, marque la casilla <gui style="button">Gestos del ratón</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Actualmente se admiten los siguientes gestos:</p>
+
+  <list>
+    <item>
+      <p>Mantener pulsado el botón central de ratón, arrastrar a la izquierda y soltar el botón central hará que se navegue hacia atrás.</p>
+    </item>
+    <item>
+      <p>Mantener pulsado el botón central de ratón, arrastrar a la derecha y soltar el botón central hará que se navegue hacia adelante.</p>
+    </item>
+    <item>
+      <p>Mantener pulsado el botón central de ratón, arrastrar hacia abajo y soltar el botón central abrirá una pestaña nueva.</p>
+    </item>
+    <item>
+      <p>Mantener pulsado el botón central de ratón, arrastrar primero hacia abajo, luego hacia la derecha y soltar el botón central hará que se cierre la pestaña actual.</p>
+    </item>
+    <item>
+      <p>Mantener pulsado el botón central de ratón, arrastrar primero hacia arriba, luego hacia abajo y soltar el botón central hará que se recargue la pestaña actual.</p>
+    </item>
+  </list>
+
+</page>

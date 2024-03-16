@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-sv">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Vad är <em>inkognito</em>läge?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Anders Jonsson</mal:name>
+      <mal:email>anders.jonsson@norsjovallen.se</mal:email>
+      <mal:years>2015, 2017</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Privat surfning</title>
+
+  <p>Privat surfning är ett läge som begränsar sätten som din dator och webbplatser kan komma åt din surfinformation. Det är användbart om du ska låna ut din dator till en vän som exempelvis vill läsa sin e-post via en webbklient eftersom du inte kommer vara inloggad på några webbplatser i fönstret för privat surfning, och ingen information från dem kommer att sparas. Du kan föredra att använda inkognitoläge för att besöka känsliga sidor som internetbanker och <link href="http://questionablecontent.net/">Questionable content</link> eftersom data som webbplatser tidigare lagrat på din dator inte kommer att vara åtkomliga för webbplatserna då du surfar i inkognitoläge.</p>
+
+  <note style="important">
+    <p>Inkognitoläge kommer inte stoppa webbplatser från att spåra din surfaktivitet. Om du behöver surfa på nätet anonymt bör du använda en kommersiell VPN-tjänst.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Tryck på menyknappen i fönstrets övre högra hörn och välj sedan <guiseq><gui style="menuitem">Nytt inkognito-fönster</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Surfa på nätet med inkognitoläge.</p>
+    </item>
+    <item>
+      <p>Avsluta den privata surfningssessionen genom att stänga inkognitofönstret.</p>
+    </item>
+  </steps>
+
+  <p>Du kan skilja privat surfning från vanlig surfning genom vattenstämpeln för inkognitofönstret:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Skärmbild som visar ett privat surffönster utan några öppnade flikar.</p>
+  </media>
+
+</page>

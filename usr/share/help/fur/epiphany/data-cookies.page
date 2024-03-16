@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-cookies" xml:lang="epiphany-fur">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Ce mût eliminio i cookie dal navigadôr?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Fabio Tomat</mal:name>
+      <mal:email>f.t.public@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Eliminâ un cookie</title>
+
+  <!-- Include an explanation about cookies. -->
+  <include xmlns="http://www.w3.org/2001/XInclude" href="cookies.xml" xpointer="xmlns(mal=http://projectmallard.org/1.0/)xpointer(/mal:page/mal:p)"/>
+
+  <p>Tu puedis controlâ se al à lassât un cookie e eliminâlu, ma sta atent che i sîts web di solit a instalin il stes cookie di gnûf se tu ju tornis a visitâ.</p>
+
+  <steps>
+    <item>
+      <p>Press the menu button in the top-right corner of the window and select
+      <guiseq><gui style="menuitem">Preferences</gui><gui style="tab">Privacy</gui><gui style="button">Clear Personal
+      Data</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Select the cookies that you want to delete. You can tick only a few
+      domains or tick Cookies to select all domains at once.</p>
+    </item>
+    <item>
+      <p>Press <gui style="button">Clear Data</gui>.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>Se tu desideris eliminâ i cookie che un sît web al à memorizât, al è probabil che tu voledis eliminâ <link xref="data-personal-data">altris dâts memorizâts di chel sît web</link>.</p>
+  </note>
+
+</page>

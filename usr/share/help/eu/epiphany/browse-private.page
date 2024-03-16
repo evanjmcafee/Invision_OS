@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-eu">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Zer da <em>isilpeko</em> modua?</desc>
+  </info>
+
+  <title>Nabigatze pribatua</title>
+
+  <p>Private browsing is a mode which limits the way that your computer and
+  websites can access your browsing information. It is useful if you want to
+  lend your computer to a friend, for example, to check their email using
+  webmail because you will not be logged into any websites in the private
+  browsing window, nor will their information be saved. You might prefer
+  to use incognito mode to access sensitive websites such as Internet banking
+  and <link href="http://questionablecontent.net/">questionable content</link>
+  because data that websites have previously saved on your computer will not
+  be accessible to the websites when browsing in incognito mode.</p>
+
+  <note style="important">
+    <p>Isilpeko moduan ez da eragotziko webguneek zure nabigazio-jardueraren jarraipena egin dezaten. Sarean modu anonimoan aritu nahi baduzu, erabili VPN zerbitzu komertzial bat.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Sakatu goiko eskuineko izkinako menu-botoia eta hautatu <gui style="menuitem">Isilpeko leiho berria</gui>.</p>
+    </item>
+    <item>
+      <p>Nabigatu webean isilpeko modua erabiliz.</p>
+    </item>
+    <item>
+      <p>Amaitu nabigazio-saio pribatua isilpeko leihoa itxiz.</p>
+    </item>
+  </steps>
+
+  <p>Nabigatze pribatua eta nabigatze arrunta bereizteko, begiratu isilpeko leihoak duen ur-marka:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Nabigatze-leiho pribatua, fitxa irekirik gabekoa, erakusten duen pantaila-argazkia</p>
+  </media>
+
+</page>

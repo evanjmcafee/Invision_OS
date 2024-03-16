@@ -1,0 +1,4 @@
+libkf5guiaddons-data: desktop-command-not-in-package usr/share/applications/google-maps-geo-handler.desktop kde-geo-uri-handler
+libkf5guiaddons-data: desktop-command-not-in-package usr/share/applications/openstreetmap-geo-handler.desktop kde-geo-uri-handler
+libkf5guiaddons-data: desktop-command-not-in-package usr/share/applications/qwant-maps-geo-handler.desktop kde-geo-uri-handler
+libkf5guiaddons-data: desktop-command-not-in-package usr/share/applications/wheelmap-geo-handler.desktop kde-geo-uri-handler

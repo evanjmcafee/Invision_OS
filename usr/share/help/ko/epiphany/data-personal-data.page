@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-personal-data" xml:lang="epiphany-ko">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Michael Catanzaro</name>
+      <email its:translate="no">mcatanzaro@gnome.org</email>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>웹사이트가 저장한 개인 데이터를 어떻게 삭제하나요?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>ChangSeok Oh</mal:name>
+      <mal:email>changseok@gnome.org</mal:email>
+      <mal:years>2015, 2016, 2017, 2018, 2019, 2020, 2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Gyuseok Jung</mal:name>
+      <mal:email>jgyuseok@gmail.com</mal:email>
+      <mal:years>2015</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>개인 데이터 삭제하기</title>
+
+  <p><app>웹</app>은 당신이 웹사이트가 저장한 개인 데이터를 삭제하는 것을 허용합니다.</p>
+
+  <p><link xref="data-personal-data">브라우저 쿠키 삭제하는 방법을 배워보세요.</link></p>
+
+  <p>다른 개인 데이터를 삭제하려면:</p>
+
+  <steps>
+    <item>
+      <p>창의 오른쪽 상단 모서리에 있는 메뉴 단추를 누르고 <guiseq><gui style="menuitem">기본 설정</gui><gui style="tab">개인정보</gui><gui style="button">개인 데이터 지우기</gui></guiseq>를 선택하세요.</p>
+    </item>
+    <item>
+      <p>삭제하려는 저장된 데이터의 유형을 선택하고 삭제 활동을 선택한 도메인으로 선택적으로 제한하세요.</p>
+    </item>
+    <item>
+      <p><gui style="button">데이터 지우기</gui>를 누릅니다.</p>
+    </item>
+  </steps>
+</page>

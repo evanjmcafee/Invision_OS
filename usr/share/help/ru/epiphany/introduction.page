@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="introduction" xml:lang="epiphany-ru">
+
+  <info>
+    <link type="guide" xref="index"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Екатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Введение в <app>Веб-браузер</app> для GNOME со встроенной функцией конфиденциальности.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Stas Solovey</mal:name>
+      <mal:email>whats_up@tut.by</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alexey Rubtsov</mal:name>
+      <mal:email>rushills@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Введение</title>
+
+  <p><app>Веб-браузер</app> предлагает простой и удобный способ просмотра страниц в Интернете. Он отображает страницы с той же скоростью и точностью, что и другие популярные браузеры.</p>
+
+  <p><app>Веб-браузер</app> является приложением ранее известным как <app>Epiphany</app>.</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-plain-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Полноэкранный снимок экрана Веб-браузера с открытой страницей wiki Веб-браузера на первой вкладке и открытым сайтом GNOME на второй вкладке.</p>
+  </media>
+</page>

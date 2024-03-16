@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-font" xml:lang="epiphany-id">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Menggunakan fonta kustom untuk menampilkan laman web.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kukuh Syafaat</mal:name>
+      <mal:email>syafaatkukuh@gmail.com</mal:email>
+      <mal:years>2019.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Andika Triwidada</mal:name>
+      <mal:email>andika@gmail.com</mal:email>
+      <mal:years>2020.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Ubah fonta</title>
+
+  <p>Secara bawaan, sistem fonta Anda akan digunakan untuk menampilkan laman web bila memungkinkan. Jika Anda menggunakan pengaturan aksesibilitas <gui href="help:gnome-help/a11y-font-size">Teks Besar</gui>, hal ini akan diperhitungkan. Anda dapat mengubahnya dan menggunakan fonta yang berbeda untuk melihat situs web.</p>
+
+  <steps>
+    <item>
+      <p>Tekan tombol menu di pojok kanan atas jendela dan pilih <guiseq><gui style="menuitem">Preferensi</gui><gui style="tab">Penampilan</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Nyalakan <gui>Gunakan Fonta Ubahan</gui>.</p>
+    </item>
+    <item>
+      <p>Klik pada fonta untuk membuka dialog pemilih fonta, dimana Anda dapat memilih jenis font atau ukuran yang berbeda.</p>
+    </item>
+    <item>
+      <p>Tekan <gui style="button">Pilih</gui> untuk menyimpan pilihan Anda.</p>
+    </item>
+  </steps>
+
+  <p>Anda juga dapat memperbesar ukuran fonta dengan <keyseq><key>Ctrl</key><key>+</key></keyseq> dan memperkecilnya dengan <keyseq><key>Ctrl</key><key>-</key></keyseq>.</p>
+
+</page>

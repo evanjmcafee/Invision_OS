@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="history-delete" xml:lang="epiphany-eu">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Nola ezabatu dezaket web-orri bat edo gehiago nire nabigazio-historiatik?</desc>
+  </info>
+
+  <title>Garbitu nabigazio-historia</title>
+
+  <p>Zenbaitetn zure nabigazio-historia ezabatu nahi duzu, adibidez bilaketa-emaitzetan ikusi nahi ez dituzun elementuak kentzeko. Emaitza bat, webgune bateko emaitza guztiak edo zure historia osoa ezabatzea aukeratu dezakezu.</p>
+
+  <steps>
+    <item>
+      <p>Sakatu goiko eskuineko izkinako menu-botoia eta hautatu <gui style="menuitem">Historia</gui>.</p>
+    </item>
+    <item>
+      <p>Sakatu ezabatzeko botoia nahi ez dituzun orriak betiko ezabatzeko.</p>
+    </item>
+  </steps>
+
+  <p>Zure nabigazio-historia osoa ezabatzeko, sakatu <gui style="button">Garbitu dena</gui>.</p>
+
+</page>

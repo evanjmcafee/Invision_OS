@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-web" xml:lang="epiphany-ru">
+
+  <info>
+    <link type="guide" xref="index#start" group="#first"/>
+    <link type="seealso" xref="browse-private"/>
+    <link type="seealso" xref="browse-local"/>
+    <revision pkgversion="3.9" date="2013-06-30" status="incomplete"/>
+    <revision pkgversion="3.15" date="2014-12-02" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Екатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013, 2014</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Просмотр веб-страниц в Интернете.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Stas Solovey</mal:name>
+      <mal:email>whats_up@tut.by</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alexey Rubtsov</mal:name>
+      <mal:email>rushills@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Просматривайте веб-страницы</title>
+
+  <p>Веб-браузеры можно использовать для просмотра страниц в Интернете при наличии подключения к Интернету. Чтобы начать просмотр веб-страниц:</p>
+
+  <steps>
+    <item>
+      <p>Когда вы запустите <app xref="introduction">Веб-браузер</app>, ваш курсор должен находиться в поле ввода текста в верхней части окна. Введите URL-адрес веб-страницы, которую вы хотите посетить, или поисковый запрос.</p>
+    </item>
+    <item>
+      <p>Нажмите кнопку return для перехода на веб-страницу или для поиска.</p>
+    </item>
+  </steps>
+
+  <p xml:id="tabs"><em>Вкладки</em> используются для просмотра нескольких веб-страниц в одном окне. При первом запуске <app>Веб-браузер</app>а у вас не будет отображаться никаких вкладок. Чтобы <em>открыть новую вкладку</em>, нажмите кнопку новой вкладки в левом верхнем углу экрана. Когда новая вкладка открыта, вы можете использовать ее так же, как обычно используете новое окно.</p>
+
+  <p xml:id="tabs-alt">Вы также можете использовать <keyseq><key>Ctrl</key><key>T</key></keyseq> для открытия новой вкладки или кнопку новой вкладки в левом верхнем углу окна.</p>
+
+  <p xml:id="tabs-link">Чтобы <em>открыть ссылку в новой вкладке</em>, щелкните ссылку правой кнопкой мыши, затем выберите <gui style="menuitem">Открыть ссылку в новой вкладке</gui> или используйте среднюю кнопку мыши для щелчка по ссылке.</p>
+
+</page>

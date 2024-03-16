@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-downloads" xml:lang="epiphany-ca">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="review"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>A on es baixen els vostres fitxers i com podeu canviar aquesta opció de configuració?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marieta Lalu</mal:name>
+      <mal:email>marisetta.sakura@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Laia dg</mal:name>
+      <mal:email>laia.dolc@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jaume Jorba</mal:name>
+      <mal:email>jaume.jorba@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Assumpta</mal:name>
+      <mal:email>assumptaanglada@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jordi Mas</mal:name>
+      <mal:email>jmas@softcatala.org</mal:email>
+      <mal:years>2019, 2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Descàrrega de fitxers</title>
+
+  <p>Els fitxers que descarregueu d'Internet, com ara els fitxers adjunts del correu electrònic, es desaran automàticament a la vostra carpeta <file>Baixades</file>. Podeu canviar-ho a <gui>Preferències</gui>.</p>
+
+  <steps>
+    <item>
+      <p>Premeu el botó de menú a la cantonada superior dreta de la finestra i seleccioneu <guiseq><gui style="menuitem">Preferències</gui><gui style="tab">General</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Premeu el nom de <gui>la carpeta Baixades</gui> per a seleccionar una altra carpeta per a les baixades. Si la carpeta que voleu utilitzar no és a la llista, seleccioneu <gui>Altres…</gui> per a cercar-la.</p>
+    </item>
+    <item>
+      <p>Si voleu triar el directori de destinació cada cop que baixeu un fitxer, marqueu la casella de selecció <gui>Pregunta sempre en descarregar</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Si en comptes de baixar el fitxer, el <em>deseu</em>, haureu d'especificar on ho voleu fer.</p>
+
+  <note style="important">
+    <p>No es pot triar on es desen les baixades si s'utilitza Flatpak per a executar el <app>Web</app>. Les baixades es desaran sempre a la carpeta <file>Baixades</file>.</p>
+  </note>
+
+</page>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-fur">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Ce ise la modalitât <em>segrete</em> ?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Fabio Tomat</mal:name>
+      <mal:email>f.t.public@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Navigazion privade</title>
+
+  <p>La navigazion privade e je une modalitât che e limite i mûts che il to computer e i sîts web a puedin doprâ lis informazions di navigazion. Al è util se si vûl prestâ il computer a un amì, par esempli par controlâ la sô pueste cul relatîf sît web, parcè che intal barcon di navigazion privade no si vignarà regjistrâts in nissun sît web, ni e vignarà salvade cualsisei sô informazion. Si podarès preferî doprâ la modalitât segrete par jentrâ in sîts web sensibii come pal Internet Banking e <link href="http://questionablecontent.net/">contignûts discutibii</link>, parcè che cuant che si navighe in modalitât segrete, i dâts che i sîts web a àn salvât in precedence sul to computer no saran acessibii ai sîts web.</p>
+
+  <note style="important">
+    <p>La modalitât segrete no impedirà ai sîts web di tegnî segnât lis tôs ativitâts di navigazion. Se ti covente navigâ pal web in maniere anonime, tu varessis di doprâ un servizi VPN comerciâl.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Press the menu button in the top-right corner of the window and select
+      <guiseq><gui style="menuitem">New Incognito Window</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Navighe pal web doprant la modalitât segrete.</p>
+    </item>
+    <item>
+      <p>Finìs la session di navigazion privade sierant il barcon segret.</p>
+    </item>
+  </steps>
+
+  <p>Si pues distingui la navigazion privade de navigazion normâl de filigrane pal barcon segret:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Screenshot showing a private browsing window with no opened tabs.</p>
+  </media>
+
+</page>

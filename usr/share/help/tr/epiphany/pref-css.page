@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-css" xml:lang="epiphany-tr">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Web sayfalarını görüntülemek için kullanılan temayı geçersiz kılmak.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Sabri Ünal</mal:name>
+      <mal:email>libreajans@gmail.com</mal:email>
+      <mal:years>2021.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Emin Tufan Çetin</mal:name>
+      <mal:email>etcetin@gmail.com</mal:email>
+      <mal:years>2021, 2022.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Özel Stylesheet (CSS)</title>
+
+  <p><app>Web</app>, ziyaret ettiğiniz web sayfasının görünümünü ve tarzını değiştirmek için özel CSS ayarlamanıza olanak tanır. Yeğlediğiniz yazı tipi boyutu veya renk düzeni ayarlamak için bunu yapmak isteyebilirsiniz.</p>
+
+  <steps>
+    <item>
+      <p>Pencerenin sağ üst köşesindeki menü düğmesine basıp <guiseq><gui style="menuitem">Tercihler</gui><gui style="tab">Görünüm</gui></guiseq>’ü seçin.</p>
+    </item>
+    <item>
+      <p>Biçem bölümünden <gui>Özel Stylesheet Kullan</gui>’ı etkinleştirin.</p>
+    </item>
+    <item>
+      <p>Kalem simgesine tıklayın.</p>
+    </item>
+    <item>
+      <p>Öntanımlı metin düzenleyicisi açılacaktır. Özel CSS’nizi ekleyip dosyayı kaydedin.</p>
+    </item>
+  </steps>
+
+  <p>Özel CSS örneği olarak:</p>
+  <code>
+body{
+    /*Her şeyi baş aşağı yap*/
+    -webkit-transform: rotate(180deg);
+}
+</code>
+
+  <p>Özel CSS, siz etkinleştirdikten sonra ziyaret ettiğiniz sayfalardaki stil sayfasının üzerine yazılır.</p>
+
+</page>

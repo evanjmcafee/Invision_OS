@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-css" xml:lang="epiphany-de">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Das Thema überschreiben, mit dem Webseiten dargestellt werden.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Christian Kirbach</mal:name>
+      <mal:email>christian.kirbach@gmail.com</mal:email>
+      <mal:years>2013, 2014, 2015, 2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Benjamin Steinwender</mal:name>
+      <mal:email>b@stbe.at</mal:email>
+      <mal:years>2014, 2015</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Tim Sabsch</mal:name>
+      <mal:email>tim@sabsch.com</mal:email>
+      <mal:years>2019, 2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Benutzerdefiniertes CSS</title>
+
+  <p><app>Web</app> ermöglicht es Ihnen, mit eigenem CSS das Aussehen jeder Webseite zu ändern, die Sie aufrufen. So können Sie eine bevorzugte Schriftgröße oder ein bevorzugtes Farbschema festlegen.</p>
+
+  <steps>
+    <item>
+      <p>Press the menu button in the top-right corner of the window and select
+      <guiseq><gui style="menuitem">Preferences</gui><gui style="tab">Appearance</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Schalten Sie <gui>Eigene Stilvorlage verwenden</gui> im Stil-Abschnitt an.</p>
+    </item>
+    <item>
+      <p>Klicken Sie auf das Stift-Symbol.</p>
+    </item>
+    <item>
+      <p>Ihr bevorzugter Texteditor öffnet sich. Fügen Sie ihr eigenes CSS hinzu und speichern Sie die Datei.</p>
+    </item>
+  </steps>
+
+  <p>Ein Beispiel eines angepassten CSS:</p>
+  <code>
+body{
+    /*Alles auf den Kopf stellen*/
+    -webkit-transform: rotate(180deg);
+}
+</code>
+
+  <p>Ihr eigenes CSS wird die Stilvorlage der Seiten überschreiben, die Sie nach der Aktivierung besuchen.</p>
+
+</page>

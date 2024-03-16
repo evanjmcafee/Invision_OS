@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-webapps-del" xml:lang="epiphany-fr">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <link type="seealso" xref="browse-webapps"/>
+    <revision pkgversion="3.16" date="2014-01-26" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2015</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Comment supprimer une <em>application web</em> ?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>naybnet</mal:name>
+      <mal:email>naybnet@gmail.com</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Julien Hardelin</mal:name>
+      <mal:email>jhardlin@orange.fr</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Guillaume Bernard</mal:name>
+      <mal:email>associations@guillaume-bernard.fr</mal:email>
+      <mal:years>2014-2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alain Lojewski</mal:name>
+      <mal:email>allomervan@gmail.com</mal:email>
+      <mal:years>2015</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Charles Monzat</mal:name>
+      <mal:email>charles.monzat@free.fr</mal:email>
+      <mal:years>2019-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Suppression d’une application web</title>
+
+  <p>Vous pouvez supprimer une application web dont vous n’avez plus besoin.</p>
+
+  <steps>
+    <item>
+      <p>Cliquez sur le bouton de menu situé dans le coin supérieur droit de la fenêtre, puis sélectionnez <gui style="menuitem">Ouvrir le gestionnaire d’applications</gui>.</p>
+    </item>
+    <item>
+      <p>Cliquez sur <gui style="button">Supprimer</gui> à côté de l’application à supprimer.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>Il n’est pas possible de supprimer des applications web si vous utilisez Flatpak pour lancer <app>Web</app>.</p>
+  </note>
+
+</page>

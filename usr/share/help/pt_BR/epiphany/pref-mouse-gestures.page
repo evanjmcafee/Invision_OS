@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-pt-BR">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Navegue em páginas web usando o mouse.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Enrico Nicoletto</mal:name>
+      <mal:email>liverig@gmail.com</mal:email>
+      <mal:years>2013,</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Fontenelle</mal:name>
+      <mal:email>rafaelff@gnome.org</mal:email>
+      <mal:years>2017-2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Ronaldo Lobato</mal:name>
+      <mal:email>vieira.lobato@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Usando gestos com mouse</title>
+
+  <p>Os gestos do mouse oferecem uma opção rápida para navegar em páginas web sem mover a mão para o teclado. Esses gestos são acionados pressionando o botão do meio do mouse enquanto executa um dos seguintes movimentos do mouse. Se o mouse não tiver um botão do meio, você não poderá usar gestos com mouse.</p>
+
+  <steps>
+    <item>
+      <p>Pressione o botão de menu no canto superior direito da janela e selecione <guiseq><gui style="menuitem">Preferências</gui> <gui style="tab">Geral</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Em <gui>Navegação</gui>, ative <gui style="button">Gestos com mouse</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Há suporte aos seguintes gestos:</p>
+
+  <list>
+    <item>
+      <p>Manter o botão do meio do mouse pressionado, arrastando para a esquerda e soltando o botão do meio do mouse, navegará para trás.</p>
+    </item>
+    <item>
+      <p>Manter o botão do meio do mouse pressionado, arrastando para a direita e soltando o botão do meio do mouse, navegará para frente.</p>
+    </item>
+    <item>
+      <p>Manter o botão do meio do mouse pressionado, arrastando para baixo e soltando o botão do meio do mouse, criará uma nova aba.</p>
+    </item>
+    <item>
+      <p>Manter o botão do meio do mouse pressionado, arrastando para a esquerda e depois para direita, e soltando o botão do meio do mouse, vai fechar a aba atual.</p>
+    </item>
+    <item>
+      <p>Manter o botão do meio do mouse pressionado, arrastando primeiro para cima e depois para baixo, e soltando o botão do meio do mouse, recarregará a aba atual.</p>
+    </item>
+  </list>
+
+</page>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-cookies" xml:lang="epiphany-ko">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>어떻게 브라우저 쿠키를 삭제하나요?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>ChangSeok Oh</mal:name>
+      <mal:email>changseok@gnome.org</mal:email>
+      <mal:years>2015, 2016, 2017, 2018, 2019, 2020, 2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Gyuseok Jung</mal:name>
+      <mal:email>jgyuseok@gmail.com</mal:email>
+      <mal:years>2015</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>쿠키 삭제하기</title>
+
+  <!-- Include an explanation about cookies. -->
+  <include xmlns="http://www.w3.org/2001/XInclude" href="cookies.xml" xpointer="xmlns(mal=http://projectmallard.org/1.0/)xpointer(/mal:page/mal:p)"/>
+
+  <p>웹사이트가 쿠키를 남겼는지 확인하고 그것을 삭제할 수 있지만, 만약 해당 웹사이트를 다시 방문하면 동일한 쿠키를 보통 다시 설치한다는 점에 유의하세요.</p>
+
+  <steps>
+    <item>
+      <p>창의 오른쪽 상단 모서리에 있는 메뉴 단추를 누르고 <guiseq><gui style="menuitem">기본 설정</gui><gui style="tab">개인정보</gui><gui style="button">개인 데이터 지우기</gui></guiseq>를 선택하세요.</p>
+    </item>
+    <item>
+      <p>삭제하고 싶은 쿠키를 선택하세요. 일부 도메인만 체크하거나 모든 도메인을 한번에 선택하려면 쿠키를 체크할 수 있습니다.</p>
+    </item>
+    <item>
+      <p><gui style="button">데이터 지우기</gui>를 누릅니다.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>만약 웹사이트가 저장한 쿠키를 삭제하길 바란다면, 당신은 아마도 <link xref="data-personal-data">웹사이트가 저장한 그 외 데이터</link> 역시 삭제하길 바랄지도 모릅니다.</p>
+  </note>
+
+</page>

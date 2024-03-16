@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="guide" style="task" id="index" xml:lang="epiphany-da">
+
+  <info>
+    <title type="link" role="trail">Hjælp til Web</title>
+    <title type="link">Hjælp til Web</title>
+    <!-- The text title is used on the help.gnome.org -->
+    <title type="text">Hjælp til Web</title>
+    <revision pkgversion="3.10" date="2013-07-02" status="review"/>
+    <!-- Bookmarks sections need rewritten for Epiphany 3.24 -->
+    <revision pkgversion="3.24" date="2017-03-07" status="outdated"/>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc><app>Web</app>, tidligere kendt som <app>Epiphany</app>, er GNOMEs webbrowser. Kom godt i gang med <app>Web</app> og læs om de tilgængelige funktionaliteter.</desc>
+
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title><media type="image" width="48px" height="48px" its:translate="no" src="media/org.gnome.Epiphany.svg"/> Web</title>
+
+  <section id="start" style="2column">
+    <title>Kom godt i gang</title>
+  </section>
+
+  <section id="privacy" style="2column">
+    <title>Dit privatliv</title>
+  </section>
+
+  <section id="adv" style="2column">
+    <title>Avanceret browsing</title>
+  </section>
+
+  <section id="pref" style="2column">
+    <title>Valgmuligheder og indstillinger</title>
+  </section>
+
+  <section id="prob" style="2column">
+    <title>Almindelige problemer</title>
+  </section>
+
+</page>

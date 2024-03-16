@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-cookies" xml:lang="epiphany-pt-BR">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Como eu excluo cookies do navegador?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Enrico Nicoletto</mal:name>
+      <mal:email>liverig@gmail.com</mal:email>
+      <mal:years>2013,</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Fontenelle</mal:name>
+      <mal:email>rafaelff@gnome.org</mal:email>
+      <mal:years>2017-2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Ronaldo Lobato</mal:name>
+      <mal:email>vieira.lobato@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Excluindo um cookie</title>
+
+  <!-- Include an explanation about cookies. -->
+  <include xmlns="http://www.w3.org/2001/XInclude" href="cookies.xml" xpointer="xmlns(mal=http://projectmallard.org/1.0/)xpointer(/mal:page/mal:p)"/>
+
+  <p>Você pode verificar se ele deixou um cookie e excluí-lo, mas lembre-se de que os sites geralmente instalarão o mesmo cookie novamente se você visitar esse site novamente.</p>
+
+  <steps>
+    <item>
+      <p>Pressione o botão de menu no canto superior direito da janela e selecione <guiseq><gui style="menuitem">Preferências</gui><gui style="tab">Privacidade</gui><gui style="button">Limpar dados pessoais</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Selecione os cookies que você deseja excluir. Você pode marcar apenas alguns domínios ou selecionar Cookies para selecionar todos os domínios de uma vez.</p>
+    </item>
+    <item>
+      <p>Pressione <gui style="button">Limpar dados</gui>.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>Se você deseja excluir os cookies que um site armazenou, provavelmente também deseja excluir <link xref="data-personal-data">outros dados armazenados por esse site</link>.</p>
+  </note>
+
+</page>

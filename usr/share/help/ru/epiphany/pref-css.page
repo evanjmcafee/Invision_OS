@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-css" xml:lang="epiphany-ru">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Гордон Хилл (Gordon Hill)</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Екатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Федерико Бруни (Federico Bruni)</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Переопределение темы, которая используется для отображения веб-страниц.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Stas Solovey</mal:name>
+      <mal:email>whats_up@tut.by</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alexey Rubtsov</mal:name>
+      <mal:email>rushills@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Пользовательский CSS</title>
+
+  <p><app>Веб-браузер</app> позволяет задать пользовательский CSS для изменения внешнего вида и настроек каждой посещаемой веб-страницы. Вы можете захотеть сделать это, чтобы установить предпочтительный размер шрифта или цветовую схему.</p>
+
+  <steps>
+    <item>
+      <p>Нажмите кнопку меню в правом верхнем углу окна и выберите пункт <guiseq><gui style="menuitem">Параметры</gui><gui style="tab">Вид</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>В разделе Стиль установите флажок <gui>Использовать пользовательскую таблицу стилей</gui>.</p>
+    </item>
+    <item>
+      <p>Нажмите на значок пера.</p>
+    </item>
+    <item>
+      <p>Откроется ваш стандартный текстовый редактор. Добавьте свой пользовательский CSS и сохраните файл.</p>
+    </item>
+  </steps>
+
+  <p>Пример пользовательского CSS:</p>
+  <code>
+body{
+    /*Сделайте все перевернутым*/
+    -webkit-transform: rotate(180deg);
+}
+</code>
+
+  <p>Ваш пользовательский CSS будет переопределять таблицу стилей на страницах, которые вы посещаете после его включения.</p>
+
+</page>

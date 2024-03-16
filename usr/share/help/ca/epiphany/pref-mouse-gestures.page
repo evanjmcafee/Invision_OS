@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-ca">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Navegueu per les pàgines web utilitzant el ratolí.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marieta Lalu</mal:name>
+      <mal:email>marisetta.sakura@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Laia dg</mal:name>
+      <mal:email>laia.dolc@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jaume Jorba</mal:name>
+      <mal:email>jaume.jorba@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Assumpta</mal:name>
+      <mal:email>assumptaanglada@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jordi Mas</mal:name>
+      <mal:email>jmas@softcatala.org</mal:email>
+      <mal:years>2019, 2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Utilitzar els gestos del ratolí</title>
+
+  <p>Els gestos del ratolí ofereixen una opció ràpida per a navegar per pàgines web sense moure la mà al teclat. Aquests gestos s'activen mantenint premut el botó central del ratolí mentre es realitza un dels següents moviments del ratolí. Si el ratolí no té un botó del mig, no es poden utilitzar gestos del ratolí.</p>
+
+  <steps>
+    <item>
+      <p>Premeu el botó de menú a la cantonada superior dreta de la finestra i seleccioneu <guiseq><gui style="menuitem">Preferències</gui> <gui style="tab">General</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Sota <gui>Navegació</gui>, activeu <gui style="button">Gestos del ratolí</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Els següents gestos estan actualment admesos:</p>
+
+  <list>
+    <item>
+      <p>Si manteniu premut el botó central del ratolí, l'arrossegueu cap a l'esquerra i a continuació deixeu anar el botó central, navegareu cap a la pàgina anterior.</p>
+    </item>
+    <item>
+      <p>Si manteniu premut el botó central del ratolí, l'arrossegueu cap a la dreta i a continuació deixeu anar el botó central, navegareu cap a la pàgina següent.</p>
+    </item>
+    <item>
+      <p>Si manteniu premut el botó central del ratolí, l'arrossegueu cap avall i a continuació deixeu anar el botó central, creareu una pestanya nova.</p>
+    </item>
+    <item>
+      <p>Si manteniu premut el botó central del ratolí, l'arrossegueu cap avall i després cap a la dreta, i a continuació deixeu anar el botó central, tancareu la pestanya actual.</p>
+    </item>
+    <item>
+      <p>Si manteniu premut el botó central del ratolí, l'arrossegueu primer cap amunt i després cap avall, i a continuació deixeu anar el botó central, tornareu a carregar la pestanya actual.</p>
+    </item>
+  </list>
+
+</page>

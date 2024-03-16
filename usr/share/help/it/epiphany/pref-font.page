@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-font" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Usare un carattere personalizzato per le pagine web.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Cambiare il carattere</title>
+
+  <p>Per impostazione predefinita il carattere di sistema verrà usato per visualizzare le pagine web, quando possibile. Se si usa l'impostazione di accessibilità <gui href="help:gnome-help/a11y-font-size">Testo grande</gui>, verrà tenuta in considerazione. Si può cambiare e scegliere caratteri diversi per visualizzare i siti web.</p>
+
+  <steps>
+    <item>
+      <p>Premere il pulsante del menù in alto a destra della finestra, e selezionare <guiseq><gui style="menuitem">Preferenze</gui><gui style="tab">Aspetto</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Attivare <gui>Usare caratteri personalizzati</gui>.</p>
+    </item>
+    <item>
+      <p>Fare clic sul carattere per aprire la finestra di selezione, nella quale si può selezionare un carattere o una dimensione diversi.</p>
+    </item>
+    <item>
+      <p>Premere <gui style="button">Seleziona</gui> per salvare la propria scelta.</p>
+    </item>
+  </steps>
+
+  <p>La dimensione del carattere può anche essere aumentata con <keyseq><key>Ctrl</key><key>+</key></keyseq> e diminuita con <keyseq><key>Ctrl</key><key>-</key></keyseq>.</p>
+
+</page>

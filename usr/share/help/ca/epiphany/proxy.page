@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="proxy" xml:lang="epiphany-ca">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.15" date="2014-11-26" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Anonimitzeu la navegació web mitjançant un proxy web.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marieta Lalu</mal:name>
+      <mal:email>marisetta.sakura@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Laia dg</mal:name>
+      <mal:email>laia.dolc@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jaume Jorba</mal:name>
+      <mal:email>jaume.jorba@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Assumpta</mal:name>
+      <mal:email>assumptaanglada@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jordi Mas</mal:name>
+      <mal:email>jmas@softcatala.org</mal:email>
+      <mal:years>2019, 2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Utilitzar un proxy</title>
+
+  <p>Podeu fer servir un servidor intermediari per a navegar pel web. Per a fer servir un proxy web quan navegueu, l'heu de <link href="help:gnome-help/net-proxy">configurar al panell de configuració de la <gui>Xarxa</gui> del GNOME</link>.</p>
+
+</page>

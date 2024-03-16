@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-downloads" xml:lang="epiphany-eu">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="review"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Non deskargatzen dira nire fitxategiak eta nola aldatu dezaket ezarpen hori?</desc>
+  </info>
+
+  <title>Fitxategiak deskargatzea</title>
+
+  <p>Internetetik deskargatzen diren fitxategiak, adibidez posta-mezuetako eranskinak, <file>Deskargak</file> karpetan gordeko dira automatikoki. Hori aldatzeko, joan <gui>Hobespenak</gui> atalera.</p>
+
+  <steps>
+    <item>
+      <p>Sakatu leihoaren goiko eskuineko izkinako menu-botoia eta hautatu <guiseq><gui style="menuitem">Hobespenak</gui><gui style="tab">Orokorra</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Sakatu <gui>Deskargen karpeta</gui> izena deskargetarako beste karpeta bat hautatzeko. Erabili nahi duzun karpeta zerrendan ez badago, hautatu <gui>Beste bat…</gui> hura bilatzeko.</p>
+    </item>
+    <item>
+      <p>Fitxategi bat deskargatzen den bakoitzean zein direktoriotan gordeko den aukeratu nahi baduzu, aktibatu <gui>Galdetu deskargatzean</gui> aukera.</p>
+    </item>
+  </steps>
+
+  <p>Fitxategi bat deskargatu ordez hura <em>gorde</em> nahi baduzu, kasu horretan ere non gorde nahi duzun zehaztu beharko duzu.</p>
+
+  <note style="important">
+    <p>Ez da posible aukeratzea fitxategiak non deskargatuko diren Flatpak erabiltzen ari bazara <app>Weba</app> exekutatzeko. Deskargak beti gordeko dira <file>Deskargak</file> karpetan.</p>
+  </note>
+
+</page>

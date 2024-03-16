@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="proxy" xml:lang="epiphany-tr">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.15" date="2014-11-26" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Web vekil sunucusu kullanarak web taramanızı anonimleştirin.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Sabri Ünal</mal:name>
+      <mal:email>libreajans@gmail.com</mal:email>
+      <mal:years>2021.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Emin Tufan Çetin</mal:name>
+      <mal:email>etcetin@gmail.com</mal:email>
+      <mal:years>2021, 2022.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Vekil sunucu kullan</title>
+
+  <p>Web’de gezinmek için vekil sunucu kullanabilirsiniz. Tarama sırasında vekil sunucu kullanmak için bunu <link href="help:gnome-help/net-proxy">GNOME <gui>Ağ</gui> ayarları bölmesinden</link> ayarlamasınız.</p>
+
+</page>

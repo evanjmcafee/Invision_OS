@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-tr">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc><em>Gizli tarama</em> kipi nedir?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Sabri Ünal</mal:name>
+      <mal:email>libreajans@gmail.com</mal:email>
+      <mal:years>2021.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Emin Tufan Çetin</mal:name>
+      <mal:email>etcetin@gmail.com</mal:email>
+      <mal:years>2021, 2022.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Gizli tarama</title>
+
+  <p>Gizli tarama, bilgisayarınızın ve web sitelerinin tarama bilgilerinize erişme biçimini sınırlayan kiptir. Bu örneğin bilgisayarınızı arkadaşınıza e-postalarını gözden geçirmesi için ödünç vereceğinizde kullanışlıdır, özel tarama penceresinde herhangi bir web sitesinde kendiliğinden oturum açılmaz ve arkadaşınızın bilgileri kaydedilmez. İnternet bankacılığı gibihassas web sitelerine erişmede gizli kipi kullanmayı yeğleyebilirsiniz, çünkü gizli kipte gezinirken web sitelerinin daha önce bilgisayarınıza kaydettiği verilere erişilemez.</p>
+
+  <note style="important">
+    <p>Gizli tarama kipi, web sitelerinin tarama etkinliğinizi izlemesini engellemez. İnternette anonim olarak gezinmeniz gerekiyorsa, ticari VPN hizmeti kullanmalısınız.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Pencerenin sağ üst köşesindeki menü düğmesine basıp <guiseq><gui style="menuitem">Yeni Gizli Pencere</gui></guiseq>’yi seçin.</p>
+    </item>
+    <item>
+      <p>Gizli tarama kipinde internette gezinin.</p>
+    </item>
+    <item>
+      <p>Gizli tarama penceresini kapatarak özel tarama oturumunu sonlandırın.</p>
+    </item>
+  </steps>
+
+  <p>Gizli tarama penceresi için kullanılan özel filigran sayesinde gizli taramayı sıradan taramadan ayırt edebilirsiniz:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Açılmış sekme içermeyen gizli tarama penceresini gösteren ekran görüntüsü.</p>
+  </media>
+
+</page>

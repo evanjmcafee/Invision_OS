@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="history" xml:lang="epiphany-uk">
+
+  <info>
+    <link type="guide" xref="index#start"/>
+    <link type="seealso" xref="history-delete"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Єкатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Чому вам показують список вебсторінок, коли ви починаєте вводити щось у поле адреси?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Юрій Чорноіван</mal:name>
+      <mal:email>yurchor@ukr.net</mal:email>
+      <mal:years>2020</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Журнал перегляду</title>
+
+  <p>Журнал відвідування сторінок, список сторінок, які ви відвідували, зберігається автоматично, щоб пришвидшити процес повернення до цих сторінок.</p>
+
+  <p>Щоб <em>виконати пошук у журналі</em>, почніть вводити критерій пошуку у полі адреси, потім просто клацніть на відповідному пункті у списку результатів пошуку, щойно він там з'явиться. Пошук виконуватиметься за заголовком сторінки і адресою, а не за вмістом сторінки.</p>
+
+</page>

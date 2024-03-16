@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="cookies" xml:lang="epiphany-da">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <link type="guide" xref="data"/>
+    <revision pkgversion="3.10" date="2013-07-02" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Hvad er cookies?</title>
+
+  <p>En <em>browsercookie</em> er et lille stykke data, som sendes fra et websted og gemmes på din computer, når du browser webstedet. Når du vender tilbage til det samme websted i fremtiden, så kan webstedet hente den data som er gemt i cookien for at give webstedet besked om din tidligere aktivitet. Cookies bruges meget af webservere til at se, om du er logget ind på en konto på et bestemt websted eller ej.</p>
+
+</page>

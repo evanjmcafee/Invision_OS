@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="cookies" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <link type="guide" xref="data"/>
+    <revision pkgversion="3.10" date="2013-07-02" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Cosa sono i cookie?</title>
+
+  <p>Un <em>cookie</em> del browser è un piccolo frammento di dati inviato da un sito web e salvato sul proprio computer mentre si sta visitando tale sito. Quando si ritorna sullo stesso sito in un altro momento, esso potrà recuperare i dati immagazzinati nel cookie per leggere le attività precedenti dell'utente. I cookie sono uno strumento comunemente usato dai server web per sapere se si è loggati o meno in un account su un certo sito.</p>
+
+</page>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-webapps-del" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <link type="seealso" xref="browse-webapps"/>
+    <revision pkgversion="3.16" date="2014-01-26" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2015</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Come si elimina un'applicazione web?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Rimuovere un'applicazione web</title>
+
+  <p>È possibile eliminare un'applicazione web quando non serve più.</p>
+
+  <steps>
+    <item>
+      <p>Premere il pulsante del menù in alto a destra della finestra e selezionare <gui style="menuitem">Apri gestore applicazione</gui>.</p>
+    </item>
+    <item>
+      <p>Premere <gui style="button">Elimina</gui> a fianco dell'applicazione che si desidera eliminare.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>Non è possibile eliminare applicazioni web se <app>Web</app> viene eseguito tramite Flatpak.</p>
+  </note>
+
+</page>

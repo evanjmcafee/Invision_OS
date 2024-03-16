@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="prob-restore-closed-page" xml:lang="epiphany-ru">
+
+  <info>
+    <link type="guide" xref="index#prob"/>
+    <revision pkgversion="3.12" date="2014-02-24" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Баптист Милле-Матиас (Baptiste Mille-Mathias)</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Екатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Я хочу снова открыть веб-страницу, которую я закрыл по ошибке.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Stas Solovey</mal:name>
+      <mal:email>whats_up@tut.by</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alexey Rubtsov</mal:name>
+      <mal:email>rushills@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Как восстановить вкладку?</title>
+
+  <p>Вы можете восстановить закрытые страницы, если хотя бы одна из них все еще <app>открыта</app>.</p>
+
+  <steps>
+    <item>
+      <p>Нажмите кнопку меню в правом верхнем углу окна и выберите пункт <gui style="menuitem">Открыть закрытую вкладку</gui>. Ваша последняя закрытая вкладка будет снова открыта.</p>
+    </item>
+  </steps>
+
+  <p>Повторите этот шаг необходимое количество раз, пока не будет восстановлена нужная вкладка. Вкладки будут восстановлены в обратном порядке по отношению к тому, как вы их закрыли. После того как вы восстановите все закрытые вкладки, вы больше не сможете восстановить ни одной вкладки.</p>
+
+  <note style="important">
+    <p>Невозможно восстановить закрытую вкладку в режиме <link xref="browse-private">приватного просмотра</link>.</p>
+  </note>
+
+</page>

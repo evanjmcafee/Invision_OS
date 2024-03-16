@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="cert" xml:lang="epiphany-ru">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.15" date="2015-01-28" status="draft"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Екатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2015</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Управление сертификатами в <app>Веб-браузер</app>е.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Stas Solovey</mal:name>
+      <mal:email>whats_up@tut.by</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alexey Rubtsov</mal:name>
+      <mal:email>rushills@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Сертификаты</title>
+
+  <p>В настоящее время<app>Веб-браузер</app> не имеет встроенной поддержки управления сертификатами.</p>
+
+  <note style="advanced">
+    <p>Вы можете добавлять сертификаты через командную строку, если у вас установлен p11-kit. Чтобы добавить сертификат, необходимо загрузить сертификат и выполнить следующую команду для его импорта:</p>
+    <screen><output>$ </output><input>sudo trust anchor <var>/home/user/Downloads/certificate.crt</var></input></screen>
+    <p>К сожалению, это не будет работать на системах на базе Debian, таких как Ubuntu.</p>
+  </note>
+
+</page>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-tr">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Fareyi kullanarak web sayfalarında gezinin.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Sabri Ünal</mal:name>
+      <mal:email>libreajans@gmail.com</mal:email>
+      <mal:years>2021.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Emin Tufan Çetin</mal:name>
+      <mal:email>etcetin@gmail.com</mal:email>
+      <mal:years>2021, 2022.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Fare hareketlerini kullan</title>
+
+  <p>Fare hareketleri, elinizi klavyeye götürmeden web sayfalarında gezinmek için hızlı seçenek sunar. Bu hareketler, aşağıdaki fare hareketlerinden birini gerçekleştirirken farenin orta düğmesini basılı tutarak tetiklenir. Farenizde orta fare düğmesi yoksa, fare hareketlerini kullanamazsınız.</p>
+
+  <steps>
+    <item>
+      <p>Pencerenin sağ üst köşesindeki menü düğmesine basıp <guiseq><gui style="menuitem">Tercihler</gui> <gui style="tab">Genel</gui></guiseq>’i seçin.</p>
+    </item>
+    <item>
+      <p><gui>Tarama</gui> altındaki <gui style="button">Fare Hareketleri</gui>’ni etkinleştirin.</p>
+    </item>
+  </steps>
+
+  <p>Şu anda aşağıdaki hareketler desteklenmektedir:</p>
+
+  <list>
+    <item>
+      <p>Farenin orta düğmesini basılı tutup, sola sürükleyip ardından orta fare düğmesini serbest bırakmak geriye doğru gider.</p>
+    </item>
+    <item>
+      <p>Farenin orta düğmesini basılı tutup, sağa sürükleyip ardından orta fare düğmesini serbest bırakmak ileriye doğru gider.</p>
+    </item>
+    <item>
+      <p>Farenin orta düğmesini basılı tutup, aşağı doğru sürükleyip ardından orta fare düğmesini serbest bırakmak yeni sekme oluşturur.</p>
+    </item>
+    <item>
+      <p>Farenin orta düğmesini basılı tutup, aşağıya ve ardından sağa sürükleyip ardından orta fare düğmesini serbest bırakmak var olan sekmeyi kapatır.</p>
+    </item>
+    <item>
+      <p>Farenin orta düğmesini basılı tutup, önce yukarı ve sonra aşağı doğru sürükleyip ardından orta fare düğmesini serbest bırakmak var olan sekmeyi yeniden yükler.</p>
+    </item>
+  </list>
+
+</page>

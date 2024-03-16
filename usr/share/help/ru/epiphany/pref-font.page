@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-font" xml:lang="epiphany-ru">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Гордон Хилл (Gordon Hill)</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Екатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Федерико Бруни (Federico Bruni)</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Используйте пользовательский шрифт для отображения веб-страниц.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Stas Solovey</mal:name>
+      <mal:email>whats_up@tut.by</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alexey Rubtsov</mal:name>
+      <mal:email>rushills@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Изменить шрифт</title>
+
+  <p>По умолчанию для отображения веб-страниц по возможности используется системный шрифт. Если вы используете параметр доступности <gui href="help:gnome-help/a11y-font-size">крупного текста</gui>, это будет учтено. Вы можете изменить это и использовать другие шрифты для просмотра веб-сайтов.</p>
+
+  <steps>
+    <item>
+      <p>Нажмите кнопку меню в правом верхнем углу окна и выберите пункт <guiseq><gui style="menuitem">Параметры</gui><gui style="tab">Вид</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Включите опцию <gui>Использовать пользовательские шрифты</gui>.</p>
+    </item>
+    <item>
+      <p>Щелкните по шрифту, чтобы открыть диалоговое окно выбора шрифта, где можно выбрать другой тип или размер шрифта.</p>
+    </item>
+    <item>
+      <p>Нажмите <gui style="button">Выбрать</gui>, чтобы сохранить свой выбор.</p>
+    </item>
+  </steps>
+
+  <p>Вы также можете увеличить размер шрифта с помощью <keyseq><key>Ctrl</key><key>+</key></keyseq> и уменьшить его с помощью <keyseq><key>Ctrl</key><key>-</key></keyseq>.</p>
+
+</page>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-web" xml:lang="epiphany-fur">
+
+  <info>
+    <link type="guide" xref="index#start" group="#first"/>
+    <link type="seealso" xref="browse-private"/>
+    <link type="seealso" xref="browse-local"/>
+    <revision pkgversion="3.9" date="2013-06-30" status="incomplete"/>
+    <revision pkgversion="3.15" date="2014-12-02" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013, 2014</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Viodi pagjinis web su internet.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Fabio Tomat</mal:name>
+      <mal:email>f.t.public@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Navigâ pal web</title>
+
+  <p>I navigadôrs web a puedin jessi doprâts par viodi pagjinis su internet cuant che si à une conession a internet. Par tacâ a navigâ pal web:</p>
+
+  <steps>
+    <item>
+      <p>Al inviament di <app xref="introduction">Web</app>, il cursôr al à di jessi intal cjamp di inseriment test de bande superiôr dal barcon. Inserìs il URL de pagjine web che tu desideris visitâ o i tiermins di ricercje.</p>
+    </item>
+    <item>
+      <p>Frache il tast Invie par lâ ae pagjine web o par cirî.</p>
+    </item>
+  </steps>
+
+  <p xml:id="tabs">Lis <em>Schedis</em> a son dopradis par viodi plui di une pagjine web intun barcon sôl. Cuant che tu inviis <app>Web</app> pe prime volte, no ti vignarà mostrade nissune schede. Par <em>vierzi une gnove schede</em>, frache il boton gnove schede in alt a çampe dal schermi. Une volte che la gnove schede e je vierte, tu puedis doprâle normalmentri come che tu dopraressis un gnûf barcon.</p>
+
+  <p xml:id="tabs-alt">Tu puedis ancje doprâ la scurte di tastiere <keyseq><key>Ctrl</key><key>T</key></keyseq> par vierzi une gnove schede o il boton gnove schede in alt a çampe dal barcon.</p>
+
+  <p xml:id="tabs-link">Par <em>vierzi un colegament intune gnove schede</em>, fâs un clic diestri sul colegament, dopo selezione <gui style="menuitem">Vierç colegament intune gnove schede</gui> opûr dopre il boton centrâl dal mouse par fâ clic sul colegament.</p>
+
+</page>

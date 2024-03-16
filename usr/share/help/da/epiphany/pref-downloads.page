@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-downloads" xml:lang="epiphany-da">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="review"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Hvor downloades mine filer til og hvordan ændrer jeg indstillingen?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Download filer</title>
+
+  <p>Filer som du downloader fra internettet såsom vedhæftninger i e-mails gemmes automatisk i din <file>Hentet</file>-mappe. Du kan ændre det i <gui>Indstillinger</gui>.</p>
+
+  <steps>
+    <item>
+      <p>Tryk på menuknappen i øverste højre hjørne af vinduet og vælg <guiseq><gui style="menuitem">Indstillinger</gui><gui style="tab">Generelt</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Tryk på <gui>Overføringsmappe</gui>-navnet for at vælge en anden mappe til downloads. Hvis den mappe du vil bruge ikke er i listen, så vælg <gui>Andre …</gui> og at finde den.</p>
+    </item>
+    <item>
+      <p>Hvis du vil vælge hvilken mappe som skal bruges hver gang du downloader en fil, så tænd for <gui>Spørg ved hentning</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Hvis du <em>gemmer</em> en fil frem for at downloade den, så skal du stadigvæk angive hvor du vil gemme den.</p>
+
+  <note style="important">
+    <p>Det er ikke muligt at vælge hvor downloads skal gemmes, hvis du bruger Flatpak til at køre <app>Web</app>. Downloads gemmes altid i din <file>Hentet</file>-mappe.</p>
+  </note>
+
+</page>

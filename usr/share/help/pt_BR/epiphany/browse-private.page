@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-pt-BR">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>O que é modo <em>anônimo</em>?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Enrico Nicoletto</mal:name>
+      <mal:email>liverig@gmail.com</mal:email>
+      <mal:years>2013,</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Fontenelle</mal:name>
+      <mal:email>rafaelff@gnome.org</mal:email>
+      <mal:years>2017-2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Ronaldo Lobato</mal:name>
+      <mal:email>vieira.lobato@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Navegação privativa</title>
+
+  <p>Navegação privada é um modo que limita a forma que seu computador e sites podem acessar suas informações de navegação. Ela geralmente é útil se você deseja emprestar seu computador para um amigo, por exemplo, para verificar e-mail usando webmail porque nenhum acesso a sites será registrado na janela de navegação privada, nem suas informações serão salvas. Você pode preferir o modo anônimo para acessar sites sensíveis tal como Internet banking e <link href="http://questionablecontent.net/">conteúdo questionável</link> porque dados que sites salvaram anteriormente em seu computador não estarão acessíveis aos sites ao navegador no modo anônimo.</p>
+
+  <note style="important">
+    <p>O modo de navegação anônima não impedirá que os sites rastreiem sua atividade de navegação. Se você precisar navegar na web anonimamente, use um serviço VPN comercial.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Pressione o botão de menu no cato superior direito da janela e selecione <guiseq><gui style="menuitem">Nova janela anônima</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Navegue a web usando o modo anônimo.</p>
+    </item>
+    <item>
+      <p>Termine a sessão de navegação privada fechando a janela anônima.</p>
+    </item>
+  </steps>
+
+  <p>Você pode distinguir a navegação privada da navegação normal por meio da marca d'água da janela anônima:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Captura de tela mostrando uma janela de navegação privada sem abas abertas.</p>
+  </media>
+
+</page>

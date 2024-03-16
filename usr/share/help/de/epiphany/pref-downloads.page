@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-downloads" xml:lang="epiphany-de">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="review"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Wo werden heruntergeladene Dateien gespeichert und wie ändert man diese Einstellung?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Christian Kirbach</mal:name>
+      <mal:email>christian.kirbach@gmail.com</mal:email>
+      <mal:years>2013, 2014, 2015, 2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Benjamin Steinwender</mal:name>
+      <mal:email>b@stbe.at</mal:email>
+      <mal:years>2014, 2015</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Tim Sabsch</mal:name>
+      <mal:email>tim@sabsch.com</mal:email>
+      <mal:years>2019, 2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Dateien herunterladen</title>
+
+  <p>Aus dem Internet heruntergeladene Dateien wie E-Mail-Anhänge werden automatisch im Ordner <file>Downloads</file> gespeichert. Sie können dies in den <gui>Einstellungen</gui> anpassen.</p>
+
+  <steps>
+    <item>
+      <p>Press the menu button in the top-right corner of the window and select
+      <guiseq><gui style="menuitem">Preferences</gui><gui style="tab">General</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Klicken Sie auf den Namen <gui>Download-Ordner</gui>, um einen anderen Ordner für Downloads auszuwählen. Wenn der gewünschte Ordner nicht in der Liste ist, wählen Sie <gui>Andere …</gui>, um diesen zu suchen.</p>
+    </item>
+    <item>
+      <p>Wenn Sie den Zielordner für jeden Download selbst auswählen möchten, schalten Sie <gui>Bei Download fragen</gui> an.</p>
+    </item>
+  </steps>
+
+  <p>Wenn Sie eine Datei <em>speichern</em> anstatt diese herunter zu laden, so müssen Sie angeben, wo die Datei gespeichert werden soll.</p>
+
+  <note style="important">
+    <p>Wenn Sie <app>Web</app> über Flatpak verwenden, können Sie den Zielordner für Downloads nicht selbst angeben. Downloads werden in diesem Fall immer in Ihrem <file>Downloads</file>-Ordner gespeichert.</p>
+  </note>
+
+</page>

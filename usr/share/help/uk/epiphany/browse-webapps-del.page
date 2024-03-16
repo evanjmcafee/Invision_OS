@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-webapps-del" xml:lang="epiphany-uk">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <link type="seealso" xref="browse-webapps"/>
+    <revision pkgversion="3.16" date="2014-01-26" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Єкатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2015</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Як вилучити <em>вебпрограму</em>?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Юрій Чорноіван</mal:name>
+      <mal:email>yurchor@ukr.net</mal:email>
+      <mal:years>2020</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Вилучення вебпрограми</title>
+
+  <p>Ви можете вилучити вебпрограму, якщо вона вам більше не потрібна.</p>
+
+  <steps>
+    <item>
+      <p>Натисніть кнопку меню у верхньому правому куті вікна програми і виберіть пункт <gui style="menuitem">Відкрити керування програмами</gui></p>
+    </item>
+    <item>
+      <p>Натисніть кнопку <gui style="button">Вилучити</gui>, яку розташовано поруч із пунктом програми, яку ви хочете вилучити.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>Вебпрограми не можна вилучити, якщо ви користуєтеся Flatpak для запуску <app>Тенет</app>.</p>
+  </note>
+
+</page>

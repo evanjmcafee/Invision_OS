@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-hu">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Navigáció a weboldalakon az egér használatával.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Hammer Attila</mal:name>
+      <mal:email>hammera at pickup dot hu</mal:email>
+      <mal:years>2014.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kelemen Gábor</mal:name>
+      <mal:email>kelemeng at gnome dot hu</mal:email>
+      <mal:years>2013, 2015.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Úr Balázs</mal:name>
+      <mal:email>ur dot balazs at fsf dot hu</mal:email>
+      <mal:years>2014, 2021.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Egérgesztusok használata</title>
+
+  <p>Az egérgesztusok gyors lehetőséget kínálnak a weboldalakon történő szörfözésre, anélkül hogy a kezét a billentyűzethez kellene emelnie. Ezeket a gesztusokat az egér középső gombjának lenyomva tartásával lehet kiváltani, miközben az alábbi egérmozdulatok egyikét végzi. Ha az egérnek nincs középső egérgombja, akkor nem tudja használni az egérgesztusokat.</p>
+
+  <steps>
+    <item>
+      <p>Nyomja meg az ablak jobb felső sarkában lévő menügombot, és válassza a <guiseq><gui style="menuitem">Beállítások</gui> <gui style="tab">Általános</gui></guiseq> lapot.</p>
+    </item>
+    <item>
+      <p>A <gui>Böngészés</gui> alatt kapcsolja be az <gui style="button">Egérgesztusok</gui> gombot.</p>
+    </item>
+  </steps>
+
+  <p>Jelenleg a következő gesztusok támogatottak:</p>
+
+  <list>
+    <item>
+      <p>A középső egérgomb nyomva tartásával, az egér balra húzásával, majd a középső egérgomb felengedésével visszafelé navigálhat.</p>
+    </item>
+    <item>
+      <p>A középső egérgomb nyomva tartásával, az egér jobbra húzásával, majd a középső egérgomb felengedésével előrefelé navigálhat.</p>
+    </item>
+    <item>
+      <p>A középső egérgomb nyomva tartásával, az egér lefelé húzásával, majd a középső egérgomb felengedésével új lapot hozhat létre.</p>
+    </item>
+    <item>
+      <p>A középső egérgomb nyomva tartásával, az egér lefelé, azután jobbra húzásával, majd a középső egérgomb felengedésével bezárhatja a jelenlegi lapot.</p>
+    </item>
+    <item>
+      <p>A középső egérgomb nyomva tartásával, az egér először felfelé, azután lefelé húzásával, majd a középső egérgomb felengedésével újratöltheti az aktuális lapot.</p>
+    </item>
+  </list>
+
+</page>

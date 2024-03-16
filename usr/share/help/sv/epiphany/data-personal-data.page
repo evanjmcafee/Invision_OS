@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-personal-data" xml:lang="epiphany-sv">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Michael Catanzaro</name>
+      <email its:translate="no">mcatanzaro@gnome.org</email>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Hur tar jag bort personliga data som lagras av webbplatser?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Anders Jonsson</mal:name>
+      <mal:email>anders.jonsson@norsjovallen.se</mal:email>
+      <mal:years>2015, 2017</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Ta bort personliga data</title>
+
+  <p><app>Webb</app> låter dig ta bort personliga data som lagras av webbplatser.</p>
+
+  <p><link xref="data-personal-data">Lär dig hur du tar bort webbläsarkakor.</link></p>
+
+  <p>För att ta bort andra personliga data:</p>
+
+  <steps>
+    <item>
+      <p>Tryck på menyknappen i fönstrets övre högra hörn och välj sedan <guiseq><gui style="menuitem">Inställningar</gui><gui style="tab">Sekretess</gui><gui style="button">Töm personliga data</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Välj typerna av lagrade data som du vill ta bort och begränsa valfritt åtgärden till valda domäner.</p>
+    </item>
+    <item>
+      <p>Tryck <gui style="button">Rensa data</gui>.</p>
+    </item>
+  </steps>
+</page>

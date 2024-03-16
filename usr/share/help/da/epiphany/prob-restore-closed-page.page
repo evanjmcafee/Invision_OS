@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="prob-restore-closed-page" xml:lang="epiphany-da">
+
+  <info>
+    <link type="guide" xref="index#prob"/>
+    <revision pkgversion="3.12" date="2014-02-24" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Jeg vil genåbne en webside, som jeg lukkede ved en fejl.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Hvordan gendanner jeg et faneblad?</title>
+
+  <p>Du kan gendanne de sider, du har lukket, så længe mindst én <app>Web</app> stadigvæk er åben.</p>
+
+  <steps>
+    <item>
+      <p>Tryk på menuknappen i øverste højre hjørne af vinduet og vælg <gui style="menuitem">Genåbn lukket faneblad</gui>. Det faneblad som sidst blev lukket vil blive åbnet igen.</p>
+    </item>
+  </steps>
+
+  <p>Gentag trinnene så mange gange det er nødvendigt indtil det faneblad du vil have er gendannet. Fanebladene gendannes i omvendt rækkefølge af hvad de blev lukket i. Når du har gendannet alle de lukkede faneblade, så kan du ikke gendanne flere faneblade.</p>
+
+  <note style="important">
+    <p>Det er ikke muligt at gendanne et lukket faneblad i <link xref="browse-private">privat browsing</link>-tilstand.</p>
+  </note>
+
+</page>

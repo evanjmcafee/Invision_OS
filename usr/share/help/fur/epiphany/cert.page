@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="cert" xml:lang="epiphany-fur">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.15" date="2015-01-28" status="draft"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2015</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Gjestion di certificâts in <app>Web</app>.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Fabio Tomat</mal:name>
+      <mal:email>f.t.public@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Certificâts</title>
+
+  <p>Pal moment <app>Web</app> nol à integrât il supuart pe gjestion dai certificâts.</p>
+
+  <note style="advanced">
+    <p>Tu puedis zontâ i certificâts par mieç de rie di comant se tu âs instalât p11-kit. Par zontâ un certificât ti covente discjariâ il certificât e eseguî il comant chi sot par impuartâlu:</p>
+    <screen><output>$ </output><input>sudo trust anchor <var>/home/utent/Discjariâts/certificât.crt</var></input></screen>
+    <p>Purtrop chest nol funzionarà sui sistemis basâts su Debian, come par esempli Ubuntu.</p>
+  </note>
+
+</page>

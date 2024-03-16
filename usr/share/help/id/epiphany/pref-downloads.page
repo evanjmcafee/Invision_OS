@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-downloads" xml:lang="epiphany-id">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="review"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Kemana berkas yang saya unduh dan bagaimana saya bisa mengubah pengaturan ini?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kukuh Syafaat</mal:name>
+      <mal:email>syafaatkukuh@gmail.com</mal:email>
+      <mal:years>2019.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Andika Triwidada</mal:name>
+      <mal:email>andika@gmail.com</mal:email>
+      <mal:years>2020.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Mengunduh berkas</title>
+
+  <p>Berkas yang Anda unduh dari internet, seperti lampiran surel, secara otomatis akan disimpan ke dalam folder <file>Unduhab</file>. Anda dapat mengubahnya dalam <gui>Preferensi</gui>.</p>
+
+  <steps>
+    <item>
+      <p>Tekan tombol menu di sudut kanan atas jendela dan pilih <guiseq><gui style="menuitem">Preferensi</gui><gui style="tab">Umum</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Tekan nama <gui>Folder unduhan</gui> untuk memilih folder yang berbeda untuk unduhan. Jika folder yang ingin Anda gunakan tidak ada dalam daftar, pilih <gui>Lainnya…</gui> untuk mencarinya.</p>
+    </item>
+    <item>
+      <p>Jika Anda ingin memilih direktori mana yang akan digunakan setiap kali Anda mengunduh berkas, nyalakan <gui>Tanyakan saat mengunduh</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Jika Anda <em>Simpan</em> berkas alih-alih mengunduhnya, Anda masih perlu untuk menentukan dimana Anda ingin menyimpannya.</p>
+
+  <note style="important">
+    <p>Tidak dimungkinkan untuk memilih tempat menyimpan unduhan jika Anda menggunakan Flatpak untuk menjalankan <app>Web</app>. Unduhan akan selalu disimpan di folder <file>Downloads</file> Anda.</p>
+  </note>
+
+</page>

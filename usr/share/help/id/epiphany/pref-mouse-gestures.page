@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-id">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Navigasi halaman web menggunakan tetikus.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kukuh Syafaat</mal:name>
+      <mal:email>syafaatkukuh@gmail.com</mal:email>
+      <mal:years>2019.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Andika Triwidada</mal:name>
+      <mal:email>andika@gmail.com</mal:email>
+      <mal:years>2020.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Memakai sikap tetikus</title>
+
+  <p>Sikap tetikus menawarkan opsi cepat untuk berselancar di halaman web tanpa memindahkan tangan Anda ke papan ketik. Sikap ini dipicu dengan menahan tombol tengah tetikus saat melakukan salah satu gerakan tetikus berikut. Jika tetikus Anda tidak memiliki tombol tengah tetikus, Anda tidak dapat menggunakan sikap tetikus.</p>
+
+  <steps>
+    <item>
+      <p>Tekan tombol menu di sudut kanan atas jendela dan pilih <guiseq><gui style="menuitem">Preferensi</gui><gui style="tab">Umum</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Di bawah <gui>Penjelajahan</gui>, nyalakan <gui style="button">Sikap Tetikus</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Gerakan berikut saat ini didukung:</p>
+
+  <list>
+    <item>
+      <p>Menahan tombol tengah tetikus, menyeret ke kiri, lalu melepaskan tombol tengah tetikus akan menavigasi ke belakang.</p>
+    </item>
+    <item>
+      <p>Menahan tombol tengah tetikus, menyeret ke kanan, lalu melepaskan tombol tengah tetikus akan menavigasi ke depan.</p>
+    </item>
+    <item>
+      <p>Menahan tombol tengah tetikus, menyeret ke bawah, lalu melepaskan tombol mouse tengah akan membuat tab baru.</p>
+    </item>
+    <item>
+      <p>Menahan tombol tengah tetikus, menyeret ke bawah lalu ke kanan, lalu melepaskan tombol tengah tetikus akan menutup tab saat ini.</p>
+    </item>
+    <item>
+      <p>Menahan tombol tengah tetikus, menyeret terlebih dahulu ke atas lalu ke bawah, lalu melepaskan tombol tengah tetikus akan memuat ulang tab saat ini.</p>
+    </item>
+  </list>
+
+</page>

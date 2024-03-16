@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-web" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index#start" group="#first"/>
+    <link type="seealso" xref="browse-private"/>
+    <link type="seealso" xref="browse-local"/>
+    <revision pkgversion="3.9" date="2013-06-30" status="incomplete"/>
+    <revision pkgversion="3.15" date="2014-12-02" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013, 2014</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Visualizzare pagine web su Internet.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Navigare il web</title>
+
+  <p>I browser web possono essere usati per visualizzare pagine su Internet quando si dispone di una connessione a Internet. Per iniziare a navigare sul web:</p>
+
+  <steps>
+    <item>
+      <p>All'avvio di <app xref="introduction">Web</app>, il cursore dovrebbe trovarsi nella casella di testo in alto alla finestra. Digitare l'URL della pagina web che si vuole visitare o un termine di ricerca.</p>
+    </item>
+    <item>
+      <p>Premere Invio per andare alla pagina web o per cercare.</p>
+    </item>
+  </steps>
+
+  <p xml:id="tabs">Le <em>schede</em> si usano per avere più di una pagina in una finestra. All'avvio di <app>Web</app> non sarà mostrata nessuna scheda. Per <em>aprire una scheda</em> premere il pulsante Nuova scheda in alto a sinistra della finestra. Una volta aperta la nuova scheda, la si può usare come si usa normalmente una nuova finestra.</p>
+
+  <p xml:id="tabs-alt">Si può anche usare la scorciatoia da tastiera <keyseq><key>Ctrl</key><key>T</key></keyseq> per aprire una nuova scheda oppure il pulsante Nuova scheda in alto a sinistra della finestra.</p>
+
+  <p xml:id="tabs-link">Per <em>aprire un collegamento in una nuova scheda</em>, fare clic destro sul collegamento, quindi selezionare <gui style="menuitem">Apri collegamento in una nuova scheda</gui>, oppure fare clic su di esso con il tasto centrale del mouse.</p>
+
+</page>

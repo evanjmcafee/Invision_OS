@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-web" xml:lang="epiphany-da">
+
+  <info>
+    <link type="guide" xref="index#start" group="#first"/>
+    <link type="seealso" xref="browse-private"/>
+    <link type="seealso" xref="browse-local"/>
+    <revision pkgversion="3.9" date="2013-06-30" status="incomplete"/>
+    <revision pkgversion="3.15" date="2014-12-02" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013, 2014</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Vis websider på internettet.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Gennemse webbet</title>
+
+  <p>Webbrowsere kan bruges til at vise sider på internettet, når du har en internetforbindelse. Gennemse webbet på følgende måde:</p>
+
+  <steps>
+    <item>
+      <p>Når du starter <app xref="introduction">Web</app>, så bør din markør være i tekstindtastningsfeltet øverst i vinduet. Skriv URL'en til den webside du vil besøge eller din søgefrase.</p>
+    </item>
+    <item>
+      <p>Tryk på retur for at gå til websiden eller for at søge.</p>
+    </item>
+  </steps>
+
+  <p xml:id="tabs"><em>Faneblade</em> bruges til at vise mere end én webside i et vindue. Når du starter <app>Web</app>, så vises der ikke nogen faneblade. For at <em>åbne et nyt vindue</em> trykkes på nyt faneblad-knappen øverst til venstre på skærmen. Når det nye faneblad er åbent, så kan du bruge det som du normalt ville bruge et nyt vindue.</p>
+
+  <p xml:id="tabs-alt">Du kan også bruge <keyseq><key>Ctrl</key><key>T</key></keyseq>-tastaturgenvejen til at åbne et nyt faneblad eller bruge nyt faneblad-knappen øverste til venstre i vinduet.</p>
+
+  <p xml:id="tabs-link">For at <em>åbne et link i et nyt faneblad</em> højreklikker du på linket og vælger <gui style="menuitem">Gå til adressen i nyt faneblad</gui> eller brug den midterste museknappen til at klikke på linket.</p>
+
+</page>

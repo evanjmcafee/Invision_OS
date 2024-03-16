@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="prob-restore-closed-page" xml:lang="epiphany-ca">
+
+  <info>
+    <link type="guide" xref="index#prob"/>
+    <revision pkgversion="3.12" date="2014-02-24" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Si voleu tornar a obrir una pàgina web que heu tancat per error.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marieta Lalu</mal:name>
+      <mal:email>marisetta.sakura@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Laia dg</mal:name>
+      <mal:email>laia.dolc@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jaume Jorba</mal:name>
+      <mal:email>jaume.jorba@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Assumpta</mal:name>
+      <mal:email>assumptaanglada@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jordi Mas</mal:name>
+      <mal:email>jmas@softcatala.org</mal:email>
+      <mal:years>2019, 2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Com podeu restaurar una pestanya?</title>
+
+  <p>Podeu restaurar les pàgines que hàgiu tancat mentre encara hi hagi com a mínim un <app>Web</app> obert.</p>
+
+  <steps>
+    <item>
+      <p>Premeu el botó de menú de l'extrem superior dret de la finestra i seleccioneu <gui style="menuitem">Torna a obrir la pestanya tancada</gui>. Es tornarà a obrir l'última pestanya que hàgiu tancat.</p>
+    </item>
+  </steps>
+
+  <p>Repetiu el pas tants cops com calgui fins que es restauri la pestanya que voleu. Les pestanyes es restauraran en ordre invers a com les hàgiu tancat. Quan hàgiu restaurat totes les pestanyes tancades, ja no podreu restaurar més pestanyes.</p>
+
+  <note style="important">
+    <p>No es pot restaurar una pestanya tancada en el mode <link xref="browse-private">navegació privada</link>.</p>
+  </note>
+
+</page>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-personal-data" xml:lang="epiphany-de">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Michael Catanzaro</name>
+      <email its:translate="no">mcatanzaro@gnome.org</email>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Wie löscht man von Webseiten gespeicherte persönliche Daten?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Christian Kirbach</mal:name>
+      <mal:email>christian.kirbach@gmail.com</mal:email>
+      <mal:years>2013, 2014, 2015, 2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Benjamin Steinwender</mal:name>
+      <mal:email>b@stbe.at</mal:email>
+      <mal:years>2014, 2015</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Tim Sabsch</mal:name>
+      <mal:email>tim@sabsch.com</mal:email>
+      <mal:years>2019, 2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Persönliche Daten löschen</title>
+
+  <p><app>Web</app> erlaubt Ihnen, von Webseiten gespeicherte persönliche Daten zu löschen.</p>
+
+  <p><link xref="data-personal-data">Erfahren Sie, wie Sie Browser-Cookies löschen können.</link></p>
+
+  <p>So löschen Sie andere persönliche Daten:</p>
+
+  <steps>
+    <item>
+      <p>Öffnen Sie das Menü oben rechts im Fenster und wählen Sie dann <guiseq><gui style="menuitem">Einstellungen</gui><gui style="tab">Datenschutz</gui><gui style="button">Persönliche Daten löschen</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Wählen Sie Typen gespeicherter Daten aus, die Sie löschen wollen und begrenzen Sie, falls gewünscht, den Löschvorgang auf ausgewählte Domains.</p>
+    </item>
+    <item>
+      <p>Klicken Sie auf <gui style="button">Daten löschen</gui>.</p>
+    </item>
+  </steps>
+</page>

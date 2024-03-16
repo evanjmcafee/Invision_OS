@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="cert" xml:lang="epiphany-eu">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.15" date="2015-01-28" status="draft"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2015</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Ziurtagirien kudeaketa <app>Weba</app> aplikazioan.</desc>
+  </info>
+
+  <title>Ziurtagiriak</title>
+
+  <p><app>Webak</app> ez du, momentuz, ziurtagiri-kudeaketarako aukerarik eskaintzen.</p>
+
+  <note style="advanced">
+    <p>Komando-lerroaren bidez gehitu daitezke ziurtagiriak p11-kit instalatuta badago. Ziurtagiri bat gehitzeko, hura deskargatu eta honako komandoa exekutatu behar da hura inportatzeko:</p>
+    <screen><output>$ </output><input>sudo trust anchor <var>/home/user/Downloads/certificate.crt</var></input></screen>
+    <p>Zoritxarrez, horrek ez du funtzionatzen Debianen oinarritutako sistemetan, adibidez Ubuntun.</p>
+  </note>
+
+</page>

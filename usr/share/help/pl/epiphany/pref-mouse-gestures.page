@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-pl">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Przeglądanie stron za pomocą myszy.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Piotr Drąg</mal:name>
+      <mal:email>piotrdrag@gmail.com</mal:email>
+      <mal:years>2017-2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Aviary.pl</mal:name>
+      <mal:email>community-poland@mozilla.org</mal:email>
+      <mal:years>2017-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Gesty myszy</title>
+
+  <p>Gesty myszy zapewniają szybką nawigację po Internecie bez potrzeby używania klawiatury. Są one wywoływane przez przytrzymanie środkowego przycisku myszy w czasie wykonywania jednego z poniższych ruchów myszą. Jeśli używana mysz nie ma środkowego przycisku, to nie można używać gestów myszą.</p>
+
+  <steps>
+    <item>
+      <p>Kliknij przycisk menu w górnym prawym rogu okna i wybierz <guiseq><gui style="menuitem">Preferencje</gui> <gui style="tab">Ogólne</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>W sekcji <gui>Przeglądanie</gui> włącz <gui style="button">Gesty myszy</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Obecnie obsługiwane gesty:</p>
+
+  <list>
+    <item>
+      <p>Przytrzymanie środkowego przycisku myszy, przeciągnięcie w lewo, a następnie zwolnienie środkowego przejdzie do poprzedniej strony.</p>
+    </item>
+    <item>
+      <p>Przytrzymanie środkowego przycisku myszy, przeciągnięcie w prawo, a następnie zwolnienie środkowego przejdzie do następnej strony.</p>
+    </item>
+    <item>
+      <p>Przytrzymanie środkowego przycisku myszy, przeciągnięcie w dół, a następnie zwolnienie środkowego otworzy nową kartę.</p>
+    </item>
+    <item>
+      <p>Przytrzymanie środkowego przycisku myszy, przeciągnięcie w dół, a potem prawo, a następnie zwolnienie środkowego zamknie obecną kartę.</p>
+    </item>
+    <item>
+      <p>Przytrzymanie środkowego przycisku myszy, przeciągnięcie w górę, a potem w dół, a następnie zwolnienie środkowego ponownie wczyta obecną kartę.</p>
+    </item>
+  </list>
+
+</page>

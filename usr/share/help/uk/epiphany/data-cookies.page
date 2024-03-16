@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-cookies" xml:lang="epiphany-uk">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Єкатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Як вилучити куки навігатора?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Юрій Чорноіван</mal:name>
+      <mal:email>yurchor@ukr.net</mal:email>
+      <mal:years>2020</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Вилучення куки</title>
+
+  <!-- Include an explanation about cookies. -->
+  <include xmlns="http://www.w3.org/2001/XInclude" href="cookies.xml" xpointer="xmlns(mal=http://projectmallard.org/1.0/)xpointer(/mal:page/mal:p)"/>
+
+  <p>Ви можете перевірити, чи лишив сайт куку, і вилучити її, але майте на увазі, що сайт зазвичай встановить куку знову, якщо відвідаєте його знову.</p>
+
+  <steps>
+    <item>
+      <p>Натисніть кнопку меню у верхньому правому куті вікна і виберіть <guiseq><gui style="menuitem">Параметри</gui><gui style="tab">Конфіденційність</gui><gui style="button">Вилучити особисті дані</gui></guiseq></p>
+    </item>
+    <item>
+      <p>Позначте пункти кук, які ви хочете вилучити. Ви можете вибрати декілька доменів або позначити пункт «Куки», щоб вибрати усі домени одночасно.</p>
+    </item>
+    <item>
+      <p>Натисніть кнопку <gui style="button">Очистити дані</gui>.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>Якщо ви хочете вилучити куки, які було збережено якимось сайтом, вам варто скористатися порадами щодо вилучення <link xref="data-personal-data">інших даних, які збережено цим сайтом</link>.</p>
+  </note>
+
+</page>

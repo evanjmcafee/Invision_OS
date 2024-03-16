@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="prob-restore-closed-page" xml:lang="epiphany-uk">
+
+  <info>
+    <link type="guide" xref="index#prob"/>
+    <revision pkgversion="3.12" date="2014-02-24" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Єкатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Хочеться повторно відкрити вебсторінку, яку було випадково закрито.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Юрій Чорноіван</mal:name>
+      <mal:email>yurchor@ukr.net</mal:email>
+      <mal:years>2020</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Як відновити вкладку?</title>
+
+  <p>Ви можете відновити закриті сторінки, якщо не завершено роботу принаймні одного екземпляра програми <app>Тенета</app>.</p>
+
+  <steps>
+    <item>
+      <p>Натисніть кнопку меню у верхньому правому куті вікна програми і виберіть пункт <gui style="menuitem">Перевідкрити закриту вкладку</gui>. Вашу останню закриту вкладку буде знову відкрито.</p>
+    </item>
+  </steps>
+
+  <p>Повторіть цей крок потрібну кількість разів, аж доки не буде відновлено потрібну вам вкладку. Вкладки будуть відновлюватися у порядку, у якому ви їх закривали. Після відкриття усіх закритих вкладок, ви вже не зможете відновлювати вкладки.</p>
+
+  <note style="important">
+    <p>Відновлення закритих вкладок у режимі <link xref="browse-private">конфіденційного перегляду</link> неможливе.</p>
+  </note>
+
+</page>

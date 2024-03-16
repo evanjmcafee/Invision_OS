@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-fr">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Qu’est-ce que le mode <em>privé</em> ?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>naybnet</mal:name>
+      <mal:email>naybnet@gmail.com</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Julien Hardelin</mal:name>
+      <mal:email>jhardlin@orange.fr</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Guillaume Bernard</mal:name>
+      <mal:email>associations@guillaume-bernard.fr</mal:email>
+      <mal:years>2014-2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alain Lojewski</mal:name>
+      <mal:email>allomervan@gmail.com</mal:email>
+      <mal:years>2015</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Charles Monzat</mal:name>
+      <mal:email>charles.monzat@free.fr</mal:email>
+      <mal:years>2019-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Navigation privée</title>
+
+  <p>La navigation privée est un mode limitant la manière dont votre ordinateur, ainsi que les sites internet, accèdent à vos informations de navigation. Elle est utile si vous souhaitez par exemple prêter votre ordinateur à un ami pour consulter ses messages par Internet. En effet, vous n’êtes alors identifié sur aucun site de la fenêtre de navigation privée et les informations de votre ami ne sont pas mémorisées pendant la session. Vous préférerez peut-être utiliser le mode navigation privée pour accéder à des sites web sensibles tels que les banques en ligne et les <link href="http://questionablecontent.net/">contenus suspects</link> puisqu’il est plus difficile pour les sites web de vous identifier en mode navigation privée.</p>
+
+  <note style="important">
+    <p>Le mode navigation privée n’empêche pas les sites web de suivre votre activité de navigation. Si vous souhaitez naviguer sur le Web de manière anonyme, vous devez utiliser un service VPN commercial.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Cliquez sur le bouton de menu situé dans le coin supérieur droit de la fenêtre, puis sélectionnez <guiseq><gui style="menuitem">Nouvelle fenêtre privée</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Naviguez sur le Web en mode privé.</p>
+    </item>
+    <item>
+      <p>Terminez la session de navigation privée en fermant la fenêtre privée.</p>
+    </item>
+  </steps>
+
+  <p>La navigation privée se distingue de la navigation normale par le filigrane de la fenêtre privée :</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Capture d’écran montrant une fenêtre de navigation privée sans onglets ouverts.</p>
+  </media>
+
+</page>

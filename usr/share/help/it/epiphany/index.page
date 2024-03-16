@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="guide" style="task" id="index" xml:lang="epiphany-it">
+
+  <info>
+    <title type="link" role="trail">Guida di Web</title>
+    <title type="link">Guida di Web</title>
+    <!-- The text title is used on the help.gnome.org -->
+    <title type="text">Guida di Web</title>
+    <revision pkgversion="3.10" date="2013-07-02" status="review"/>
+    <!-- Bookmarks sections need rewritten for Epiphany 3.24 -->
+    <revision pkgversion="3.24" date="2017-03-07" status="outdated"/>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc><app>Web</app>, nota precedentemente come <app>Epiphany</app>, è il browser web di GNOME. Inizia a usare <app>Web</app> e scopri le funzionalità disponibili.</desc>
+
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title><media type="image" width="48px" height="48px" its:translate="no" src="media/org.gnome.Epiphany.svg"/> Web</title>
+
+  <section id="start" style="2column">
+    <title>Per iniziare</title>
+  </section>
+
+  <section id="privacy" style="2column">
+    <title>La propria privacy</title>
+  </section>
+
+  <section id="adv" style="2column">
+    <title>Navigazione avanzata</title>
+  </section>
+
+  <section id="pref" style="2column">
+    <title>Opzioni e impostazioni</title>
+  </section>
+
+  <section id="prob" style="2column">
+    <title>Problemi comuni</title>
+  </section>
+
+</page>

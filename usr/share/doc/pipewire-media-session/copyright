@@ -1,0 +1,161 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: media-session
+Source: https://gitlab.freedesktop.org/pipewire/media-session
+License: Expat
+
+Files: *
+Copyright: 2018-2021 Wim Taymans
+License: Expat
+
+Files: doc/doxygen-awesome.css
+Copyright: 2021 jothepro (https://github.com/jothepro/doxygen-awesome-css)
+License: Expat
+
+Files: po/*
+Copyright:
+           2006-2008, Lennart Poettering
+           2008-2021, The Free Software Foundation, Inc
+           2008-2012, Petr Kovar <pknbe@volny.cz>
+           2008, Judith Pintó Subirada <judithp@gmail.com>
+           2008, Xavier Conde Rueda <xavi.conde@gmail.com>
+           2009-2012, Amitakhya Phukan <aphukan@fedoraproject.org>
+           2009-2012, Josep Torné Llavall <josep.torne@gmail.com>
+           2009-2012, Runa Bhattacharjee <runab@redhat.com>
+           2009, Agustí Grau <fletxa@gmail.com>
+           2016, Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>
+           2016, Valentin Laskov <laskov@festa.bg>
+           2016, Viktar Vaŭčkievič <victorenator@gmail.com>
+           2016, Wim Taymans <wim.taymans@gmail.com>
+           2017-2019, Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>
+           2018, Daniel Rusek <mail@asciiwolf.com>
+           2018, Marek Černocký <marek@manet.cz>
+           2019-2021, scootergrisen
+           2019, F Wolff <friedel@translate.org.za>
+           2009, A S Alam <aalam@users.sf.net>
+           2021, Albano Battistella <albano_battistella@hotmail.com>
+           2016, Alberto Castillo <acg@albertocg.com>
+           2014-2019, Alexander Potashev <aspotashev@gmail.com>
+           2008, Amanpreet Singh Alam <aalam@users.sf.net>
+           2021, Anders Jonsson <anders.jonsson@norsjovallen.se>
+           2011-2018, Andika Triwidada <andika@gmail.com>
+           2016, Balázs Úr <urbalazs at gmail dot com>
+           2011, bassball93 <bassball93@gmail.com>
+           2020, Baurzhan Muftakhidinov <baurthefirst@gmail.com>
+           2021, Carmen Bianca Bakker <carmen@carmenbianca.eu>
+           2015-2016, Cédric Valmary <cvalmary@yahoo.fr>
+           2010-2012, Cheng-Chia Tseng <pswo10680@gmail.com>
+           2008-2021, Pipewire
+           2008, Pulseaudio
+           2010, Rosetta Contributors and Canonical Ltd
+           2021, Rafael Fontenelle <rafaelff@gnome.org>
+           2009, Corentin Perard <corentin.perard@gmail.com>
+           2008-2012, Daniel Nylander <po@danielnylander.se>
+           2008, Dimitris Glezos <dimitris@glezos.com>
+           2013-2014, Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>
+           2009, Domingo Becker <domingobecker@gmail.com>
+           2014-2015, Dušan Kazik <prescott66@gmail.com>
+           2017, Edouard Duliege <edouard.duliege@gmail.com>
+           2012, Elad <el.il@doom.co.il>
+           2013, eukim <eukim@redhat.com>
+           2008-2012, Fabian Affolter <fab@fedoraproject.org>
+           2009-2012, Fernando Gonzalez Blanco <fgonz@fedoraproject.org>
+           2012-2019, Fran Dieguez <frandieguez@gnome.org>
+           2015, Frank Hill <hxf.prc@gmail.com>
+           2016, Gabor Kelemen <kelemeng at ubuntu dot com>
+           2009, Geert Warrink <geert.warrink@onsnet.nu>
+           2016, Gladys Guerrero Lozano <gguerrer@redhat.com>
+           2017, gogo <trebelnik2@gmail.com>
+           2009, Héctor Daniel Cabrera <h.daniel.cabrera@gmail.com>
+           2009-2012, Hedda Peters <hpeters@redhat.com>
+           2021, Hugo Carvalho <hugokarvalho@hotmail.com>
+           2009, Hyu_gabaru Ryu_ichi <hyu_gabaru@yahoo.co.jp>
+           2009-2012, I. Felix <ifelix@redhat.com>
+           2009, Igor Miletic (Igor Miletić) <grejigl-gnomeprevod@yahoo.ca>
+           2009-2012, Igor Pires Soares <igor@projetofedora.org>
+           2009-2012, Jaswinder Singh <jsingh@redhat.com>
+           2014-2017, Josef Andersson <josef.andersson@fripost.org>
+           2020, Juliano de Souza Camargo <julianosc@pm.me>
+           2014, Kaan Özdinçer <kaanozdincer@gmail.com>
+           2012, KAMI <kami911@gmail.com>
+           2017, Karl Ove Hufthammer <karl@huftis.org>
+           2016, Kenzo Moriguchi <kmoriguc@redhat.com>
+           2017, KimJeongYeon <jeongyeon.kim@samsung.com>
+           2009-2012, Kiyoto Hashida <khashida@redhat.com>
+           2009-2012, Krishna Babu K <kkrothap@redhat.com>
+           2009-2012, Leah Liu <lliu@redhat.com>
+           2010-2012, Leonid Kurbatov <llenchikk@rambler.ru>
+           2008-2009, Luca Ferretti <elle.uca@libero.it>
+           2009-2012, Manoj Kumar Giri <mgiri@redhat.com>
+           2018, Marcos Lans <marcoslansgarza@gmail.com>
+           2016, Mario Blättermann <mario.blaettermann@gmail.com>
+           2009, mario_santagiuliana <mario at marionline.it>
+           2016, Máximo Castañeda Riloba <mcrcctm@gmail.com>
+           2011, mbouzada <mbouzada@gmail.com>
+           2008-2009, Micha Pietsch <barney@fedoraproject.org>
+           2008, Michaël Ughetto <telimektar esraonline com>
+           2009-2019, Milo Casagrande <milo@ubuntu.com>
+           2009-2012, Miloš Komarčević <kmilos@gmail.com>
+           2015, Mingye Wang (Arthur2e5) <arthur200126@gmail.com>
+           2017-2019, Moo
+           2015-2017, Muhammet Kara <muhammetk@gmail.com>
+           2014, Necdet Yücel <necdetyucel@gmail.com>
+           2021, Nicolai Syvertsen <saivert@saivert.com>
+           2021, Oğuz Ersen <oguzersen@protonmail.com>
+           2016, Ooyama Yosiyuki <qqke6wd9k@apricot.ocn.ne.jp>
+           2008, Pablo Martin-Gomez <pablo.martin-gomez@laposte.net>
+           2020, pan93412 <pan93412@gmail.com>
+           2015, Pedro Albuquerque <palbuquerque73@openmailbox.com>
+           2008-2021, Piotr Drąg <piotrdrag@gmail.com>
+           2013-2021, Rafael Fontenelle <rafaelff@gnome.org>
+           2009-2012, Rajesh Ranjan <rajesh672@gmail.com>
+           2009-2012, Reinout van Schouwen <reinout@gmail.com>
+           2008 Robert-André Mauchin <zebob.m@pengzone.org>
+           2012-2015, Rui Gouveia <rui.gouveia@globaltek.pt>
+           2016, Sam Friedmann <sfriedma@redhat.com>
+           2009-2012, Sandeep Shedmake <sshedmak@redhat.com>
+           2018, Sangchul Lee <sc11.lee@samsung.com>
+           2009-2012, Shankar Prasad <svenkate@redhat.com>
+           2009-2012, Sweta Kothari <swkothar@redhat.com>
+           2009-2012, Thalia Papoutsaki <saliyath@gmail.com>
+           2009-2012, Thomas Canniot <mrtom@fedoraproject.org>
+           2008, Timo Jyrinki <timo.jyrinki@iki.fi>
+           2021, Victor Ryzhykh <victorr2007@yandex.ru>
+           2009-2012, Ville-Pekka Vainio <vpivaini@cs.helsinki.fi>
+           2016, Wim Taymans <wim.taymans@gmail.com>
+           2009-2021, Yuri Chornoivan <yurchor@ukr.net>
+           2008-2009, 闫丰刚 <sainry@gmail.com>
+License: Expat
+Comment: Some po-files refer to the pipewire license that is the Expat license.
+
+Files: src/alsa-no-dsp.c
+Copyright: 2021, Collabora Ltd.
+License: Expat
+
+Files: src/bluez-autoswitch.c
+       src/logind.c
+       src/streams-follow-default.c
+Copyright: 2021, Pauli Virtanen
+License: Expat
+
+Files: debian/*
+Copyright: 2021 Collabora Ltd.
+License: Expat
+
+License: Expat
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.

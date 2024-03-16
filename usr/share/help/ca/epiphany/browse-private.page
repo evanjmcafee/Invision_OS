@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-ca">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Què és el mode <em>incògnit</em>?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marieta Lalu</mal:name>
+      <mal:email>marisetta.sakura@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Laia dg</mal:name>
+      <mal:email>laia.dolc@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jaume Jorba</mal:name>
+      <mal:email>jaume.jorba@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Assumpta</mal:name>
+      <mal:email>assumptaanglada@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jordi Mas</mal:name>
+      <mal:email>jmas@softcatala.org</mal:email>
+      <mal:years>2019, 2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Navegació privada</title>
+
+  <p>La navegació privada és un mode que limita la manera d'accedir a la vostra informació de navegació per part de l'ordinador i dels llocs web. És útil si voleu deixar l'ordinador a un amic, per exemple perquè pugui mirar el seu correu electrònic usant un servei de correu web, perquè no estareu identificat a cap lloc web des de la finestra de navegació privada i perquè la seva informació no es desarà. És possible, també, que preferiu utilitzar el mode d'incògnit per a accedir a llocs web sensibles com ara a la banca per Internet i a <link href="http://questionablecontent.net/">continguts qüestionables</link> perquè les dades que els llocs web hagin desat prèviament al vostre ordinador no seran accessibles per als llocs web quan navegueu en mode d'incògnit.</p>
+
+  <note style="important">
+    <p>El mode d'incògnit no impedirà que els llocs web rastregin la vostra activitat de navegació. Si heu de navegar pel web anònimament, val més que utilitzeu un servei de VPN comercial.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Premeu el botó de menú a la cantonada superior dreta de la finestra i seleccioneu <guiseq><gui style="menuitem">Finestra d'incògnit nova</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Navegueu pel web amb el mode d'incògnit.</p>
+    </item>
+    <item>
+      <p>Finalitzeu la sessió de navegació privada tancant la finestra d'incògnit.</p>
+    </item>
+  </steps>
+
+  <p>La navegació privada es distingeix de la normal per la marca d'aigua de la finestra d'incògnit:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Captura de pantalla mostrant una finestra de navegació privada sense pestanyes obertes.</p>
+  </media>
+
+</page>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-web" xml:lang="epiphany-id">
+
+  <info>
+    <link type="guide" xref="index#start" group="#first"/>
+    <link type="seealso" xref="browse-private"/>
+    <link type="seealso" xref="browse-local"/>
+    <revision pkgversion="3.9" date="2013-06-30" status="incomplete"/>
+    <revision pkgversion="3.15" date="2014-12-02" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013, 2014</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Lihat laman web diinternet.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kukuh Syafaat</mal:name>
+      <mal:email>syafaatkukuh@gmail.com</mal:email>
+      <mal:years>2019.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Andika Triwidada</mal:name>
+      <mal:email>andika@gmail.com</mal:email>
+      <mal:years>2020.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Ramban web</title>
+
+  <p>Peramban web dapat digunakan untuk melihat laman diinternet ketika Anda memiliki sambungan Internet. Untuk memulai meramban web:</p>
+
+  <steps>
+    <item>
+      <p>Ketika Anda memulai <app xref="introduction">Web</app>, kursor harus berada dalam kolom entri teks pada bagian atas jendela. Ketik URL laman web yang ingin Anda kunjungi atau istilah pencarian yang ingin Anda cari.</p>
+    </item>
+    <item>
+      <p>Tekan kembali untuk pergi ke laman web atau untuk melakukan pencarian.</p>
+    </item>
+  </steps>
+
+  <p xml:id="tabs"><em>Tab</em> digunakan untuk melihat lebih dari satu halaman web dalam satu jendela. Ketika Anda pertama kali memulai <app>Web</app>, tidak akan ditampilkan tab apapun. Untuk <em>membuka tab baru</em>, tekan tombol tab baru di bagian kiri atas layar. Setelah tab baru terbuka, Anda dapat menggunakannya sebagaimana biasanya Anda akan menggunakan jendela baru.</p>
+
+  <p xml:id="tabs-alt">Anda juga dapat menggunakan pintasan papan tik <keyseq><key>Ctrl</key><key>T</key></keyseq> untuk membuka tab baru atau tombol tab baru dikiri atas jendela.</p>
+
+  <p xml:id="tabs-link">Untuk <em>membuka tautan ditab baru</em>, klik kanan pada tautan, kemudian pilih <gui style="menuitem">Buka Tautan dalam Tab Baru</gui> atau menggunakan tombol tengah tetikus untuk mengklik tautan.</p>
+
+</page>

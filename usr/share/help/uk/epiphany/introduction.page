@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="introduction" xml:lang="epiphany-uk">
+
+  <info>
+    <link type="guide" xref="index"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Єкатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Вступ до <app>Тенет</app>, навігатора інтернетом для GNOME із вбудованими можливостями конфіденційності.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Юрій Чорноіван</mal:name>
+      <mal:email>yurchor@ukr.net</mal:email>
+      <mal:years>2020</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Вступ</title>
+
+  <p><app>Тенета</app> пропонують вам простий і незахаращений спосіб подорожувати інтернетом. Програма здатна показувати сторінки інтернету так само швидко і точно, як інші популярні програми для перегляду інтернету.</p>
+
+  <p><app>Тенета</app> — програма, яка раніше називалася <app>Epiphany</app>.</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-plain-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Повноекранний знімок вікна «Тенет» із відкритою сторінкою вікі у першій вкладці і сайтом GNOME у другій вкладці.</p>
+  </media>
+</page>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-cs">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Jak se pohybovat po webových stránkách pomocí myši.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Adam Matoušek</mal:name>
+      <mal:email>adamatousek@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marek Černocký</mal:name>
+      <mal:email>marek@manet.cz</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Používání gest myší</title>
+
+  <p>Gesta myší nabízejí rychlé surfování po webových stránkách, aniž byste museli sahat na klávesnici. Spouští se podržením prostředního tlačítka myši za současného provedení jednoho z následujících pohybů. Pokud vaše myš nemá prostřední tlačítko, nemůžete gesta myší používat.</p>
+
+  <steps>
+    <item>
+      <p>Zmáškněte tlačítko nabídky v pravém horním rohu okna a poté zvolte <guiseq><gui style="menuitem">Předvolby</gui><gui style="tab">Obecné</gui></guiseq></p>
+    </item>
+    <item>
+      <p>V části <gui>Prohlížení</gui> přepněte přepínač <gui style="button">Gesta myší</gui> na zapnuto.</p>
+    </item>
+  </steps>
+
+  <p>V současnosti jsou podporována následující gesta:</p>
+
+  <list>
+    <item>
+      <p>Podržením prostředního tlačítka, pohybem vlevo a následným uvolněním tlačítka se vrátíte na předchozí stránku z historie.</p>
+    </item>
+    <item>
+      <p>Podržením prostředního tlačítka, pohybem vpravo a následným uvolněním tlačítka se posunete na následující stránku z historie.</p>
+    </item>
+    <item>
+      <p>Podržením prostředního tlačítka, pohybem dolů a následným uvolněním tlačítka vytvoříte novou kartu.</p>
+    </item>
+    <item>
+      <p>Podržením prostředního tlačítka, pohybem dolů a pak vpravo a následným uvolněním tlačítka zavřete aktuální kartu.</p>
+    </item>
+    <item>
+      <p>Podržením prostředního tlačítka, pohybem nejprve nahoru a pak dolů a následným uvolněním tlačítka znovu načtete aktuální stránku.</p>
+    </item>
+  </list>
+
+</page>

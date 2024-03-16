@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-local" xml:lang="epiphany-fur">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="incomplete"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Ce mût fasio a viodi intun navigadôr web i file che a son tal gno computer?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Fabio Tomat</mal:name>
+      <mal:email>f.t.public@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Viodi i file locâi</title>
+
+  <!-- For example, for viewing html files on your machine and stuff like
+  that. -->
+  <p>Si pues viodi, intal navigadôr web, cualchi gjenar di file che a stan sul computer. Chest al pues jessi util se si à salvât un sît web par podêlu lei plui indenant o si vûl viodi in anteprime une pagjine web che si sta creant.</p>
+
+  <steps>
+    <item>
+      <p>Frache <keyseq><key>Ctrl</key><key>O</key></keyseq>.</p>
+    </item>
+    <item>
+      <p>Selezione e vierç il file che tu desideris viodi.</p>
+    </item>
+  </steps>
+
+</page>

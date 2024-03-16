@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-web" xml:lang="epiphany-ca">
+
+  <info>
+    <link type="guide" xref="index#start" group="#first"/>
+    <link type="seealso" xref="browse-private"/>
+    <link type="seealso" xref="browse-local"/>
+    <revision pkgversion="3.9" date="2013-06-30" status="incomplete"/>
+    <revision pkgversion="3.15" date="2014-12-02" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013, 2014</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Vegeu pàgines web a internet.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marieta Lalu</mal:name>
+      <mal:email>marisetta.sakura@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Laia dg</mal:name>
+      <mal:email>laia.dolc@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jaume Jorba</mal:name>
+      <mal:email>jaume.jorba@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Assumpta</mal:name>
+      <mal:email>assumptaanglada@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jordi Mas</mal:name>
+      <mal:email>jmas@softcatala.org</mal:email>
+      <mal:years>2019, 2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Navegar pel web</title>
+
+  <p>Els navegadors web es poden utilitzar per a veure pàgines a Internet quan tingueu connexió a Internet. Per a començar a navegar pel web:</p>
+
+  <steps>
+    <item>
+      <p>Quan inicieu el <app xref="introduction">Web</app>, hauríeu de tenir el cursor al camp d'introducció de text de la part superior de la finestra. Escriviu l'URL de la pàgina web que vulgueu visitar o el terme de cerca.</p>
+    </item>
+    <item>
+      <p>Premeu la tecla retorn per a anar a la pàgina web o cercar.</p>
+    </item>
+  </steps>
+
+  <p xml:id="tabs">Les <em>pestanyes</em> es fan servir per a veure més d'una pàgina web en una sola finestra. Quan inicieu el <app>Web</app>, no veureu cap pestanya. Per a <em>obrir una pestanya nova</em>, premeu el botó de pestanya nova a la part superior esquerra de la pantalla. Quan la pestanya nova s'hagi obert, la podeu fer servir de la mateixa manera que faríeu servir una finestra nova.</p>
+
+  <p xml:id="tabs-alt">També podeu utilitzar la drecera de teclat <keyseq><key>Ctrl</key><key>T</key></keyseq> per a obrir una pestanya nova o bé el botó de pestanya nova de la part superior esquerra de la finestra.</p>
+
+  <p xml:id="tabs-link">Per a <em>obrir un enllaç en una pestanya nova</em>, feu clic amb el botó dret sobre l'enllaç, aleshores seleccioneu <gui style="menuitem">Obre l'enllaç en una pestanya nova</gui> o utilitzeu el botó del mig del ratolí.</p>
+
+</page>

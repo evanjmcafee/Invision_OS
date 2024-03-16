@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="introduction" xml:lang="epiphany-fur">
+
+  <info>
+    <link type="guide" xref="index"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Une introduzion a <app>Web</app>, un navigadôr web par GNOME cun privacy integrade.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Fabio Tomat</mal:name>
+      <mal:email>f.t.public@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Introduzion</title>
+
+  <p><app>Web</app> al ufrìs une maniere semplice e nete par navigâ su internet. Al mostre lis pagjinis cu la stesse velocitât e precision dai altris navigadôrs plui famôs.</p>
+
+  <p><app>Web</app> al è la aplicazion une volte cognossude come <app>Epiphany</app>.</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-plain-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Cature di schermi a plen visôr di Web, cu la pagjine wiki dal Web vierte inte prime schede e che e mostre il sît web di GNOME viert inte seconde schede.</p>
+  </media>
+</page>

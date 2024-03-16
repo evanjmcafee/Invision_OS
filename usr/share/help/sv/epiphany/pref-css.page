@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-css" xml:lang="epiphany-sv">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Åsidosätt temat som används för att visa webbsidor.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Anders Jonsson</mal:name>
+      <mal:email>anders.jonsson@norsjovallen.se</mal:email>
+      <mal:years>2015, 2017</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Anpassad CSS</title>
+
+  <p><app>Webb</app> låter dig ställa in en anpassad CSS för att ändra utseende och känsla för varje webbsida som du besöker. Du kan vilja göra detta för att ställa in en föredragen typsnittsstorlek eller färgschema.</p>
+
+  <steps>
+    <item>
+      <p>Tryck på menyknappen i fönstrets övre högra hörn och välj sedan <guiseq><gui style="menuitem">Inställningar</gui><gui style="tab">Utseende</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Slå på <gui>Använd anpassad stilmall</gui> i avsnittet Stil.</p>
+    </item>
+    <item>
+      <p>Klicka på pennikonen.</p>
+    </item>
+    <item>
+      <p>Din standardtextredigerare kommer öppnas. Lägg till din anpassade CSS och spara filen.</p>
+    </item>
+  </steps>
+
+  <p>Ett exempel på anpassad CSS:</p>
+  <code>
+body{
+    /*Visa allting upp och ner*/
+    -webkit-transform: rotate(180deg);
+}
+</code>
+
+  <p>Din anpassade CSS kommer åsidosätta stilmallen på sidor som du besöker efter att du aktiverat den.</p>
+
+</page>

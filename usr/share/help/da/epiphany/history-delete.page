@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="history-delete" xml:lang="epiphany-da">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Hvordan sletter jeg en eller flere websider fra min browserhistorik?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Ryd browserhistorik</title>
+
+  <p>Nogle gange vil du måske slette din browserhistorik, f.eks. for at fjerne punkter som du ikke vil se i dine søgeresultater. Du kan vælge at slette ét resultat, alle resultater fra et enkelt websted eller al din historik.</p>
+
+  <steps>
+    <item>
+      <p>Tryk på menuknappen i øverste højre hjørne af vinduet og vælg <gui style="menuitem">Historik</gui>.</p>
+    </item>
+    <item>
+      <p>Tryk på slet-knappen for at slette uønskede sider permanent.</p>
+    </item>
+  </steps>
+
+  <p>Du kan også slette al din historik ved at vælge <gui style="button">Ryd alle</gui>.</p>
+
+</page>

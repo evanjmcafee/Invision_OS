@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-cookies" xml:lang="epiphany-ca">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.10" date="2013-07-02" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="outdated"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Michael Hill</name>
+      <email its:translate="no">mdhill@gnome.org</email>
+      <years/>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Com trieu quins llocs web permeteu que emmagatzemin galetes?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marieta Lalu</mal:name>
+      <mal:email>marisetta.sakura@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Laia dg</mal:name>
+      <mal:email>laia.dolc@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jaume Jorba</mal:name>
+      <mal:email>jaume.jorba@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Assumpta</mal:name>
+      <mal:email>assumptaanglada@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jordi Mas</mal:name>
+      <mal:email>jmas@softcatala.org</mal:email>
+      <mal:years>2019, 2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Configurar la preferència de galetes</title>
+
+  <!-- Include an explanation about cookies. -->
+  <include xmlns="http://www.w3.org/2001/XInclude" href="cookies.xml" xpointer="xmlns(mal=http://projectmallard.org/1.0/)xpointer(/mal:page/mal:p)"/>
+
+  <p>Podeu especificar si voleu acceptar galetes i de quins llocs web.</p>
+
+  <steps>
+    <item>
+      <p>Premeu el botó de menú de l'extrem superior dret de la finestra i seleccioneu <guiseq><gui style="menuitem">Preferències</gui><gui style="tab">Privadesa</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Seleccioneu si voleu acceptar les galetes de tots els llocs web, acceptar les galetes només dels llocs web que hàgiu visitat o no acceptar cap galeta.</p>
+    </item>
+  </steps>
+
+  <p>Normalment hauríeu d'utilitzar <gui>Només dels llocs que visiteu</gui>, ja que aquesta opció us permet iniciar la sessió als vostres comptes de la majoria de llocs web i impedeix que els llocs web que no hàgiu visitat deixin galetes.</p>
+
+  <p>Si trieu <gui>Accepta sempre</gui> les galetes, els llocs web que no hàgiu visitat us podran deixar <em>galetes de tercers</em>. Les galetes de tercers les solen utilitzar els anunciants i els llocs web de xarxes socials per a rastrejar la vostra activitat als llocs web i oferir-vos continguts personalitzats. Tingueu en compte que alguns llocs web, com ara Outlook.com, fan servir galetes de tercers per a controlar si heu iniciat la sessió.</p>
+
+  <p>Si trieu <gui>No acceptis mai</gui> les galetes, podeu tenir problemes en alguns llocs web, com ara per a iniciar la sessió als comptes, desar les preferències o a l'hora d'afegir articles al carretó de la compra.</p>
+
+</page>

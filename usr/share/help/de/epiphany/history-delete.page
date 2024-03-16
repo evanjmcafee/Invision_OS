@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="history-delete" xml:lang="epiphany-de">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Wie löscht man eine oder mehrere Webseiten aus der Chronik?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Christian Kirbach</mal:name>
+      <mal:email>christian.kirbach@gmail.com</mal:email>
+      <mal:years>2013, 2014, 2015, 2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Benjamin Steinwender</mal:name>
+      <mal:email>b@stbe.at</mal:email>
+      <mal:years>2014, 2015</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Tim Sabsch</mal:name>
+      <mal:email>tim@sabsch.com</mal:email>
+      <mal:years>2019, 2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Chronikverlauf löschen</title>
+
+  <p>Eventuell möchten Sie gelegentlich Ihre Chronik löschen, zum Beispiel um Einträge zu entfernen, die nicht in den Suchergebnissen erscheinen sollen. Sie können ein Ergebnis, alle Ergebnisse einer einzigen Webseite oder die vollständige Chronik löschen.</p>
+
+  <steps>
+    <item>
+      <p>Öffnen Sie das Menü oben rechts im Fenster und wählen Sie dann <gui style="menuitem">Chronik</gui>.</p>
+    </item>
+    <item>
+      <p>Klicken Sie auf den »Löschen«-Knopf, um unerwünschte Seiten dauerhaft zu entfernen.</p>
+    </item>
+  </steps>
+
+  <p>You can also delete all of your history by pressing
+  <gui style="button">Clear all</gui>.</p>
+
+</page>

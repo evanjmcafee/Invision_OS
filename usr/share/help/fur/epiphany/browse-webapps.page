@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-webapps" xml:lang="epiphany-fur">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <link type="seealso" xref="browse-web"/>
+    <revision pkgversion="3.10" date="2013-07-05" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Ce ise une <em>Aplicazion Web</em> e ce mût le doprio?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Fabio Tomat</mal:name>
+      <mal:email>f.t.public@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Creâ une aplicazion web</title>
+
+  <p>Tu puedis salvâ lis pagjinis web come une <em>Aplicazion Web</em>. Chest al zontarà un colegament ae pagjine te <link href="help:gnome-help/shell-introduction#activities">Panoramiche des ativitâts</link>. Cuant che tu vierzis une Aplicazion Web, chê e ven mostrade intun gjenar speciâl i barcon, cence la sbare de direzion o i menù.</p>
+
+  <steps>
+    <item>
+      <p>Vierç la pagjine web che tu desideris salvâ.</p>
+    </item>
+    <item>
+      <p>Press the menu button in the top-right corner of the window and select
+      <gui style="menuitem">Install Site as Web Application…</gui>.</p>
+    </item>
+    <item>
+      <p>Da un non ae tô Aplicazion Web, daspò frache <gui style="button">Cree</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Tu puedis cumò inviâ la aplicazion web de panoramiche ativitâts. Par cirî la tô aplicazion, tache scrîf il non e e vignarà fûr cun altris risultâts de ricercje.</p>
+
+  <note style="important">
+    <p>Nol è pussibil creâ aplicazions web se si sta doprant Flatpak par eseguî <app>Web</app>.</p>
+  </note>
+
+</page>

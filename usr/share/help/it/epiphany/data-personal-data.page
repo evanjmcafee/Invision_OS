@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-personal-data" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Michael Catanzaro</name>
+      <email its:translate="no">mcatanzaro@gnome.org</email>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Come cancellare i dati personali salvati dai siti web?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Cancellare i dati personali</title>
+
+  <p><app>Web</app> permette di cancellare i dati personali salvati dai siti web.</p>
+
+  <p><link xref="data-personal-data">Istruzioni su come eliminare i cookie.</link></p>
+
+  <p>Per eliminare altri dati personali:</p>
+
+  <steps>
+    <item>
+      <p>Premere il pulsante del menù in alto a destra della finestra e selezionare <guiseq><gui style="menuitem">Preferenze</gui><gui style="tab">Privacy</gui><gui style="button">Pulisci dati personali</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Scegliere il tipo di dati salvati da eliminare, ed eventualmente limitare l'azione a un certo intervallo di tempo.</p>
+    </item>
+    <item>
+      <p>Premere <gui style="button">Pulisci dati</gui>.</p>
+    </item>
+  </steps>
+</page>

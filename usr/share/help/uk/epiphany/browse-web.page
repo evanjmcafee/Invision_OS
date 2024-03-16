@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-web" xml:lang="epiphany-uk">
+
+  <info>
+    <link type="guide" xref="index#start" group="#first"/>
+    <link type="seealso" xref="browse-private"/>
+    <link type="seealso" xref="browse-local"/>
+    <revision pkgversion="3.9" date="2013-06-30" status="incomplete"/>
+    <revision pkgversion="3.15" date="2014-12-02" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Єкатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013, 2014</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Перегляд вебсторінок у інтернеті.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Юрій Чорноіван</mal:name>
+      <mal:email>yurchor@ukr.net</mal:email>
+      <mal:years>2020</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Перегляд інтернету</title>
+
+  <p>Програмою-навігатором інтернету можна скористатися для перегляду сторінок інтернету, коли ваш комп'ютер з'єднано із інтернетом. Щоб розпочати перегляд інтернету, виконайте такі дії:</p>
+
+  <steps>
+    <item>
+      <p>Після запуску <app xref="introduction">Тенет</app> курсор має бути показано у полі для введення тексту у верхній частині вікна програми. Введіть адресу сторінки, яку ви хочете відвідати, або критерій пошуку.</p>
+    </item>
+    <item>
+      <p>Натисніть клавішу Enter, щоб перейти до вебсторінки або виконати пошук.</p>
+    </item>
+  </steps>
+
+  <p xml:id="tabs"><em>Вкладками</em> користуються для перегляду декількох вебсторінок у одному вікні. Після першого запуску <app>Тенет</app> у вікні програми не буде показано жодної вкладки. Щоб <em>відкрити нову вкладку</em>, натисніть кнопку створення вкладки у верхній лівій частині вікна програми. Після того, як нову вкладку буде відкрито, ви зможете користуватися нею як новим вікном.</p>
+
+  <p xml:id="tabs-alt">Для відкриття нової вкладки ви можете скористатися клавіатурним скороченням <keyseq><key>Ctrl</key><key>T</key></keyseq> або кнопкою створення вкладки у верхньому лівому куті вікна програми.</p>
+
+  <p xml:id="tabs-link">Щоб <em>відкрити посилання у новій вкладці</em>, клацніть правою кнопкою миші на посиланні, потім виберіть пункт <gui style="menuitem">Відкрити посилання у новій вкладці</gui> у контекстному меню, або просто клацніть середньою кнопкою миші (коліщатком) на посиланні.</p>
+
+</page>

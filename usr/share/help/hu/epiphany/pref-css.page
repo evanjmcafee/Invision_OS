@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-css" xml:lang="epiphany-hu">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>A weboldalak megjelenítéséhez használt téma felülbírálása.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Hammer Attila</mal:name>
+      <mal:email>hammera at pickup dot hu</mal:email>
+      <mal:years>2014.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kelemen Gábor</mal:name>
+      <mal:email>kelemeng at gnome dot hu</mal:email>
+      <mal:years>2013, 2015.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Úr Balázs</mal:name>
+      <mal:email>ur dot balazs at fsf dot hu</mal:email>
+      <mal:years>2014, 2021.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Egyéni CSS</title>
+
+  <p>A <app>Web</app> lehetővé teszi egyéni CSS beállítását a meglátogatott weboldalak megjelenésének megváltoztatása érdekében. Ez egy előnyben részesített betűméret vagy színséma használatának kötelezővé tételéhez lehet hasznos.</p>
+
+  <steps>
+    <item>
+      <p>Nyomja meg az ablak jobb felső sarkában lévő menügombot, és válassza a <guiseq><gui style="menuitem">Beállítások</gui><gui style="tab">Megjelenés</gui></guiseq> lapot.</p>
+    </item>
+    <item>
+      <p>A Stílus szakasz alatt kapcsolja be az <gui>Egyéni stíluslap használata</gui> lehetőséget.</p>
+    </item>
+    <item>
+      <p>Kattintson a toll ikonra.</p>
+    </item>
+    <item>
+      <p>Megnyílik az alapértelmezett szövegszerkesztő. Írja meg az egyéni CSS-t, és mentse a fájlt.</p>
+    </item>
+  </steps>
+
+  <p>Példa egyéni CSS-re:</p>
+  <code>
+body{
+    /*Legyen minden fejjel lefelé*/
+    -webkit-transform: rotate(180deg);
+}
+</code>
+
+  <p>Az egyéni CSS a bekapcsolása után felülbírálja a felkeresett oldalak stíluslapját.</p>
+
+</page>

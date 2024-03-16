@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-cookies" xml:lang="epiphany-ru">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.10" date="2013-07-02" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="outdated"/>
+
+    <credit type="author copyright">
+      <name>Екатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Майкл Хил (Michael Hill)</name>
+      <email its:translate="no">mdhill@gnome.org</email>
+      <years/>
+    </credit>
+    <credit type="copyright editor">
+      <name>Федерико Бруни (Federico Bruni)</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Как я могу выбрать, каким веб-сайтам я разрешаю устанавливать файлы cookie?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Stas Solovey</mal:name>
+      <mal:email>whats_up@tut.by</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alexey Rubtsov</mal:name>
+      <mal:email>rushills@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Установите предпочтения в отношении файлов cookie</title>
+
+  <!-- Include an explanation about cookies. -->
+  <include xmlns="http://www.w3.org/2001/XInclude" href="cookies.xml" xpointer="xmlns(mal=http://projectmallard.org/1.0/)xpointer(/mal:page/mal:p)"/>
+
+  <p>Вы можете указать, хотите ли вы принимать файлы cookie и с каких сайтов.</p>
+
+  <steps>
+    <item>
+      <p>Нажмите кнопку меню в правом верхнем углу окна и выберите пункт <guiseq><gui style="menuitem">Параметры</gui><gui style="tab">Конфиденциальность</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Выберите, хотите ли вы принимать файлы cookie со всех веб-сайтов, принимать файлы cookie только с веб-сайтов, которые вы посещали, или не принимать никакие файлы cookie.</p>
+    </item>
+  </steps>
+
+  <p>Обычно следует использовать опцию <gui>Только с посещаемых сайтов</gui>, поскольку эта опция позволяет вам входить в свои учетные записи на большинстве веб-сайтов, не позволяя веб-сайтам, которые вы не посещали, оставлять файлы cookie.</p>
+
+  <p>Если вы выберете опцию <gui>Всегда принимать</gui> файлы cookie, то веб-сайты, которые вы не посещали, смогут оставлять <em>файлы cookie третьих лиц</em>. Сторонние файлы cookie часто используются рекламодателями и веб-сайтами социальных сетей для отслеживания вашей активности на веб-сайтах и предложения целевого контента. Обратите внимание, что некоторые веб-сайты, например Outlook.com, используют сторонние файлы cookie для отслеживания того, вошли ли вы в систему.</p>
+
+  <p>Если вы <gui>не принимаете</gui> файлы cookie, вы можете столкнуться с проблемами на некоторых сайтах, такими как вход в ваши учетные записи, сохранение ваших предпочтений или невозможность добавления товаров в корзину.</p>
+
+</page>

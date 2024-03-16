@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Navigare le pagine web usando il mouse.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Gesti con il mouse</title>
+
+  <p>I gesti con il mouse offrono un'opzione per navigare velocemente tra le pagine web senza usare la tastiera. Questi gesti sono attivati tenendo premuto il tasto centrale del mouse mentre si compie uno dei seguenti movimenti. Se non si dispone di un mouse con tasto centrale, non si potranno usare questi gesti.</p>
+
+  <steps>
+    <item>
+      <p>Premere il pulsante del menù in alto a destra nella finestra e selezionare <guiseq><gui style="menuitem">Preferenze</gui> <gui style="tab">Generale</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>In <gui>Navigazione</gui>, attivare <gui style="button">Gesti del mouse</gui>.</p>
+    </item>
+  </steps>
+
+  <p>I seguenti gesti sono supportati:</p>
+
+  <list>
+    <item>
+      <p>tenere premuto il tasto centrale, trascinare verso sinistra e quindi rilasciare il tasto porta alla pagina precedente.</p>
+    </item>
+    <item>
+      <p>tenere premuto il tasto centrale, trascinare verso destra e quindi rilasciare il tasto porta alla pagina successiva.</p>
+    </item>
+    <item>
+      <p>tenere premuto il tasto centrale, trascinare verso il basso e quindi rilasciare il tasto crea una nuova scheda.</p>
+    </item>
+    <item>
+      <p>tenere premuto il tasto centrale, trascinare verso il basso, poi verso destra, e infine rilasciare il tasto chiude la scheda corrente.</p>
+    </item>
+    <item>
+      <p>tenere premuto il tasto centrale, trascinare prima verso l'alto, poi verso il basso, e infine rilasciare il tasto ricarica la scheda corrente.</p>
+    </item>
+  </list>
+
+</page>

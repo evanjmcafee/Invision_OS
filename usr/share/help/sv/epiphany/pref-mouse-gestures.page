@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-sv">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Navigera webbsidor med musen.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Anders Jonsson</mal:name>
+      <mal:email>anders.jonsson@norsjovallen.se</mal:email>
+      <mal:years>2015, 2017</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Använd musgester</title>
+
+  <p>Musgester erbjuder ett snabbt alternativ för att surfa på webbsidor utan att förflytta din hand till tangentbordet. Dessa gester utlöses av att hålla ner musens mittknapp under tiden en av följande musrörelser utförs. Om din mus inte har en mittknapp kan du inte använda musgester.</p>
+
+  <steps>
+    <item>
+      <p>Tryck på menyknappen i fönstrets övre högra hörn och välj sedan <guiseq><gui style="menuitem">Inställningar</gui> <gui style="tab">Allmänt</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Under <gui>Surfning</gui>, slå på <gui style="button">Musgester</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Följande gester stöds för närvarande:</p>
+
+  <list>
+    <item>
+      <p>Att hålla ner musens mittknapp, dra åt vänster, och sedan släppa mittknappen kommer att navigera bakåt.</p>
+    </item>
+    <item>
+      <p>Att hålla ner musens mittknapp, dra åt höger, och sedan släppa mittknappen kommer att navigera framåt.</p>
+    </item>
+    <item>
+      <p>Att hålla ner musens mittknapp, dra nedåt, och sedan släppa mittknappen kommer att skapa en ny flik.</p>
+    </item>
+    <item>
+      <p>Att hålla ner musens mittknapp, dra nedåt och sedan åt höger, och sedan släppa mittknappen kommer att stänga den aktuella fliken.</p>
+    </item>
+    <item>
+      <p>Att hålla ner musens mittknapp, dra uppåt och sedan nedåt, och sedan släppa mittknappen kommer att uppdatera den aktuella fliken.</p>
+    </item>
+  </list>
+
+</page>

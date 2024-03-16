@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-font" xml:lang="epiphany-sv">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Använd ett anpassat typsnitt för att visa webbsidor.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Anders Jonsson</mal:name>
+      <mal:email>anders.jonsson@norsjovallen.se</mal:email>
+      <mal:years>2015, 2017</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Ändra typsnittet</title>
+
+  <p>Som standard kommer ditt systemtypsnitt användas för att visa webbsidor då det är möjligt. Om du använder hjälpmedelsinställningen <gui href="help:gnome-help/a11y-font-size">Stor text</gui> kommer detta tas med i beräkningen. Du kan ändra detta och använda olika typsnitt för att visa webbplatser.</p>
+
+  <steps>
+    <item>
+      <p>Tryck på menyknappen i fönstrets övre högra hörn och välj sedan <guiseq><gui style="menuitem">Inställningar</gui><gui style="tab">Utseende</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Slå på <gui>Använd anpassade typsnitt</gui>.</p>
+    </item>
+    <item>
+      <p>Klicka på typsnittet för att öppna typsnittsväljardialogen där du kan välja ett annat typsnitt eller annan storlek.</p>
+    </item>
+    <item>
+      <p>Tryck <gui style="button">Välj</gui> för att spara ditt val.</p>
+    </item>
+  </steps>
+
+  <p>Du kan också öka typsnittsstorlek med <keyseq><key>Ctrl</key><key>+</key></keyseq> och minska den med <keyseq><key>Ctrl</key><key>-</key></keyseq>.</p>
+
+</page>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-personal-data" xml:lang="epiphany-eu">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Michael Catanzaro</name>
+      <email its:translate="no">mcatanzaro@gnome.org</email>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Nola ezabatu ditzaket webguneek gorde dituzten datu pertsonalak?</desc>
+  </info>
+
+  <title>Ezabatu datu pertsonalak</title>
+
+  <p><app>Webak</app> webguneek gorde dituzten datu pertsonalak ezabatzea ahalbidetzen du.</p>
+
+  <p><link xref="data-personal-data">Ezagutu nola ezabatu nabigatzaileko cookie-ak.</link></p>
+
+  <p>Beste datu pertsonal batzuk ezabatzeko:</p>
+
+  <steps>
+    <item>
+      <p>Sakatu leihoaren goiko eskuineko izkinako menu-botoia eta hautatu <guiseq><gui style="menuitem">Hobespenak</gui> <gui style="menuitem">Pribatutasuna</gui><gui style="button">Garbitu datu pertsonalak</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Hautatu ezabatu nahi duzun datu mota eta, aukeran, mugatu ezabatzeko ekintza hautatutako domeinuetara</p>
+    </item>
+    <item>
+      <p>Sakatu <gui style="button">Garbitu datuak</gui>.</p>
+    </item>
+  </steps>
+</page>

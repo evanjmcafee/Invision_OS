@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-da">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Hvad er <em>inkognitotilstand</em>?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Privat browsing</title>
+
+  <p>Privat browsing er en tilstand som begrænser den måde hvorpå din computer og websteder kan tilgå din browserinformation. Det er nyttigt, hvis en af dine venner vil låne din computer til f.eks. at tjekke e-mail med webmail, fordi du ikke vil være logget ind på nogen websteder i privat browsing-vinduet. Din vens information gemmes heller ikke. Du vil måske foretrække at bruge inkognitotilstand til at tilgå websteder med følsomme data såsom netbank og <link href="http://questionablecontent.net/">tvivlsomt indhold</link>, da data, som websteder tidligere har gemt på din computer, ikke vil være tilgængelige for webstederne ved browsing i inkognitotilstand.</p>
+
+  <note style="important">
+    <p>Inkognitotilstand hjælper med at forhindre websteder i at spore din browseraktivitet. Hvis du har brug for at gennemse webbet anonymt, så brug en kommerciel VPN-tjeneste.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Tryk på menuknappen øverst til højre i vinduet og vælg <guiseq><gui style="menuitem">Nyt inkognitovindue</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Gennemse webbet med inkognitotilstand.</p>
+    </item>
+    <item>
+      <p>Afslut privat browsing-sessionen ved at lukke inkognitovinduet.</p>
+    </item>
+  </steps>
+
+  <p>Du kan skelne mellem privat browsing og normal browsing med vandmærket i inkognitovinduet:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Skærmbillede som viser et privat browsing-vindue uden nogle åbne faneblade.</p>
+  </media>
+
+</page>

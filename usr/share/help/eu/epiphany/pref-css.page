@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-css" xml:lang="epiphany-eu">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Indargabetu web-orriak bistaratzeko erabiltzen den gaia.</desc>
+  </info>
+
+  <title>CSS pertsonalizatua</title>
+
+  <p><app>Webak</app> bisitatzen dituzn web-orrien itxura aldatzeko CSS pertsonalizatua ezartzea ahalbidetzen du. Beharbada letra-tamaina eta kolore-eskeman hobetsi bat duzu eta horiek orri denean ezarri nahi dituzu.</p>
+
+  <steps>
+    <item>
+      <p>Sakatu leihoaren goiko eskuineko izkinako menu-botoia eta hautatu <guiseq><gui style="menuitem">Hobespenak</gui><gui style="tab">Itxura</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>'Estiloa' atalean, aktibatu <gui>Erabili estilo-orri pertsonalizatua</gui> to on.</p>
+    </item>
+    <item>
+      <p>Egin klik arkatzaren ikonoan.</p>
+    </item>
+    <item>
+      <p>Zure testu-editore lehenetsia irekiko da. Gehitu CSS pertsonalizatua eta gorde fitxategia.</p>
+    </item>
+  </steps>
+
+  <p>CSS pertsonalizatuaren adibide bat:</p>
+  <code>
+body{
+    /*Irauli dena*/
+    -webkit-transform: rotate(180deg);
+}
+</code>
+
+  <p>CSS pertsonalizatuak bisitatzen dituzun orrien estilo-orria indargabetuko du.</p>
+
+</page>

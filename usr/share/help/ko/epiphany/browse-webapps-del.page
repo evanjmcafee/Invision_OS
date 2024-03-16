@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-webapps-del" xml:lang="epiphany-ko">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <link type="seealso" xref="browse-webapps"/>
+    <revision pkgversion="3.16" date="2014-01-26" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2015</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>어떻게 <em>웹 애플리케이션</em>을 삭제하나요?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>ChangSeok Oh</mal:name>
+      <mal:email>changseok@gnome.org</mal:email>
+      <mal:years>2015, 2016, 2017, 2018, 2019, 2020, 2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Gyuseok Jung</mal:name>
+      <mal:email>jgyuseok@gmail.com</mal:email>
+      <mal:years>2015</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>웹 애플리케이션 제거하기</title>
+
+  <p>더 이상 필요하지 않을 때 웹 애플리케이션을 삭제할 수 있습니다.</p>
+
+  <steps>
+    <item>
+      <p>창의 오른쪽 상단 모서리에 있는 메뉴 단추를 누르고 <gui style="menuitem">애플리케이션 관리자 열기</gui>를 선택하세요.</p>
+    </item>
+    <item>
+      <p>제거하려는 애플리케이션 옆에 있는 <gui style="button">삭제</gui>를 누르세요.</p>
+    </item>
+  </steps>
+
+  <note style="important">
+    <p>만약 <app>웹</app> 실행에 Flatpak을 사용 중이라면 웹 애플리케이션 삭제가 가능하지 않습니다.</p>
+  </note>
+
+</page>

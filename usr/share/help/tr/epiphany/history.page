@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="history" xml:lang="epiphany-tr">
+
+  <info>
+    <link type="guide" xref="index#start"/>
+    <link type="seealso" xref="history-delete"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Adres çubuğuna yazmaya başladığımda neden bir web sayfası listesi görüyorum?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Sabri Ünal</mal:name>
+      <mal:email>libreajans@gmail.com</mal:email>
+      <mal:years>2021.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Emin Tufan Çetin</mal:name>
+      <mal:email>etcetin@gmail.com</mal:email>
+      <mal:years>2021, 2022.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Tarama geçmişi</title>
+
+  <p>Tarama geçmişiniz, yani ziyaret ettiğiniz web sayfaları, bu sayfalara dönmenizin daha hızlı olması için kendiliğinden kaydedilir.</p>
+
+  <p><em>Geçmişinizde arama yapmak</em> için, arama teriminizi adres çubuğuna yazmaya başlayın ve ardından gördüğünüzde doğru sonucu tıklayın. Arama, sayfa başlığını ve URL’sini içerir, ancak sayfa içeriğini içermez.</p>
+
+</page>

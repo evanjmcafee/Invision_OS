@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-local" xml:lang="epiphany-eu">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="incomplete"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Nola bistaratu ditzaket nire ordenagailuko fitxategiak web-nabigatzailean?</desc>
+  </info>
+
+  <title>Bistaratu fitxategi lokalak</title>
+
+  <!-- For example, for viewing html files on your machine and stuff like
+  that. -->
+  <p>Ordenagailuan dituzun zenbait fitxategi mota web-nabigatzailean bistaratu daitezke. Hori erabilgarria izan daiteke webgune bat geroago irakurtzeko gorde bada, edo sortzen ari zaren web-orri baten aurrebista bat izan nahi baduzu.</p>
+
+  <steps>
+    <item>
+      <p>Sakatu<keyseq><key>Ctrl</key><key>O</key></keyseq>.</p>
+    </item>
+    <item>
+      <p>Hautatu eta ireki bistaratu nahi den fitxategia.</p>
+    </item>
+  </steps>
+
+</page>

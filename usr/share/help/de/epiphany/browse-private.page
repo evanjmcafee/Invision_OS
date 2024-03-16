@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-de">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Was ist der <em>Inkognito</em>-Modus?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Christian Kirbach</mal:name>
+      <mal:email>christian.kirbach@gmail.com</mal:email>
+      <mal:years>2013, 2014, 2015, 2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Benjamin Steinwender</mal:name>
+      <mal:email>b@stbe.at</mal:email>
+      <mal:years>2014, 2015</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Tim Sabsch</mal:name>
+      <mal:email>tim@sabsch.com</mal:email>
+      <mal:years>2019, 2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Privates Surfen</title>
+
+  <p>Privates Surfen ist ein Modus, der die Möglichkeiten einschränkt, wie Ihr Rechner und Webseiten auf Browser-Daten zugreifen. Es ist nützlich, wenn Sie Ihren Rechner einem/einer Bekannte(n) leihen, damit er/sie zum Beispiel E-Mails mit einer Webseitenoberfläche liest, weil weder Sie auf irgendeiner Webseite in Fenstern mit privatem Modus angemeldet sind, noch Informationen der anderen Person gespeichert werden. Dies bedeutet ebenfalls, dass privates Surfen ein sicherer Weg für Webseiten wie z.B. Homebanking oder <link href="http://questionablecontent.net/">fragwürdiger Inhalt</link> ist, weil es für Webseiten schwieriger ist, Sie im <em>Inkognito</em>-Modus zu identifizieren.</p>
+
+  <note style="important">
+    <p>Der Inkognito-Modus schützt Sie nicht davor, dass Webseiten Ihre Browser-Aktivitäten mitverfolgen können. Wenn Sie anonym im Web unterwegs sein möchten, sollten Sie einen kommerziellen VPN-Anbieter verwenden.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>Press the menu button in the top-right corner of the window and select
+      <guiseq><gui style="menuitem">New Incognito Window</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Das Web im Inkognito-Modus durchstöbern.</p>
+    </item>
+    <item>
+      <p>Beenden Sie die Sitzung zum privaten Surfen, indem Sie das Inkognito-Fenster schließen.</p>
+    </item>
+  </steps>
+
+  <p>Man kann privates Surfen von normalem Surfen durch das Wasserzeichen im Inkognito-Fensters unterscheiden:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Bildschirmfoto, das ein Fenster zum privaten Surfen ohne geöffnete Reiter zeigt.</p>
+  </media>
+
+</page>

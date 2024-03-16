@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-font" xml:lang="epiphany-tr">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Web sayfalarını görüntülemek için özel yazı tipi kullan.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Sabri Ünal</mal:name>
+      <mal:email>libreajans@gmail.com</mal:email>
+      <mal:years>2021.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Emin Tufan Çetin</mal:name>
+      <mal:email>etcetin@gmail.com</mal:email>
+      <mal:years>2021, 2022.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Yazı tipini değiştir</title>
+
+  <p>Öntanımlı olarak, sistem yazı tipiniz olabildiğince web sayfalarını görüntülemek için kullanılır. <gui href="help:gnome-help/a11y-font-size">Büyük Metin</gui> erişilebilirlik ayarını kullanırsanız, bu dikkate alınacaktır. Bunu değiştirebilir ve web sitelerini görüntülemek için başka yazı tipleri kullanabilirsiniz.</p>
+
+  <steps>
+    <item>
+      <p>Pencerenin sağ üst köşesindeki menü düğmesine basıp <guiseq><gui style="menuitem">Tercihler</gui><gui style="tab">Görünüm</gui></guiseq>’ü seçin.</p>
+    </item>
+    <item>
+      <p><gui>Özel Yazı Tipleri Kullan</gui>’ı etkinleştirin.</p>
+    </item>
+    <item>
+      <p>Başka yazı tipi veya boyutu seçebileceğiniz yazı tipi seçici iletişim penceresini açmak için yazı tipine tıklayın.</p>
+    </item>
+    <item>
+      <p>Tercihinizi kaydetmek için <gui style="button">Seç</gui>’e tıklayın.</p>
+    </item>
+  </steps>
+
+  <p>Ayrıca, yazı tipi boyutunu <keyseq><key>Ctrl</key><key>+</key></keyseq> ile artırabilir <keyseq><key>Ctrl</key><key>-</key></keyseq> ile azaltabilirsiniz.</p>
+
+</page>

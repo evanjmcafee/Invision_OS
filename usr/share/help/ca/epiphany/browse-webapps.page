@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-webapps" xml:lang="epiphany-ca">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <link type="seealso" xref="browse-web"/>
+    <revision pkgversion="3.10" date="2013-07-05" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Què és una <em>Aplicació Web</em> i com s'utilitza?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marieta Lalu</mal:name>
+      <mal:email>marisetta.sakura@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Laia dg</mal:name>
+      <mal:email>laia.dolc@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jaume Jorba</mal:name>
+      <mal:email>jaume.jorba@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Assumpta</mal:name>
+      <mal:email>assumptaanglada@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jordi Mas</mal:name>
+      <mal:email>jmas@softcatala.org</mal:email>
+      <mal:years>2019, 2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Crear una Aplicació Web</title>
+
+  <p>Podeu desar pàgines web com a <em>Aplicació Web</em>. Això afegirà un vincle de la pàgina a la <link href="help:gnome-help/shell-introduction#activities">Vista general d'activitats</link>. Quan obriu una aplicació web, es mostra en una finestra especial sense barra d'adreces ni de menú.</p>
+
+  <steps>
+    <item>
+      <p>Obriu la pàgina web que vulgueu guardar.</p>
+    </item>
+    <item>
+      <p>Premeu el botó de menú a la cantonada superior dreta de la finestra i seleccioneu <gui style="menuitem">Instal·la el lloc com a aplicació web…</gui>.</p>
+    </item>
+    <item>
+      <p>Anomeneu la vostra Aplicació Web, després premeu <gui style="button">Crea</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Ara podeu llançar l’aplicació web des de la vista general d’activitats. Per a cercar l'aplicació, comenceu a escriure el nom i es mostrarà amb els altres resultats de la cerca.</p>
+
+  <note style="important">
+    <p>No és possible crear aplicacions web si utilitzeu Flatpak per a executar el <app>Web</app>.</p>
+  </note>
+
+</page>

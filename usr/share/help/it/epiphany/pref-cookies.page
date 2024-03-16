@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-cookies" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.10" date="2013-07-02" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="outdated"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Michael Hill</name>
+      <email its:translate="no">mdhill@gnome.org</email>
+      <years/>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Come scegliere quali pagine web possono impostare dei cookie?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Impostare le preferenze dei cookie</title>
+
+  <!-- Include an explanation about cookies. -->
+  <include xmlns="http://www.w3.org/2001/XInclude" href="cookies.xml" xpointer="xmlns(mal=http://projectmallard.org/1.0/)xpointer(/mal:page/mal:p)"/>
+
+  <p>È possibile specificare se si accettano i cookie e da quali siti web.</p>
+
+  <steps>
+    <item>
+      <p>Premere il pulsante del menù in alto a destra della finestra, e selezionare <guiseq><gui style="menuitem">Preferenze</gui><gui style="tab">Privacy</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Scegliere se si accettano i cookie da tutti i siti web, solo da siti che si sono visitati o da nessun sito.</p>
+    </item>
+  </steps>
+
+  <p>È consigliato accettare cookie solo da siti visitati, poiché permette di accedere ai propri account sulla maggior parte dei siti web, e allo stesso tempo impedisce a siti non visitati di lasciare dei cookie.</p>
+
+  <p>Se si sceglie di accettare i cookie da tutti i siti, allora anche i siti web non visitati saranno in grado di lasciare <em>cookie di terze parti</em>. I cookie di terze parti sono spesso usati da siti pubblicitari e social network per tracciare l'attività degli utenti attraverso Internet e offrire un contenuto mirato. Alcuni siti, come Outlook.com, usano cookie di terze parti per controllare se si ha effettuato l'accesso.</p>
+
+  <p>Se non si accetta nessun cookie, potranno verificarsi dei problemi nel visitare i siti come l'impossibilità di accedere ai propri account, di salvare le proprie preferenze o non poter aggiungere oggetti al carrello della spesa.</p>
+
+</page>

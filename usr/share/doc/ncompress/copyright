@@ -1,0 +1,23 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ncompress
+Upstream-Contact: Mike Frysinger <vapier@gmail.com>
+Source: https://github.com/vapier/ncompress
+
+Files: *
+Copyright: Public Domain
+License: public-domain
+ Placed in the public domain by Spencer W. Thomas and James A. Woods.  Other
+ authors include: Jim McKie, Steve Davies, Ken Turkowski, Joe Orost, Dave Mack,
+ and Peter Jannesen, as well as the current maintainer Mike Frysinger.
+
+Files: debian/*
+Copyright: 1996-1997 Christoph Lameter <clameter@debian.org>
+           1997 Helmut Geyer <Helmut.Geyer@iwr.uni-heidelberg.de>      
+           1998 Adam Klein <aklein@debian.org>
+           2001 Colin Watson <cjwatson@debian.org>
+           2003-2004,2006-2007,2009-2010,2015 Kenneth J. Pronovici <pronovic@debian.org>
+License: public-domain
+ Copying and distribution of these files, with or without modification, is
+ permitted in any medium without royalty provided the copyright notice and
+ this notice are preserved.
+

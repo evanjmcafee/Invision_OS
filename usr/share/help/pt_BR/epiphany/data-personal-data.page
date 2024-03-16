@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-personal-data" xml:lang="epiphany-pt-BR">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Michael Catanzaro</name>
+      <email its:translate="no">mcatanzaro@gnome.org</email>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Como faço para excluir os dados pessoais armazenados por sites?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Enrico Nicoletto</mal:name>
+      <mal:email>liverig@gmail.com</mal:email>
+      <mal:years>2013,</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Fontenelle</mal:name>
+      <mal:email>rafaelff@gnome.org</mal:email>
+      <mal:years>2017-2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Ronaldo Lobato</mal:name>
+      <mal:email>vieira.lobato@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Excluindo dados pessoais</title>
+
+  <p>O <app>Web</app> permite que você exclua seus dados pessoais armazenados por sites.</p>
+
+  <p><link xref="data-personal-data">Aprenda como excluir cookies do navegador.</link></p>
+
+  <p>Para excluir outros dados pessoais:</p>
+
+  <steps>
+    <item>
+      <p>Pressione o botão de menu no canto superior direito da janela e selecione <guiseq><gui style="menuitem">Preferências</gui><gui style="tab">Privacidade</gui><gui style="button">Limpar dados pessoais</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Selecione os tipos de dados armazenados que você deseja excluir e, opcionalmente, limitar a ação de exclusão para os domínios selecionados.</p>
+    </item>
+    <item>
+      <p>Pressione <gui style="button">Limpar dados</gui>.</p>
+    </item>
+  </steps>
+</page>

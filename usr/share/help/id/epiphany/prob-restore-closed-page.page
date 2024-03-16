@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="prob-restore-closed-page" xml:lang="epiphany-id">
+
+  <info>
+    <link type="guide" xref="index#prob"/>
+    <revision pkgversion="3.12" date="2014-02-24" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email its:translate="no">baptistem@gnome.org</email>
+      <years>2014</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Saya ingin membuka kembali laman web yang ditutup karena kesalahan.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kukuh Syafaat</mal:name>
+      <mal:email>syafaatkukuh@gmail.com</mal:email>
+      <mal:years>2019.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Andika Triwidada</mal:name>
+      <mal:email>andika@gmail.com</mal:email>
+      <mal:years>2020.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Bagaimana saya bisa mengembalikan tab?</title>
+
+  <p>Anda dapat mengembalikan laman Anda yang tertutup selama setidaknya satu <app>Web</app> masih terbuka.</p>
+
+  <steps>
+    <item>
+      <p>Tekan tombol menu di sudut kanan atas jendela dan pilih <gui style="menuitem">Buka Kembali Tab Tertutup</gui>. Tab tertutup terakhir Anda akan dibuka kembali.</p>
+    </item>
+  </steps>
+
+  <p>Ulangi langkah ini sebanyak yang Anda butuhkan sampai tab yang Anda ingin pulihkan kembali. Tab akan dipulihkan dalam urutan terbalik sebagaimana Anda menutup mereka. Setelah tab Anda dipulihkan, Anda tidak akan dapat mengembalikan setiap tab lagi.</p>
+
+  <note style="important">
+    <p>Hal ini tidak mungkin untuk mengembalikan tab yang tertutup pada moda <link xref="browse-private">ramban privat</link>.</p>
+  </note>
+
+</page>

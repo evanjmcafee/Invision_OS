@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-webapps" xml:lang="epiphany-da">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <link type="seealso" xref="browse-web"/>
+    <revision pkgversion="3.10" date="2013-07-05" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Hvad er et <em>webprogram</em> og hvordan bruger jeg det?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Opret et webprogram</title>
+
+  <p>Du kan gemme websider som et <em>webprogram</em>. Det tilføjer et link til siden i <link href="help:gnome-help/shell-introduction#activities">Aktivitetsoversigten</link>. Når du åbner et webprogram, så vises det i et specielt vindue uden adresselinje og menuer.</p>
+
+  <steps>
+    <item>
+      <p>Åbn den webside, du vil gemme.</p>
+    </item>
+    <item>
+      <p>Tryk på menuknappen øverst til højre i vinduet og vælg <gui style="menuitem">Installér sted som webprogram …</gui>.</p>
+    </item>
+    <item>
+      <p>Navngiv dit webprogram og tryk på <gui style="button">Opret</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Du kan nu starte webprogrammet fra Aktiviteter-overblikket. Søg efter dit program ved at begynde at skrive navnet, hvorefter det dukker op blandt de andre søgeresultater.</p>
+
+  <note style="important">
+    <p>Det er ikke muligt at oprette webprogrammer, hvis du bruger Flatpak til at køre <app>Web</app>.</p>
+  </note>
+
+</page>

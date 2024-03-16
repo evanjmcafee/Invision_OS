@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-downloads" xml:lang="epiphany-uk">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="review"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="candidate"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Єкатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Де зберігаються отримані файли і як можна змінити типову теку для цих файлів?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Юрій Чорноіван</mal:name>
+      <mal:email>yurchor@ukr.net</mal:email>
+      <mal:years>2020</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Отримання файлів</title>
+
+  <p>Файли, які ви отримуватимете з інтернету, зокрема долучення до повідомлень електронної пошти, автоматично зберігатимуться до теки <file>Завантаження</file>. Змінити цю теку можна за допомогою <gui>Параметрів</gui>.</p>
+
+  <steps>
+    <item>
+      <p>Натисніть кнопку меню у верхньому правому куті вікна і виберіть <guiseq><gui style="menuitem">Параметри</gui><gui style="tab">Загальне</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Натисніть пункт <gui>Тека завантаження</gui>, щоб вибрати іншу теку для отримання даних. Якщо теки, якою ви хочете скористатися, немає у списку, виберіть пункт <gui>Інше…</gui>, щоб вказати нову теку.</p>
+    </item>
+    <item>
+      <p>Якщо ви хочете вибирати теку для даних кожного разу, коли отримуєте файл, увімкніть пункт <gui>Питати при отриманні</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Якщо ви хочете <em>зберігати</em> файл замість отримання, вам все одно доведеться вказати, де ви хочете зберегти файл.</p>
+
+  <note style="important">
+    <p>Ви не зможете вибрати, де зберігати файл, якщо ви використали Flatpak для встановлення <app>Тенет</app>. Отримані файли завжди зберігатимуться у вашій теці <file>Завантаження</file>.</p>
+  </note>
+
+</page>

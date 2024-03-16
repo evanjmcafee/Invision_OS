@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="introduction" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Un'introduzione a <app>Web</app>, un browser web per GNOME con la privacy incorporata.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Introduzione</title>
+
+  <p><app>Web</app> offre un modo semplice e pulito per la navigazione di Internet. Può mostrare pagine con la stessa velocità e accuratezza di altri browser famosi.</p>
+
+  <p><app>Web</app> è l'applicazione nota precedentemente come <app>Epiphany</app>.</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-plain-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Schermata intera di Web con la pagina wiki di Web aperta nella prima scheda, e il sito Internet di GNOME nella seconda.</p>
+  </media>
+</page>

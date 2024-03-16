@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-personal-data" xml:lang="epiphany-uk">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Michael Catanzaro</name>
+      <email its:translate="no">mcatanzaro@gnome.org</email>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Як вилучити особисті дані, які зберігаються для вебсайтів?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Юрій Чорноіван</mal:name>
+      <mal:email>yurchor@ukr.net</mal:email>
+      <mal:years>2020</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Вилучення особистих даних</title>
+
+  <p>У <app>Тенетах</app> передбачено можливість вилучення особистих даних, які зберігаються для вебсайтів.</p>
+
+  <p><link xref="data-personal-data">Дізнайтеся про те, як вилучити куки.</link></p>
+
+  <p>Щоб вилучити інші особисті дані, виконайте такі дії:</p>
+
+  <steps>
+    <item>
+      <p>Натисніть кнопку меню у верхньому правому куті вікна і виберіть <guiseq><gui style="menuitem">Параметри</gui><gui style="tab">Конфіденційність</gui><gui style="button">Вилучити особисті дані</gui></guiseq></p>
+    </item>
+    <item>
+      <p>Позначте пункти типів збережених даних, які ви хочете вилучити, та, якщо хочете, обмежте дію з вилучення вибраними доменами.</p>
+    </item>
+    <item>
+      <p>Натисніть кнопку <gui style="button">Очистити дані</gui>.</p>
+    </item>
+  </steps>
+</page>

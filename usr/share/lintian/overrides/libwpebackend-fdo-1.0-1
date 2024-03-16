@@ -1,0 +1,2 @@
+libwpebackend-fdo-1.0-1: lacks-unversioned-link-to-shared-library example: usr/lib/*/libWPEBackend-fdo-1.0.so [usr/lib/*/libWPEBackend-fdo-1.0.so.1.*]
+libwpebackend-fdo-1.0-1: link-to-shared-library-in-wrong-package usr/lib/*/libWPEBackend-fdo-1.0.so.1.* [usr/lib/*/libWPEBackend-fdo-1.0.so]

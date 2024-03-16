@@ -1,0 +1,5 @@
+# These files are the output of two different test scripts
+duplicate-files usr/share/doc/libtext-xslate-perl/examples/i18n-data-localize.pl.gold usr/share/doc/libtext-xslate-perl/examples/i18n.pl.gold
+# Distribution contains an executable that can be used to translate a directory of templates
+library-package-name-for-application usr/bin/xslate
+application-in-library-section perl usr/bin/xslate

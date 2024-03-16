@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-webapps" xml:lang="epiphany-ru">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <link type="seealso" xref="browse-web"/>
+    <revision pkgversion="3.10" date="2013-07-05" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Екатерина Герасимова (Ekaterina Gerasimova)</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Что такое <em>веб-приложение</em> и как его использовать?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Stas Solovey</mal:name>
+      <mal:email>whats_up@tut.by</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alexey Rubtsov</mal:name>
+      <mal:email>rushills@gmail.com</mal:email>
+      <mal:years>2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Создание веб-приложения</title>
+
+  <p>Вы можете сохранить веб-страницы как <em>веб-приложение</em>. Это добавит ссылку на страницу в <link href="help:gnome-help/shell-introduction#activities">Обзор</link>. Когда вы открываете веб-приложение, оно отображается в специальном окне без адресной строки и меню.</p>
+
+  <steps>
+    <item>
+      <p>Откройте веб-страницу, которую вы хотите сохранить.</p>
+    </item>
+    <item>
+      <p>Откройте меню в правом верхнем углу окна, затем выберите <gui style="menuitem">Установить сайт как веб-приложение…</gui>.</p>
+    </item>
+    <item>
+      <p>Назовите свое веб-приложение, а затем нажмите кнопку <gui style="button">Создать</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Теперь вы можете запустить веб-приложение из Обзора. Чтобы найти свое приложение, начните вводить его название, и оно будет показано вместе с другими результатами поиска.</p>
+
+  <note style="important">
+    <p>Невозможно создать Веб-приложения, если вы используете Flatpak для запуска <app>Веб-браузер</app>а.</p>
+  </note>
+
+</page>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-webapps" xml:lang="epiphany-id">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <link type="seealso" xref="browse-web"/>
+    <revision pkgversion="3.10" date="2013-07-05" status="review"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="review"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Apa itu <em>Aplikasi Web</em> dan bagaimana cara menggunakannya?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kukuh Syafaat</mal:name>
+      <mal:email>syafaatkukuh@gmail.com</mal:email>
+      <mal:years>2019.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Andika Triwidada</mal:name>
+      <mal:email>andika@gmail.com</mal:email>
+      <mal:years>2020.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Membuat Aplikasi Web</title>
+
+  <p>Anda dapat menyimpan laman web sebagai <em>Aplikasi Web</em>. Hal ini akan menambahkan tautan ke laman pada <link href="help:gnome-help/shell-introduction#activities">Aktivitas</link>. Ketika Anda membuka aplikasi Web, yang terlihat adalah jenis khusus dari jendela tanpa bilah alamat atau menu.</p>
+
+  <steps>
+    <item>
+      <p>Buka laman web yang ingin Anda simpan.</p>
+    </item>
+    <item>
+      <p>Tekan tombol menu di sudut kanan atas jendela dan pilih <gui style="menuitem">Pasang Situs sebagai Aplikasi Web…</gui>.</p>
+    </item>
+    <item>
+      <p>Beri nama Aplikasi Web Anda, lalu tekan <gui style="button">Buat</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Anda sekarang dapat meluncurkan Aplikasi Web dari Aktivitas. Untuk mencari aplikasi Anda, ketik nama dan kemudian akan ditampilkan dengan hasil pencarian lainnya.</p>
+
+  <note style="important">
+    <p>Tidak dimungkinkan untuk membuat Aplikasi Web jika Anda menggunakan Flatpak untuk menjalankan <app>Web</app>.</p>
+  </note>
+
+</page>

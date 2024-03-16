@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="browse-private" xml:lang="epiphany-ko">
+
+  <info>
+    <link type="guide" xref="index#adv"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+<!--    <credit type="copyright editor">
+      <name></name>
+      <email its:translate="no"></email>
+      <years></years>
+    </credit>-->
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc><em>익명</em>모드란 무엇입니까?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>ChangSeok Oh</mal:name>
+      <mal:email>changseok@gnome.org</mal:email>
+      <mal:years>2015, 2016, 2017, 2018, 2019, 2020, 2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Gyuseok Jung</mal:name>
+      <mal:email>jgyuseok@gmail.com</mal:email>
+      <mal:years>2015</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>개인정보 보호 브라우징</title>
+
+  <p>개인정보 보호 브라우징은 당신의 컴퓨터와 웹 사이트가 당신의 브라우징 정보에 접근하는 방법을 제한하는 모드입니다. 이는 당신이 친구에게 당신의 컴퓨터를 빌려주길 원할 때, 예를 들어, 웹메일을 통해 그 친구의 전자 메일을 확인할 때 유용합니다. 왜냐하면 개인정보 보호 브라우징 창 내에서는 어느 웹 사이트에 대해서든 기록을 남기지도, 정보를 저장하지도 않을 것이기 때문입니다. 당신은 아마 인터넷 뱅킹과 <link href="http://questionablecontent.net/">questionable content</link> 같은 민감한 웹페이지에 접근하는데 익명 모드 사용을 선호할 지도 모르겠습니다. 왜냐하면 익명 모드 내에서는 해당 웹사이트가 당신의 컴퓨터에 이전에 저장한 데이터조차 접근할 수 없을 것이기 때문입니다.</p>
+
+  <note style="important">
+    <p>익명 모드는 웹사이트가 당신의 브라우징 활동 내역을 추적하는 것을 막지 않습니다. 만약 익명으로 웹을 탐색하려면, 상용 VPN 서비스를 사용해야 합니다.</p>
+  </note>
+
+  <steps>
+    <title/>
+    <item>
+      <p>창의 오른쪽 상단 모서리에 있는 메뉴 단추를 누르고 <guiseq><gui style="menuitem">새 익명 창</gui></guiseq>을 선택하세요.</p>
+    </item>
+    <item>
+      <p>익명 모드를 사용해서 웹을 탐색하세요.</p>
+    </item>
+    <item>
+      <p>익명 창 닫기로 개인정보 보호 브라우징 세션을 끝냅니다.</p>
+    </item>
+  </steps>
+
+  <p>익명 창의 워터마크로 일반 브라우징과 개인정보 보호 브라우징을 구별할 수 있습니다:</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-private-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>열린 탭이 없는 개인정보 보호 창을 보여주는 스크린샷.</p>
+  </media>
+
+</page>

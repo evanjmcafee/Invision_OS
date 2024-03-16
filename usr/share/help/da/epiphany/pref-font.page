@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-font" xml:lang="epiphany-da">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Brug en tilpasset skrifttype til at vise websider.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Ændr skrifttypen</title>
+
+  <p>Som standard bruges systemets skrifttype til at vise websider, når det er muligt. Hvis du bruger tilgængelighedsindstilligen <gui href="help:gnome-help/a11y-font-size">Stor tekst</gui>, så tages der højde for det. Du kan ændre det og bruge forskellige skrifttyper til at vise websteder.</p>
+
+  <steps>
+    <item>
+      <p>Tryk på menuknappen i øverste højre hjørne af vinduet og vælg <guiseq><gui style="menuitem">Indstillinger</gui><gui style="tab">Udseende</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Tænd for <gui>Benyt systemskrifttyper</gui>.</p>
+    </item>
+    <item>
+      <p>Klik på skrifttypen for at åbne skrifttypevælgerdialogen, hvor du kan vælge en anden skrifttype eller -størrelse.</p>
+    </item>
+    <item>
+      <p>Tryk på <gui style="button">Vælg</gui> for at gemme dine valg.</p>
+    </item>
+  </steps>
+
+  <p>Du kan også gøre skriftstørrelsen større med <keyseq><key>Ctrl</key><key>+</key></keyseq> og mindre med <keyseq><key>Ctrl</key><key>-</key></keyseq>.</p>
+
+</page>

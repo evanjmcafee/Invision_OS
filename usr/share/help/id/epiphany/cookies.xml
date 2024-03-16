@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="cookies" xml:lang="epiphany-id">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <link type="guide" xref="data"/>
+    <revision pkgversion="3.10" date="2013-07-02" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kukuh Syafaat</mal:name>
+      <mal:email>syafaatkukuh@gmail.com</mal:email>
+      <mal:years>2019.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Andika Triwidada</mal:name>
+      <mal:email>andika@gmail.com</mal:email>
+      <mal:years>2020.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Apa itu cookie?</title>
+
+  <p><em>Cookie</em> peramban adalah bagian kecil dari data yang dikirim dari sebuah situs web dan disimpan di komputer Anda saat Anda meramban situs web tersebut. Ketika Anda kembali ke situs yang sama pada masa mendatang, data yang disimpan dalam cookie dapat diambil oleh situs web untuk memberitahu situs web tentang aktivitas sebelumnya. Cookie adalah metode yang umum digunakan oleh server web untuk mengetahui apakah Anda masuk ke akun pada situs web tertentu atau tidak.</p>
+
+</page>

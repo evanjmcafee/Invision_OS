@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-personal-data" xml:lang="epiphany-hu">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Michael Catanzaro</name>
+      <email its:translate="no">mcatanzaro@gnome.org</email>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Hogyan törölhetem a weboldalak által tárolt személyes adatokat?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Hammer Attila</mal:name>
+      <mal:email>hammera at pickup dot hu</mal:email>
+      <mal:years>2014.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Kelemen Gábor</mal:name>
+      <mal:email>kelemeng at gnome dot hu</mal:email>
+      <mal:years>2013, 2015.</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Úr Balázs</mal:name>
+      <mal:email>ur dot balazs at fsf dot hu</mal:email>
+      <mal:years>2014, 2021.</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Személyes adatok törlése</title>
+
+  <p>A <app>Web</app> lehetővé teszi a weboldalak által tárolt személyes adatok törlését.</p>
+
+  <p><link xref="data-personal-data">Tudja meg, hogyan törölheti a böngésző sütijeit.</link></p>
+
+  <p>Egyéb személyes adatok törléséhez:</p>
+
+  <steps>
+    <item>
+      <p>Nyomja meg az ablak jobb felső sarkában lévő menügombot, és válassza a <guiseq><gui style="menuitem">Beállítások</gui><gui style="tab">Adatvédelem</gui><gui style="button">Személyes adatok törlése</gui></guiseq> gombot.</p>
+    </item>
+    <item>
+      <p>Válassza ki a törölni kívánt tárolt adatok típusait, és esetlegesen korlátozza a törlési műveletet a kiválasztott tartományokra.</p>
+    </item>
+    <item>
+      <p>Nyomja meg az <gui style="button">Adatok törlése</gui> gombot.</p>
+    </item>
+  </steps>
+</page>

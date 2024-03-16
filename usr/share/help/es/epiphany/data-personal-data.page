@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="data-personal-data" xml:lang="epiphany-es">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Michael Catanzaro</name>
+      <email its:translate="no">mcatanzaro@gnome.org</email>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>¿Cómo eliminar los datos personales o actualizar las contraseñas guardadas?</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Mustieles</mal:name>
+      <mal:email>daniel.mustieles@gmail.com</mal:email>
+      <mal:years>2013-2020</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>María Majadas</mal:name>
+      <mal:email>alixis82@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Eliminar datos personales</title>
+
+  <p><app>Web</app> le permite eliminar los datos personales almacenados por los sitios web.</p>
+
+  <p><link xref="data-personal-data">Aprender cómo eliminar las cookies del navegador.</link></p>
+
+  <p>Para eliminar otros datos personales:</p>
+
+  <steps>
+    <item>
+      <p>Pulse el botón de menú en la esquina superior derecha de la ventana y seleccione <guiseq><gui style="menuitem">Preferencias</gui> <gui style="tab">Privacidad</gui> <gui style="button">Limpiar datos personales</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Seleccione los tipos de datos guardados que quiere eliminar y opcionalmente limite la acción de eliminar a los dominios seleccionados.</p>
+    </item>
+    <item>
+      <p>Pulse <gui style="button">Limpiar datos</gui>.</p>
+    </item>
+  </steps>
+</page>

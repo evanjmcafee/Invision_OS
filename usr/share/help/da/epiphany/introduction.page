@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="introduction" xml:lang="epiphany-da">
+
+  <info>
+    <link type="guide" xref="index"/>
+    <revision pkgversion="3.10" date="2013-06-30" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>En introduktion til <app>Web</app>, en webbrowser til GNOME med indbygget privatliv.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>scootergrisen</mal:name>
+      <mal:email/>
+      <mal:years>2020-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Introduktion</title>
+
+  <p><app>Web</app> byder på en simpel og ren måde til at gennemse internettet. Den viser sider med den samme hastighed og præcision som andre populære browsere.</p>
+
+  <p><app>Web</app> er programmet som tidligere hed <app>Epiphany</app>.</p>
+
+  <media type="image" mime="image/png" src="media/epiphany-plain-3-36.png">
+    <!--This is the alt text, as read out by screen readers and if the image is
+    missing. It also describes how to re-create the image.-->
+    <p>Fuldskærmsskærmbillede af Web med Web-wikisiden åben i det første faneblad og GNOME-webstedet åbent i det andet faneblad.</p>
+  </media>
+</page>

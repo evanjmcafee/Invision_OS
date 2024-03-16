@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="cert" xml:lang="epiphany-it">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <revision pkgversion="3.15" date="2015-01-28" status="draft"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2015</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Gestione dei certificati in <app>Web</app>.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Davide Ferracin</mal:name>
+      <mal:email>davide.ferracin@protonmail.com</mal:email>
+      <mal:years>2022</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Certificati</title>
+
+  <p><app>Web</app> non include al momento il supporto per la gestione dei certificati.</p>
+
+  <note style="advanced">
+    <p>È possibile aggiungere certificati attraverso la riga di comando se p11-kit è installato. Per aggiungere un certificato, è necessario scaricarlo e in seguito eseguire il seguente comando per importarlo:</p>
+    <screen><output>$ </output><input>sudo trust anchor <var>/home/utente/Scaricati/certificato.crt</var></input></screen>
+    <p>Purtroppo ciò non funziona su sistemi basati su Debian, come Ubuntu.</p>
+  </note>
+
+</page>

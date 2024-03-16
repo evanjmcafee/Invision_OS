@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="cookies" xml:lang="epiphany-fur">
+
+  <info>
+    <link type="guide" xref="index#privacy"/>
+    <link type="guide" xref="data"/>
+    <revision pkgversion="3.10" date="2013-07-02" status="candidate"/>
+
+    <credit type="author copyright">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Fabio Tomat</mal:name>
+      <mal:email>f.t.public@gmail.com</mal:email>
+      <mal:years>2019</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Ce sono i cookie?</title>
+
+  <p>Un <em>cookie</em> di navigadôr al è un piçul tocut di dâts inviâts di un sît web e archiviât sul to computer fintant che si navighe in chel sît. Cuant che plui indenant tu tornis in chê stesse pagjine web, il dât archiviât intal cookie al pues jessi recuperât dal sît web par notificâ al sît la tô ativitât precedente. I cookie a son un metodi comun doprât dai servidôrs web par savê se tu sês jentrât intun account suntun specific sît web o mancul.</p>
+
+</page>

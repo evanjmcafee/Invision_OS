@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-font" xml:lang="epiphany-cs">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.10" date="2013-07-06" status="candidate"/>
+    <revision pkgversion="3.12" date="2014-01-28" status="final"/>
+    <revision pkgversion="3.33" date="2019-04-08" status="final"/>
+    <revision pkgversion="40.alpha" date="2021-01-12" status="final"/>
+
+    <credit type="author copyright">
+      <name>Gordon Hill</name>
+      <email its:translate="no">caseyweederman@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+      <years>2013</years>
+    </credit>
+    <credit type="copyright editor">
+      <name>Federico Bruni</name>
+      <email its:translate="no">fede@inventati.org</email>
+      <years>2021</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Jak zobrazovat stránky s použitím vlastních fontů.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Adam Matoušek</mal:name>
+      <mal:email>adamatousek@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marek Černocký</mal:name>
+      <mal:email>marek@manet.cz</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Změna fontu</title>
+
+  <p>Ve výchozím nastavení jsou stránky zobrazovány, pokud možno, systémovým fontem. Používáte-li volbu zpřístupnění <gui href="help:gnome-help/a11y-font-size">Velký text</gui>, je na to brán ohled. To můžete změnit a pro zobrazení stránek používat jiné fonty.</p>
+
+  <steps>
+    <item>
+      <p>Zmáčkněte tlačítko nabídky v pravém horním rohu okna a poté zvolte <guiseq><gui style="menuitem">Předvolby</gui><gui style="tab">Vzhled</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Zapněte <gui>Používat vlastní fonty</gui>.</p>
+    </item>
+    <item>
+      <p>Klikněte na tlačítko s fontem. V otevřeném dialogovém okně můžete vybrat jiný typ nebo velikost fontu.</p>
+    </item>
+    <item>
+      <p>Pro uložení volby zmáčkněte <gui style="button">Vybrat</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Font můžete také zvětšit pomocí <keyseq><key>Ctrl</key><key>+</key></keyseq> a zmenšit pomocí <keyseq><key>Ctrl</key><key>-</key></keyseq>.</p>
+
+</page>

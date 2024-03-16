@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" style="task" id="pref-mouse-gestures" xml:lang="epiphany-fr">
+
+  <info>
+    <link type="guide" xref="index#pref"/>
+    <revision pkgversion="3.34" date="2019-06-14" status="review"/>
+    <revision pkgversion="3.38" date="2021-03-22" status="review"/>
+
+    <credit type="author copyright">
+      <name>Jan-Michael Brummer</name>
+      <email its:translate="no">jan.brummer@tabos.org</email>
+      <years>2019</years>
+    </credit>
+
+    <include xmlns="http://www.w3.org/2001/XInclude" href="legal.xml"/>
+
+    <desc>Parcourir les pages web à l’aide de la souris.</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>naybnet</mal:name>
+      <mal:email>naybnet@gmail.com</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Julien Hardelin</mal:name>
+      <mal:email>jhardlin@orange.fr</mal:email>
+      <mal:years>2014</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Guillaume Bernard</mal:name>
+      <mal:email>associations@guillaume-bernard.fr</mal:email>
+      <mal:years>2014-2021</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Alain Lojewski</mal:name>
+      <mal:email>allomervan@gmail.com</mal:email>
+      <mal:years>2015</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Charles Monzat</mal:name>
+      <mal:email>charles.monzat@free.fr</mal:email>
+      <mal:years>2019-2021</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Utilisation des mouvements de souris</title>
+
+  <p>Les mouvements de souris offrent une option rapide pour surfer sur les pages web sans utiliser le clavier. Ces gestes sont déclenchés en maintenant enfoncé le bouton du milieu de la souris, tout en effectuant l’un des mouvements de souris mentionnés plus bas. Si votre souris ne possède pas de bouton du milieu, vous ne pouvez pas utiliser les mouvements de souris.</p>
+
+  <steps>
+    <item>
+      <p>Cliquez sur le bouton de menu situé dans le coin supérieur droit de la fenêtre, puis sélectionnez <guiseq><gui style="menuitem">Préférences</gui> <gui style="tab">Général</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Sous <gui>Navigation</gui>, activez <gui style="button">Mouvements de souris</gui>.</p>
+    </item>
+  </steps>
+
+  <p>Voici les actions actuellement prises en charge :</p>
+
+  <list>
+    <item>
+      <p>Naviguer vers l’arrière : maintien du bouton du milieu de la souris, glissement vers la gauche, puis relâchement du bouton du milieu.</p>
+    </item>
+    <item>
+      <p>Naviguer vers l’avant : maintien du bouton du milieu de la souris, glissement vers la droite, puis relâchement du bouton du milieu.</p>
+    </item>
+    <item>
+      <p>Créer un nouvel onglet : maintien du bouton du milieu de la souris, glissement vers le bas, puis relâchement du bouton du milieu.</p>
+    </item>
+    <item>
+      <p>Fermer l’onglet actuel : maintien du bouton du milieu de la souris, glissement vers le bas puis vers la droite, et relâchement du bouton du milieu.</p>
+    </item>
+    <item>
+      <p>Recharger l’onglet actuel : maintien du bouton du milieu de la souris, glissement vers le haut puis vers le bas, et relâchement du bouton du milieu.</p>
+    </item>
+  </list>
+
+</page>
